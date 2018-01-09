@@ -38,7 +38,7 @@ Every action taken by the user will provide a user interface reaction \(colour/a
 
 #### Shadows and Highlights
 
-## Primary
+## Primary Buttons
 
 Primary buttons are meant to identify \_calls-to-actio\_n. Use this buttons for actions that a user is encouraged to take such as **Add a blog post**, **Send message**, or **Login**.
 
@@ -48,7 +48,7 @@ Primary buttons are designed to have high contrast against the background and th
 
 Primary buttons should be located in the most prominent and convienient location possible. These buttons should also be located in close proximity to the form or the elements that are affected by the action. Primary buttons should be placed to the \(right/left?\) of secondary buttons.
 
-## Secondary
+## Secondary Buttons
 
 Secondary buttons are used for actions that are necessary to provide, but that users may click less often. Examples include actions such as **Cancel submission**, **Delete** or **Back to menu**. These buttons have a visual weight that is equal to or less than the majority of elements on the page. The secondary button is usually placed in close proximity to the primary button.
 
@@ -64,7 +64,7 @@ Secondary buttons are usually in close proximity to the primary button, but not 
 
 ## Toggle Buttons
 
-## Floating Buttons
+## Floating Action Buttons
 
 used more often for apps
 
