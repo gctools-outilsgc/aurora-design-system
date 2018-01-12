@@ -5,5 +5,5 @@
 * [Frequently Asked Questions](frequently-asked-questions.md)
 * [Typography](typography.md)
 * [Buttons](buttons.md)
-* [Iconography](iconography.md)
+* [Icons](iconography.md)
 
