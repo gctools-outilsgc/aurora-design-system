@@ -6,4 +6,6 @@
 * [Typography](typography.md)
 * [Buttons](buttons.md)
 * [Icons](iconography.md)
+* [Colour](colour.md)
+* [Additional Resources](additional-resources.md)
 
