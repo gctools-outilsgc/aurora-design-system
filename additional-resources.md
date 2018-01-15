@@ -7,8 +7,6 @@
 * [Web Experience Toolkit: Accessibility Guidelines](http://wet-boew.github.io/wet-boew-styleguide/v4/accessibility/index-en.html#core)
 * [Standard on Web Accesibility](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=23601)
 
-
-
 ### Government of Canada
 
 * [Web Experience Toolkit Style Guide](http://wet-boew.github.io/wet-boew-styleguide/v4/index-en.html)
