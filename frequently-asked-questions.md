@@ -38,6 +38,16 @@ Here are some of the key reasons we are building this design system:
 
 * Ability to stay current with external design and technology trends, especially with rapid change in the industry.
 
+### How is this design system different from current standards such as the Web Experience Toolkit or the Canada.ca style guide? How do they all work together?
+
+The GCTools, as they stand today, were built using the WET framework. In doing a rebuild we wanted to have our own system or style guide that is more specific to our tools, including not just coding templates and components, but also design elements, our key principles, and communications guidelines. Each piece of the design system will also have extensive documentation on best practices and how and when to use each component or element we’ve provided.
+
+This design system isn’t a direct alternative to WET or the Canada.ca Style Guide, but rather, follows the key principles and core concept of these existing style guides – our design system will include more specific information that are relevant to collaboration tools. We hope that as this project moves forward, we can also identify opportunities to work with developers \(such as yourself\) who worked on WET to improve both systems.
+
+We are also working with partners across the GC to build something that is useful to other teams as well as our own. For example, we are working closely with CDS and will see where we can share some work with the UI kit they are developing.
+
+ As we continue developing the design system, we are doing looking at how we will be integrating the different elements of WET and other existing style guides. 
+
 ### How did you build the design system?
 
 The design system was built following the Digital Collaboration Division's existing agile development method. Following our two-week development sprints, we decided to start separate design sprints on the same cycle. Every two weeks we would pick a particular theme \(i.e. typography, forms\) to work on.
