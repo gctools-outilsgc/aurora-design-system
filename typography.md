@@ -1,64 +1,48 @@
 # Typography
 
-## Best Practices
+## Fonts
 
-### Accessibility
+The Digital Collaboration Division uses two font families for all digital products: Rubik and Nunito Sans. Both Rubik and Nunito Sans are Open Source fonts which can be downloaded from Google Fonts for free.
 
-Biggest considerations are size and colour. All text should be scalable. To ensure scalability, use relative units such as the em unit to control the typography — type size, margins and indents, leading — on the page
+Rubik is used mainly for titles and headings, while Nunito Sans is used for sub-headings, buttons and paragraph text.
 
- Most page layout applications set an optimum default leading of 120% of the type size
-
- Avoid large text blocks. Break up long passages into smaller sections with meaningful subheadings.
-
-#### Structural markup
-
-Text formatting done using presentation-style markup instead of style sheets limits users' ability to transform a layout to meet their needs. Some browsers have a feature that allows users to override author-defined style sheets with their own style sheet. This means that users can define a custom style sheet that meets their viewing needs. For example, a low-vision user might define a style sheet that renders all`<P>`text at 24 points, or a colorblind user might set the background to white and the text to black for maximum contrast. But these measures will not work, or will only work partially, on pages that are formatted using presentation markup. If text color is set using`<FONT COLOR>`and headings are set using`<FONT SIZE>`and`<B>`for emphasis, the user-defined style sheet will have nothing to apply itself to \(no paragraph or heading tags\). If you set presentation properties using style sheets, users who _need _to customize the page can do so. http://webstyleguide.com/wsg2/type/access.html
+Unless otherwise indicated, all text types are displayed using **\(colour\)**.
 
 #### Font Choice
 
-Both fonts enhance accessibility and readability. Since sans-serif fonts have a simpler structure, users with reading disabilities or visual impairments are able to easily decipher characters. If you choose to use fonts other than the ones listed here, it is recommended that your digital product use sans-serif rather than serif or script fonts. 
-
-#### **Text-rendering**
-
-Use optimiseLegibility to enable kerning and improve rendering quality. This setting also enables ligatures, which you can disable if necessary by setting .classname { font-feature-settings: "liga" 0; } .
-
-## Fonts
-
-The Digital Collaboration Division uses two font families for all digital products. Both Montserrat and Muli are Open Source fonts which can be downloaded from Google Fonts for free.
-
-Montserrat is used mainly for titles and headings, while Muli is used for sub-headings, buttons and paragraph text.
-
-Unless otherwise indicated, all text types are displayed using pure black.
+Both fonts chosen for this design system enhance accessibility and readability. Since sans-serif fonts have a simpler structure, users with reading disabilities or visual impairments are able to easily decipher characters. If you choose to use fonts other than the ones listed here, it is recommended that your digital product use sans-serif rather than serif or script fonts.
 
 ### About the Typefaces
 
-**Montserrat** was designed by Julieta Ulanovsky and other collaborators. Through this font, Ulanovsky wanted to capture the traditional style found on signs and posters in the Montserrat neighbourhood of Buenos Aires, Argentina. The font was first developed in 2011 as a Kickstarter project and a full set  of weights and italics were developed in 2015. Montserrat works well as both a display font and a paragraph font and has been featured in over 4.3 million websites to date.
+**Rubik **is a sans-serif font designed by Philipp Hubert and Sebastian Fischer for the Chrome Cube Lab project. With 5 different weights, Rubik works well as a paragraph or display font. Rubik is popular internationally and has been used on more than 180,000 websites. 
 
-**Muli** is a minimalist sans-serif web font designed by Vernon Adams. Built primarily as a display font., Muli also works well for body text and has been used in over 500,000 websites. It was developed using an open source liscense and is particularly poplar in the United States.
+**Nunito Sans **is part of Google's _superfamily_ typefaces. It was created by Vernon Adams and improved by Jacques Le Bailly to include a full set of weights. This font is popular all over the world and is used in 50,000 websites. 
 
 ## Titles
 
-Titles appear only on the tops of pages, and indicate high-level navigation points. Titles are displayed using Montserrat Light at 36 points.
+Titles appear only on the tops of pages, and indicate high-level navigation points.
+
+Titles are displayed using Rubik Light at 36 points.
 
 ## Headings
 
-Including titles. there are six different heading types. H1 - H6. The headers use the following typographic styles:
+Including titles. there are six different heading types. The headers use the following typographic styles:
 
-Heading 1 \(Title\): Monteserrat Light at 36 points, with kerning/tracking modifier of -25.
+Heading 1 \(Title\): Rubik Light at 36 points.
 
-Heading 2: Montserrat Light at 24 points.
+Heading 2: Rubik Regular at 21 points, with a tracking modifier of 50 points.
 
-Heading 3: Muli Semi-Bold at 18 points.
+Heading 3: Rubik Medium at 18 points, with a tracking modifier of 50 points.
 
-Heading 4: Muli at 16 points.
+Heading 4: Rubik Regular at 16 points.
 
-Heading 5: Muli Semi-Bold at 11 points. Uppercase text.
+Heading 5: Nunito Sans Regular at 14 points. All caps.
 
-Heading 6: Muli Semi-Bold at 11 points. Sentence case.
+Heading 6: Nunito Sans Bold at 14 points.
 
 ## Paragraph Text
 
-Paragraph text is used for most text content found on the application. Paragraph text is set to Muli Regular at 12 points, with a leading of 21 points. Unless indicating a hyperlink or navigation, paragraph text should not have added emphasis.
+Paragraph text is used for most text content found on the application. Paragraph text is set to Nunito Sans Regular at 14 points, with a leading of 24 points. Unless indicating a hyperlink or navigation, paragraph text should not have added emphasis.
 
 ### Line-Breaking
 
@@ -80,21 +64,21 @@ Source: “Readability: the Optimal Line Length,”
 
 ### Links
 
-Link text is used within paragraphs to indicate hyperlinks and navigation. Links use the typographic style of Muli Regular, bolded at 12 points. It is recommended that the link text be underlined and displayed in a secondary colour used in the application.
+Link text is used within paragraphs to indicate hyperlinks and navigation. Links use **\(font, size, modifiers**\). It is recommended that the link text be underlined and displayed in a secondary colour used in the application.
 
 ### Emphasis
 
-For accessibility purposes, colour cannot be the sole source of emphasis. Be sure to add emphasis to text by making the font bold and increasing contrast as well. 
+For accessibility purposes, colour cannot be the sole source of emphasis. Be sure to add emphasis to text by making the font bold and increasing contrast as well.
 
- typographic formatting such as italics or underlining should be used sparingly and only when they genuinely enhance communication with all readers.
+Typographic formatting such as italics or underlining should be used sparingly and only when they genuinely enhance communication with all readers.
 
 ### Timestamps and Placeholder Text
 
-Timestamps and placeholder text use the same typographic styles. Both use Muli Light at 10 points with a tracking modifier of 50. Timestamps and placeholder text uses a lighter font colour with a hex code of \# 808285
+Timestamps and placeholder text use the same typographic styles. Both use Nunito Sans Regular at 10 points with a tracking modifier of 50 and leading of 21 points. Timestamps and placeholder text uses a lighter font colour with a hex code of \# 808285
 
-### Captions
+### Button Text
 
-### Colour and Contrast
+Button text is displayed as Nunito Sans Bold at 14 points. The colour of this text depends on the button and must provide enough contrast with the colour chosen for each type of button. For colour choice, please see our button section.
 
 
 
