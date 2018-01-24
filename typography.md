@@ -24,29 +24,29 @@ Some systems may not be able to download or display the fonts in this design sys
 
 Titles appear only on the tops of pages, and indicate high-level navigation points.
 
-Titles are displayed using Rubik Light at 36 points, using the colour \#252525 on a light background or \#F8FBFD on a dark background. 
+Titles are displayed using Rubik Light at 36 points, using the colour \#252525 on a light background or \#F8FBFD on a dark background.
 
 ## Headings \(H2-H6\)
 
-There are five different sub-headings.  All sub-headings use the colours: \#5E515A on a light background or  \#F8FBFD on a dark background.  
+There are five different sub-headings.  All sub-headings use the colours: \#252525 on a light background or  \#F8FBFD on a dark background.
 
 The headers use the following typographic styles:
 
 **Heading 2:** Rubik Regular at 21 points, with a tracking modifier of 50 points.
 
-**Heading 3:** Rubik Medium at 18 points, with a tracking modifier of 50 points. 
+**Heading 3:** Rubik Medium at 18 points, with a tracking modifier of 50 points.
 
 **Heading 4**: Rubik Regular at 16 points.
 
-**Heading 5: **Nunito Sans Regular at 14 points. Letters are in all caps. 
+**Heading 5: **Nunito Sans Regular at 14 points. Letters are in all caps.
 
-**Heading 6:** Nunito Sans Bold at 14 points. 
+**Heading 6:** Nunito Sans Bold at 14 points.
 
 ## Paragraph Text
 
 Paragraph text is used for most text content found on the application. Paragraph text is set to Nunito Sans Regular at 14 points, with a leading of 24 points. Unless indicating a hyperlink or navigation, paragraph text should not have added emphasis.
 
-Paragraph text uses the colours \#252525 on a light background, or \#F8FBFD on a dark background. 
+Paragraph text uses the colours \#252525 on a light background, or \#F8FBFD on a dark background.
 
 _**\(more info about paragraph spacing\)**_
 
@@ -64,8 +64,6 @@ The DCD design system, is consistent with the following best practices for line-
 
 The ideal length for body text is around 40-60 characters. If line length is too short or too long, it has a negative impact on readability. Our design system follows these guidelines and aims for approximately 60 characters per line.
 
-
-
 ## Block Quotes
 
 _**\(insert information about block quotes here\)**_
@@ -76,9 +74,9 @@ _**\(insert information about lists here\)**_
 
 ## Hyperlinks
 
-Link text is used within paragraphs to indicate hyperlinks and navigation. Hyperlinks use Nunitio Sans Regular at 14 points with a leading of 24 points. 
+Link text is used within paragraphs to indicate hyperlinks and navigation. Hyperlinks use Nunitio Sans Regular at 14 points with a leading of 24 points.
 
-It is recommended that the link text be underlined and displayed in a secondary colour used in the application. It is also recommended that hyperlinks do not exceed one line in length, and is applied to 2-4 key words as rather than a full sentence or line. 
+It is recommended that the link text be underlined and displayed in a secondary colour used in the application. It is also recommended that hyperlinks do not exceed one line in length, and is applied to 2-4 key words as rather than a full sentence or line.
 
 ## Emphasis
 
@@ -88,7 +86,7 @@ Typographic formatting such as italics or underlining should be used sparingly a
 
 ## Timestamps and Placeholder Text
 
-Timestamps and placeholder text use the same typographic styles. Both use Nunito Sans Regular at 10 points with a tracking modifier of 50 and leading of 21 points. Timestamps and placeholder text uses the colours \#5E515A on a light background or  \#F8FBFD on a dark background.  
+Timestamps and placeholder text use the same typographic styles. Both use Nunito Sans Regular at 10 points with a tracking modifier of 50 and leading of 21 points. Timestamps and placeholder text uses the colours \#5E515A on a light background or  \#F8FBFD on a dark background.
 
 ## Button Text
 
