@@ -10,7 +10,11 @@ Unless otherwise indicated, all text types are displayed using **\(colour\)**.
 
 ### Font Choice
 
-Both fonts chosen for this design system enhance accessibility and readability. Since sans-serif fonts have a simpler structure, users with reading disabilities or visual impairments are able to easily decipher characters. If you choose to use fonts other than the ones listed here, it is recommended that your digital product use sans-serif rather than serif or script fonts.
+Both fonts chosen for this design system enhance accessibility and readability. Since sans-serif fonts have a simpler structure, users with reading disabilities or visual impairments are able to easily decipher characters.
+
+ If you choose to use fonts other than the ones listed here, it is recommended that your digital product use sans-serif rather than serif or script fonts.
+
+Some systems may not be able to download or display the fonts in this design system. This may be for a variety of reasons, including firewall restrictions, accessibility settings, etc. In this case, your application should be set to use the browser's default font. 
 
 ### About the Typefaces
 
