@@ -2,7 +2,7 @@
 
 ### What is a design system?
 
-A design system is a catalogue of everything that makes up your digital product including user interface elements, writing style, guiding principles, coding standards, visual design etc. The system provides information about your product or set of products, and reusable components for easy development.
+A design system is a catalogue of everything that makes up your digital product including user interface elements, writing style, guiding principles, coding standards, visual design, etc. The system provides information about your product or set of products, and reusable components for easy development.
 
 Building a design system is a collaborative effort, and requires expertise across all fields of web and application design. A design system takes into account all aspects of the product and encompasses all levels of the user’s and the creator’s experience.
 
