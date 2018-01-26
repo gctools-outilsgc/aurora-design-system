@@ -63,7 +63,7 @@ _**\(include example\)**_
 
 ## Dark Theme
 
-\(needs information here\) 
+\(needs information here\)
 
 **Hex codes:**
 
@@ -74,7 +74,9 @@ _**\(include example\)**_
 
 ## System Alerts and Messaging
 
-This design system uses the same alerts and messaging colours as described in the Web Experience Toolkit.:
+This design system uses the same alerts and messaging colours as described in the Web Experience Toolkit:
+
+Please refer to the [alerts section](http://wet-boew.github.io/wet-boew-styleguide/v4/design/alerts-en.html) and the [colour section](http://wet-boew.github.io/wet-boew-styleguide/v4/design/colour-en.html) for more information. 
 
 **Info hex codes:**
 
