@@ -6,13 +6,13 @@ _**\(to move to research section once complete\)**_
 
 ### Accessibility
 
-we should not look at individual colors and ask if they are ‘visible’, but rather look at groupings of colors, and see if they are distinguishable.
+Proper colour choice is necessary in order for your digital product to be accessible for people with visual impairments. Individual colours need to be visible \(well contrasted with their background\) for people with contrast sensitivity. Groupings of colours need to be distinguishable from each other for people with colour blindness. 
 
 ## The Colour Palettes
 
-This color palette comprises primary and accent colours that can be used for illustration or to develop your brand colours. They’ve been designed to work harmoniously with each other. The colour palette starts with primary colours and fills in the spectrum to create a complete and usable palette.
+This color palette is comprised of primary and accent colours that can be used for illustration, or to develop your brand colours. They’ve been designed to work harmoniously with each other. The colour palette starts with primary colours, and fills in the spectrum to create a complete and usable palette.
 
-Themes enable consistent application styling through surface shades, shadow depth, and ink opacity.
+Themes enable consistent application styling through surface shades, shadow depth and ink opacity.
 
 ### Sample Colour Palettes
 
@@ -22,7 +22,7 @@ Themes enable consistent application styling through surface shades, shadow dept
 
 ### Black Text
 
-Text in this design system is displayed using off-black. Black text can be used on any light background \(see: Light Theme\) or any button or element that uses a light colour. When adding text to any background that is not black, it is essential to check the contrast for accessibility. Significant contrast between the background/element colour and the text ensures readability, even for those with visual impairments such as colour blindness.
+Text in this design system is displayed in an off-black colour. Black text can be used on any light background \(see: Light Theme\), or any button or element that uses a light colour. When adding text to any background that is not black it is essential to check the contrast for accessibility. Significant contrast between the background/element colour and the text ensures readability, even for those with visual impairments such as colour blindness.
 
 Please see our typography section for more information about using text colour.
 
@@ -32,7 +32,7 @@ Please see our typography section for more information about using text colour.
 
 ### White Text
 
-Light text in this design system is displayed using an off-white colour. White text can be used on any dark background \(see: Dark Theme\) or any button or element that uses a dark or light colour. When adding white text, it is essential to check the contrast for accessibility. Significant contrast between the background/element colour and the text ensures readability, even for those with visual impairments such as colour blindness.
+Light text in this design system is displayed in an off-white colour. White text can be used on any dark background \(see: Dark Theme\) or any button or element that uses a dark or light colour. When adding white text it is essential to check the contrast for accessibility. Significant contrast between the background/element colour and the text ensures readability, even for those with visual impairments such as colour blindness.
 
 Please see our typography section for more information about using text colour.
 
