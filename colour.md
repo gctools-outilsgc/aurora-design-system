@@ -8,33 +8,65 @@ Themes enable consistent application styling through surface shades, shadow dept
 
 ### Colours Used in This System
 
-Elements in this system use a simple and neutral colour palette that works well across multiple applications with various branding. Colours in this system are divided into three categories: primary, secondary and accent. 
+Elements in this system use a simple and neutral colour palette that works well across multiple applications with various branding. Colours in this system are divided into three categories: primary, secondary and accent.
 
-Throughout the design system, documentation about elements will specify which colour is used. 
+Throughout the design system, documentation about elements will specify which colour is used.
 
 The palette used in this system is titled: **\(name here**\) and uses the following hex codes:
 
-Primary: 
+Primary:
 
 Secondary:
 
 Secondary:
 
-Accent: 
+Accent:
 
 ### Sample Palettes
 
-Below are some sample palettes you may wish to use for your application or website. Each palette includes a primary colour, two secondary colours and an accent colour. All palettes use fully accessible contrast ratios.
+Below are some sample palettes you may wish to use for your application or website. Each palette includes a primary colour, secondary colours and an accent colour. All palettes use fully accessible contrast ratios.
 
-Palette 1: 
+**Blue Complimentary**
+
+Primary: 0D467D
+
+Secondary: 0BA7B4, 6DD2DA
+
+Accent: FEC04F, FF9F40
+
+**Aurora Borealis**
+
+Primary: 000A3D, 467B8D
+
+Secondary: 43BDBC, 55C0A3
+
+Accent: ADE18D
+
+**Green and Blue**
+
+Primary: 0278A4, 83C3F2
+
+Secondary: 7B9F3F, C9DF61
+
+Accent: 4E4741
+
+**Triad**
+
+Primary: 024571, 2CADAD
+
+Secondary: F6CF22, EDDB7C
+
+Accent: 7E0C33
+
+
 
 ### Applying Your Own Palettes
 
-When creating your application or website you can apply your own colour palettes to various elements. When putting together your own colour combinations, it is recommended that you choose at least one primary colour, two or three secondary colours \(that are similar\) and an accent colour. 
+When creating your application or website you can apply your own colour palettes to various elements. When putting together your own colour combinations, it is recommended that you choose at least one primary colour, two or three secondary colours \(that are similar\) and an accent colour.
 
-For Government of Canada applications, it is required that all colours meet the WCAG AA accessibility level. You can use [online contrast checker](https://webaim.org/resources/contrastchecker/)s to ensure that the colours you choose meet accessibility standards when combined with text. 
+For Government of Canada applications, it is required that all colours meet the WCAG AA accessibility level. You can use [online contrast checker](https://webaim.org/resources/contrastchecker/)s to ensure that the colours you choose meet accessibility standards when combined with text.
 
-Once chosen, you can apply your own colours simply by modifying the hex codes in your CSS for various elements. For each component in this design system, we identify whether we used a primary, secondary or accent colour. 
+Once chosen, you can apply your own colours simply by modifying the hex codes in your CSS for various elements. For each component in this design system, we identify whether we used a primary, secondary or accent colour.
 
 ## Text Colours
 
