@@ -72,11 +72,11 @@ The ideal length for body text is around 40-60 characters. If line length is too
 
 There are three different types of lists:
 
-**Un-ordered lists:**
+**Un-ordered lists: **These lists use bullet points to indicate groups of content. The default bullet is an open circle with an outline in the primary colour. An indented bullet includes an open circle with a grey outline. 
 
-**Ordered lists:**
+**Ordered lists: **Ordered lists use numbers to indicate content that requires a hierarchy. 
 
-**Interactive lists:**
+**Interactive lists: **Interactive lists include content that is clickable. These lists include a hover, and click state and act as minor navigation points. 
 
 ## Hyperlinks
 
