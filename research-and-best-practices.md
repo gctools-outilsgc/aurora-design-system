@@ -52,3 +52,15 @@ All buttons include a hover state, tap state and active \(pressed\) state.
 
 Every action taken by the user will provide a user interface reaction \(colour/animation\)
 
+
+
+## Colours
+
+## Best Practices
+
+_**\(to move to research section once complete\)**_
+
+### Accessibility
+
+Proper colour choice is necessary in order for your digital product to be accessible for people with visual impairments. Individual colours need to be visible \(well contrasted with their background\) for people with contrast sensitivity. Groupings of colours need to be distinguishable from each other for people with colour blindness.
+

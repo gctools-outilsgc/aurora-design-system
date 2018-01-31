@@ -44,7 +44,7 @@ _**\(include example\)**_
 
 ## Light Theme
 
-By default, most applications will follow the light theme. This theme includes various shades of white for different background/foreground levels. 
+By default, most applications will follow the light theme. This theme includes various shades of white for different background/foreground levels.
 
 **Hex Codes**
 
@@ -55,7 +55,7 @@ By default, most applications will follow the light theme. This theme includes v
 
 ## Dark Theme
 
-Some applications may wish to also incorporate a dark theme. This theme includes various shades of black and grey for different  background/foreground levels. 
+Some applications may wish to also incorporate a dark theme. This theme includes various shades of black and grey for different  background/foreground levels.
 
 **Hex codes:**
 
