@@ -1,14 +1,40 @@
 # Colour
 
-## The Colour Palettes
+## Palettes
 
-This color palette is comprised of primary and accent colours that can be used for illustration, or to develop your brand colours. They’ve been designed to work harmoniously with each other. The colour palette starts with primary colours, and fills in the spectrum to create a complete and usable palette.
+This colour palette is comprised of primary and accent colours that can be used for illustration, or to develop your brand colours. They’ve been designed to work harmoniously with each other. The colour palette starts with primary colours, and fills in the spectrum to create a complete and usable palette.
 
 Themes enable consistent application styling through surface shades, shadow depth and ink opacity.
 
-### Sample Colour Palettes
+### Colours Used in This System
+
+Elements in this system use a simple and neutral colour palette that works well across multiple applications with various branding. Colours in this system are divided into three categories: primary, secondary and accent. 
+
+Throughout the design system, documentation about elements will specify which colour is used. 
+
+The palette used in this system is titled: **\(name here**\) and uses the following hex codes:
+
+Primary: 
+
+Secondary:
+
+Secondary:
+
+Accent: 
+
+### Sample Palettes
+
+Below are some sample palettes you may wish to use for your application or website. Each palette includes a primary colour, two secondary colours and an accent colour. All palettes use fully accessible contrast ratios.
+
+Palette 1: 
 
 ### Applying Your Own Palettes
+
+When creating your application or website you can apply your own colour palettes to various elements. When putting together your own colour combinations, it is recommended that you choose at least one primary colour, two or three secondary colours \(that are similar\) and an accent colour. 
+
+For Government of Canada applications, it is required that all colours meet the WCAG AA accessibility level. You can use [online contrast checker](https://webaim.org/resources/contrastchecker/)s to ensure that the colours you choose meet accessibility standards when combined with text. 
+
+Once chosen, you can apply your own colours simply by modifying the hex codes in your CSS for various elements. For each component in this design system, we identify whether we used a primary, secondary or accent colour. 
 
 ## Text Colours
 
