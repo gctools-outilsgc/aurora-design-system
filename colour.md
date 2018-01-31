@@ -1,13 +1,5 @@
 # Colour
 
-## Best Practices
-
-_**\(to move to research section once complete\)**_
-
-### Accessibility
-
-Proper colour choice is necessary in order for your digital product to be accessible for people with visual impairments. Individual colours need to be visible \(well contrasted with their background\) for people with contrast sensitivity. Groupings of colours need to be distinguishable from each other for people with colour blindness. 
-
 ## The Colour Palettes
 
 This color palette is comprised of primary and accent colours that can be used for illustration, or to develop your brand colours. They’ve been designed to work harmoniously with each other. The colour palette starts with primary colours, and fills in the spectrum to create a complete and usable palette.
@@ -52,18 +44,18 @@ _**\(include example\)**_
 
 ## Light Theme
 
-\(needs information here\)
+By default, most applications will follow the light theme. This theme includes various shades of white for different background/foreground levels. 
 
 **Hex Codes**
 
 * E0E0E0
 * F5F5F5
 * FAFAFA
-* FFFFFF
+* FFFFFF 
 
 ## Dark Theme
 
-\(needs information here\)
+Some applications may wish to also incorporate a dark theme. This theme includes various shades of black and grey for different  background/foreground levels. 
 
 **Hex codes:**
 

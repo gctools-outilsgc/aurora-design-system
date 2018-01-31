@@ -9,5 +9,5 @@
 * [Buttons](buttons.md)
 * [Icons](iconography.md)
 * [Additional Resources](additional-resources.md)
-* Foire aux questions
+* [Foire aux questions](foire-aux-questions.md)
 
