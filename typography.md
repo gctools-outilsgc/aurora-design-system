@@ -54,11 +54,11 @@ Paragraph text uses the colours \#252525 on a light background or \#F8FBFD on a 
 
 The DCD design system is consistent with the following best practices for line-breaks:
 
-•	Avoid hyphenation at the end of a line.
+•    Avoid hyphenation at the end of a line.
 
-•	Avoid leaving gaps or orphans hanging on a line.
+•    Avoid leaving gaps or orphans hanging on a line.
 
-•	Avoid overly large indentation.
+•    Avoid overly large indentation.
 
 ### Line Length
 
@@ -78,6 +78,8 @@ Link text is used within paragraphs to indicate hyperlinks and navigation points
 
 It is recommended that the link text be underlined and displayed in a secondary colour used in the application. It is also recommended that hyperlinks do not exceed one line in length, and are applied to 2-4 key words rather than a full sentence or line.
 
+Visited links should be indicated by a different colour. Typically, a best practice for visited links is to use a muted version of your hyperlink colour, a secondary colour, or the standard purple: \#551A8B
+
 ## Emphasis
 
 For accessibility purposes, colour cannot be the sole source of emphasis. Be sure to add emphasis to text by making the font bold and increasing the contrast.
@@ -91,8 +93,4 @@ Timestamps and placeholder text use the same typographic styles. Both use Nunito
 ## Button Text
 
 Button text is displayed as Nunito Sans Bold at 14 points, and uses the colours \#252525 on a light background or \#F8FBFD on a dark background. The colour of this text depends on the button chosen and must provide enough contrast with the colour of each type of button. For more about colour choice see our button section.
-
-
-
-
 
