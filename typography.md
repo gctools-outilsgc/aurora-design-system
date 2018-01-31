@@ -66,17 +66,19 @@ The ideal length for body text is around 40-60 characters. If line length is too
 
 ## Pull Quotes
 
-\(insert information about block quotes here\)
+Pull Quotes are used to indicate key phrases from the content displayed on the page \(i.e. in articles or blogs\). Pull quotes are integrated into paragraphs. 
+
+Pull quotes use a left-aligned line that is displayed in the application's accent colour. The text is displayed using Rubik Light Italic at 16 points, with a leading 22 points. 
 
 ## Lists
 
 There are three different types of lists:
 
-**Un-ordered lists: **These lists use bullet points to indicate groups of content. The default bullet is an open circle with an outline in the primary colour. An indented bullet includes an open circle with a grey outline. 
+**Un-ordered lists: **These lists use bullet points to indicate groups of content. The default bullet is an open circle with an outline in the primary colour. An indented bullet includes an open circle with a grey outline.
 
-**Ordered lists: **Ordered lists use numbers to indicate content that requires a hierarchy. 
+**Ordered lists: **Ordered lists use numbers to indicate content that requires a hierarchy.
 
-**Interactive lists: **Interactive lists include content that is clickable. These lists include a hover, and click state and act as minor navigation points. 
+**Interactive lists: **Interactive lists include content that is clickable. These lists include a hover, and click state and act as minor navigation points.
 
 ## Hyperlinks
 
