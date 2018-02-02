@@ -14,13 +14,11 @@ Throughout the design system, documentation about elements will specify which co
 
 The palette used in this system is titled: **\(name here**\) and uses the following hex codes:
 
-Primary:
+Primary: 002D42
 
-Secondary:
+Secondary: 96A8B2, 4D5D6C, CECECE
 
-Secondary:
-
-Accent:
+Accent: FEC04F
 
 ### Sample Palettes
 
@@ -58,8 +56,6 @@ Secondary: F6CF22, EDDB7C
 
 Accent: 7E0C33
 
-
-
 ### Applying Your Own Palettes
 
 When creating your application or website you can apply your own colour palettes to various elements. When putting together your own colour combinations, it is recommended that you choose at least one primary colour, two or three secondary colours \(that are similar\) and an accent colour.
@@ -74,7 +70,7 @@ Once chosen, you can apply your own colours simply by modifying the hex codes in
 
 Text in this design system is displayed in an off-black colour. Black text can be used on any light background \(see: Light Theme\), or any button or element that uses a light colour. When adding text to any background that is not black it is essential to check the contrast for accessibility. Significant contrast between the background/element colour and the text ensures readability, even for those with visual impairments such as colour blindness.
 
-Please see our typography section for more information about using text colour.
+Please see _Typography_ for more information about using text colour.
 
 **\(include a do/don't image\)**
 
@@ -84,7 +80,7 @@ Please see our typography section for more information about using text colour.
 
 Light text in this design system is displayed in an off-white colour. White text can be used on any dark background \(see: Dark Theme\) or any button or element that uses a dark or light colour. When adding white text it is essential to check the contrast for accessibility. Significant contrast between the background/element colour and the text ensures readability, even for those with visual impairments such as colour blindness.
 
-Please see our typography section for more information about using text colour.
+Please see _Typography_ for more information about using text colour.
 
 _**\(include a do/don't image\)**_
 
@@ -94,11 +90,11 @@ _**\(include a do/don't image\)**_
 
 Muted text is used for secondary text elements such as captions, placeholder text and timestamps. This muted text colour only works on light backgrounds \(see: Light Theme\) or light-coloured elements. For dark backgrounds or bright/dark elements, use white text.
 
-Please see our typography section for more information about using text colour.
+Please see _Typography_ for more information about using text colour.
 
 _**\(include example\)**_
 
-**Hex code: 5E515A**
+**Hex code: 666666**
 
 ## Light Theme
 
