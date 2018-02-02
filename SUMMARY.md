@@ -11,4 +11,5 @@
 * [Additional Resources](additional-resources.md)
 * [Foire aux questions](foire-aux-questions.md)
 * [Grids and Spacing](grids-and-spacing.md)
+* [Images and Media](images-and-media.md)
 
