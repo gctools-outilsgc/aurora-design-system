@@ -6,7 +6,7 @@ Buttons tend to have visual prominence on any given page or window. Primary butt
 
 This design system uses \(raised?\) buttons with \(rounded, square\) corners.
 
-Icon buttons or buttons with a dedicated shortcut \(i.e. Ctrl + S for**Save**\) should include a tooltip in the hover state.
+Icon buttons or buttons with a dedicated shortcut \(i.e. Ctrl + S for **Save**\) should include a tooltip in the hover state.
 
 ### **Size and Padding**
 
@@ -16,7 +16,7 @@ The more white-space around a button, the more prominent the button is on the pa
 
 ### **Labels**
 
-Button labels should be clear and specific. Avoid generic terms like**Save, Submit**or**Cancel.**Buttons should indicate the exact action that is taken and should provide a clear idea of what happens next.
+Button labels should be clear and specific. Avoid generic terms like **Save, Submit  **or**Cancel. **Buttons should indicate the exact action that is taken and should provide a clear idea of what happens next.
 
 Examples of good button labels:**Add a blog post, Send message, Back to menu.**
 
@@ -46,7 +46,7 @@ Secondary buttons are used for actions that are necessary to provide, but that u
 
 Secondary buttons, particularly ones used for destructive actions, should be designed in a way that deters users from clicking on it. This helps minimize mistakes.
 
-For more permanent secondary actions, such as**Delete,**clicking the button may bring the user to a second window to confirm the action.
+For more permanent secondary actions, such as **Delete, **clicking the button may bring the user to a second window to confirm the action.
 
 ### **Position**
 
@@ -62,7 +62,7 @@ Secondary buttons are usually in close proximity to the primary button, but not 
 
 i.e in WSIWYG editor, Like button, share button
 
-Icon buttons should display a label in the hover state with tooltip text \(i.e.**Share**when hovering over a \(share icon\)\).
+Icon buttons should display a label in the hover state with tooltip text \(i.e.**Share **when hovering over a \(share icon\)\).
 
 ## **Ratings/Likes**
 
