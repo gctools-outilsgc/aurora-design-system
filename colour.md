@@ -12,25 +12,27 @@ Elements in this system use a simple and neutral colour palette that works well 
 
 Throughout the design system, documentation about elements will specify which colour is used.
 
-The palette used in this system is titled: \(name here\) and uses the following hex codes:
+The palette used in this system is titled:** \(name here\)** and uses the following hex codes:
 
-Primary:  002D42
+Primary: 002D42
 
-Secondary:  96A8B2, 4D5D6C, CECECE
+Secondary: 96A8B2, 4D5D6C, CECECE
 
-Accent:  FEC04F
+Accent: FEC04F
 
 ### Sample Palettes
 
-Below are some sample palettes you may wish to use for your application or website. Each palette includes a primary colour, secondary colours and an accent colour. All palettes use fully accessible contrast ratios.
+Below are some sample palettes you may wish to use for your application or website. Each palette includes a primary colour, secondary colours and an accent colour. All palettes use fully accessible contrast ratios. 
 
-**Blue Complimentary**
+**Blue Complimentary**
 
 Primary: 0D467D
 
 Secondary: 0BA7B4, 6DD2DA
 
 Accent: FEC04F, FF9F40
+
+
 
 **Aurora Borealis**
 
@@ -40,7 +42,9 @@ Secondary: 43BDBC, 55C0A3
 
 Accent: ADE18D
 
-**Green and Blue**
+
+
+**Green and Blue**
 
 Primary: 0278A4, 83C3F2
 
@@ -48,7 +52,9 @@ Secondary: 7B9F3F, C9DF61
 
 Accent: 4E4741
 
-**Triad**
+
+
+**Triad**
 
 Primary: 024571, 2CADAD
 
@@ -82,7 +88,6 @@ Light text in this design system is displayed in an off-white colour. White text
 
 Please see _Typography_ for more information about using text colour.
 
-
 \(include a do/don't image\)
 
 **Hex code**: F8FBFD
@@ -93,7 +98,6 @@ Muted text is used for secondary text elements such as captions, placeholder tex
 
 Please see _Typography_ for more information about using text colour.
 
-
 \(include example\)
 
 **Hex code**: 5E515A
@@ -102,29 +106,31 @@ Please see _Typography_ for more information about using text colour.
 
 By default, most applications will follow the light theme. This theme includes various shades of white for different background/foreground levels.
 
-**Hex Codes**
+**Hex Codes  
+**
 
-•	E0E0E0
+•    E0E0E0
 
-•	F5F5F5
+•    F5F5F5
 
-•	FAFAFA
+•    FAFAFA
 
-•	FFFFFF
+•    FFFFFF
 
 ## Dark Theme
 
 Some applications may wish to also incorporate a dark theme. This theme includes various shades of black and grey for different background/foreground levels.
 
-**Hex codes:**
+**Hex codes:  
+**
 
-•	000000
+•    000000
 
-•	212121
+•    212121
 
-•	303030
+•    303030
 
-•	424242
+•    424242
 
 ## System Alerts and Messaging
 
@@ -132,39 +138,38 @@ This design system uses the same alerts and messaging colours as described in th
 
 Please refer to the alerts section and the colour section for more information.
 
-**Info hex codes:**
+**Info hex codes:  
+**
 
-•	245269
+•    245269
 
-•	269ABC
+•    269ABC
 
-•	D7FAFF
+•    D7FAFF
 
-**Warning hex codes:**
+**Warning hex codes:  
+**
 
-•	66512C
+•    66512C
 
-•	FF9900
+•    FF9900
 
-•	F9F4D4
+•    F9F4D4
 
-**Error hex codes:**
+**Error hex codes:  
+**
 
-•	923534
+•    923534
 
-•	D3080C
+•    D3080C
 
-•	F3E9E8
+•    F3E9E8
 
 **Success hex codes:**
 
-•	2B542C
+•    2B542C
 
-•	278400
+•    278400
 
-•	D8EECA
-
-
-
-
+•    D8EECA
 
