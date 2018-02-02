@@ -10,21 +10,19 @@ Themes enable consistent application styling through surface shades, shadow dept
 
 Elements in this system use a simple and neutral colour palette that works well across multiple applications with various branding. Colours in this system are divided into three categories: primary, secondary and accent.
 
-Throughout the design system documentation about elements will specify which colour is used.
+Throughout the design system, documentation about elements will specify which colour is used.
 
 The palette used in this system is titled: \(name here\) and uses the following hex codes:
 
-Primary:
+Primary:  002D42
 
-Secondary:
+Secondary:  96A8B2, 4D5D6C, CECECE
 
-Secondary:
+Accent:  FEC04F
 
-Accent:
+### Sample Palettes
 
-Sample Palettes
-
-Below are some sample palettes you may wish to use for your application or website. Each palette includes one or two primary colours , secondary colours and one or twoa ccent colours. All palettes use fully accessible contrast ratios.
+Below are some sample palettes you may wish to use for your application or website. Each palette includes a primary colour, secondary colours and an accent colour. All palettes use fully accessible contrast ratios.
 
 **Blue Complimentary**
 
@@ -72,7 +70,7 @@ Once chosen, you can apply your own colours simply by modifying the hex codes in
 
 Text in this design system is displayed in an off-black colour. Black text can be used on any light background \(see: Light Theme\) or any button or element that uses a light colour. When adding text to any background that is not black it is essential to check the contrast for accessibility. Significant contrast between the background/element colour and the text ensures readability, even for those with visual impairments such as colour blindness.
 
-Please see our typography section for more information about using text colour.
+Please see _Typography_ for more information about using text colour.
 
 \(include a do/don't image\)
 
@@ -82,7 +80,8 @@ Please see our typography section for more information about using text colour.
 
 Light text in this design system is displayed in an off-white colour. White text can be used on any dark background \(see: Dark Theme\) or any button or element that uses a dark or light colour. When adding white text it is essential to check the contrast for accessibility. Significant contrast between the background/element colour and the text ensures readability, even for those with visual impairments such as colour blindness.
 
-Please see our typography section for more information about using text colour.
+Please see _Typography_ for more information about using text colour.
+
 
 \(include a do/don't image\)
 
@@ -92,7 +91,8 @@ Please see our typography section for more information about using text colour.
 
 Muted text is used for secondary text elements such as captions, placeholder text and timestamps. This muted text colour only works on light backgrounds \(see: Light Theme\) or light-coloured elements. For dark backgrounds or bright/dark elements, use white text.
 
-Please see our typography section for more information about using text colour.
+Please see _Typography_ for more information about using text colour.
+
 
 \(include example\)
 

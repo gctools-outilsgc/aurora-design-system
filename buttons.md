@@ -1,6 +1,9 @@
-## Best Practices
+## Buttons
 
-**\(to be moved to research section once button documentation is complete\)**
+## Best Practices
+
+**\(to be moved to research section once button documentation is complete\)  
+**
 
 Buttons tend to have visual prominence on any given page or window. Primary buttons, buttons that indicate a call to action, are the most prominent. Buttons are placed where a user should expect them, i.e. in close proximity to the other elements that the action affects.
 
