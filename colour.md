@@ -22,7 +22,7 @@ Accent: FEC04F
 
 ### Sample Palettes
 
-Below are some sample palettes you may wish to use for your application or website. Each palette includes a primary colour, secondary colours and an accent colour. All palettes use fully accessible contrast ratios. 
+Below are some sample palettes you may wish to use for your application or website. Each palette includes a primary colour, secondary colours and an accent colour. All palettes use fully accessible contrast ratios.
 
 **Blue Complimentary**
 
@@ -32,8 +32,6 @@ Secondary: 0BA7B4, 6DD2DA
 
 Accent: FEC04F, FF9F40
 
-
-
 **Aurora Borealis**
 
 Primary: 000A3D, 467B8D
@@ -42,8 +40,6 @@ Secondary: 43BDBC, 55C0A3
 
 Accent: ADE18D
 
-
-
 **Green and Blue**
 
 Primary: 0278A4, 83C3F2
@@ -51,8 +47,6 @@ Primary: 0278A4, 83C3F2
 Secondary: 7B9F3F, C9DF61
 
 Accent: 4E4741
-
-
 
 **Triad**
 
@@ -106,7 +100,7 @@ Please see _Typography_ for more information about using text colour.
 
 By default, most applications will follow the light theme. This theme includes various shades of white for different background/foreground levels.
 
-**Hex Codes  
+**Hex Codes    
 **
 
 •    E0E0E0
@@ -121,7 +115,7 @@ By default, most applications will follow the light theme. This theme includes v
 
 Some applications may wish to also incorporate a dark theme. This theme includes various shades of black and grey for different background/foreground levels.
 
-**Hex codes:  
+**Hex codes:    
 **
 
 •    000000
@@ -138,8 +132,7 @@ This design system uses the same alerts and messaging colours as described in th
 
 Please refer to the alerts section and the colour section for more information.
 
-**Info hex codes:  
-**
+**Info hex codes:  **
 
 •    245269
 
@@ -147,8 +140,7 @@ Please refer to the alerts section and the colour section for more information.
 
 •    D7FAFF
 
-**Warning hex codes:  
-**
+**Warning hex codes:  **
 
 •    66512C
 
@@ -156,8 +148,7 @@ Please refer to the alerts section and the colour section for more information.
 
 •    F9F4D4
 
-**Error hex codes:  
-**
+**Error hex codes:  **
 
 •    923534
 
