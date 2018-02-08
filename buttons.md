@@ -1,4 +1,4 @@
-# Buttons and Links
+# Buttons
 
 ## Best Practices
 
@@ -85,8 +85,6 @@ Each of the states for primary buttons are as follows:
 ### Position
 
 Secondary buttons are usually in close proximity to the primary button, but not in a location where the user might mistake the two. Secondary buttons are usually placed to the \(left/right?\) of the primary button.
-
-
 
 ## Drop-Down Buttons
 

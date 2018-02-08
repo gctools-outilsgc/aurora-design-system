@@ -13,4 +13,6 @@
 * [Images and Media](images-and-media.md)
 * [System Messaging](system-messaging.md)
 * [Grids and Spacing](grids-and-spacing.md)
+* [Additional Resources](additional-resources.md)
+* [Research and Best Practices](research-and-best-practices.md)
 
