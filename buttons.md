@@ -22,7 +22,19 @@ Label text has high contrast with the button colour. See below for specific text
 
 ### Varying States
 
-All buttons include a hover, focus, active and disabled states. _**\(describe each\)**_
+Buttons are not one-state objects. Most users will recognize a button because of it's hover and active states. Varying states also provide feedback to the user at each stage of performing the action. 
+
+Buttons should include normal, hover, focus, active and disabled states: 
+
+**Normal: **Even in it's normal state, a button should look like a button! Before needing to hover, a user should be able to tell that an element is clickable.
+
+**Hover: **Usually indicated by a change in colour, or animation, hover states indicate to the user that the element is cliackable. 
+
+**Focus: **Similar to hover states, focus states indicate that the user has tabbed to the specific button. 
+
+**Active/Pressed: **Usually indicated by a change in colour or animation, this indicates that the user has clicked or pressed a button/ 
+
+**Disabled: **Usually a ghosted version of the normal state, this indicates to the user that the action is unavailable. 
 
 ## Primary Buttons
 
@@ -74,8 +86,6 @@ Each of the states for primary buttons are as follows:
 
 Secondary buttons are usually in close proximity to the primary button, but not in a location where the user might mistake the two. Secondary buttons are usually placed to the \(left/right?\) of the primary button.
 
-## Button Groups \(?\)
-
 ## Links
 
 ### When to Use a Link
@@ -113,6 +123,8 @@ Split buttons are more complex than drop-down buttons. Instead of referring to a
 The default action represented in the split button is the most commonly used, while the actions presented in the drop-down are alternates that are used only occasionally.
 
 One of the best examples of a split button is an email reply button. Reply is represented as the default, since it is the most common, while the drop-down menu will provide other options such as _Reply to all, Forward, or_ Delete.
+
+## Button Groups \(?\)
 
 ## Menu Buttons
 
