@@ -12,7 +12,7 @@ Elements in this system use a simple and neutral colour palette that works well 
 
 Throughout the design system, documentation about elements will specify which colour is used.
 
-The palette used in this system is titled:** \(name here\)** and uses the following hex codes:
+The palette used in this system is titled:** Thunder and Lightning** and uses the following hex codes:
 
 Primary: 002D42
 
@@ -82,7 +82,7 @@ Light text in this design system is displayed in an off-white colour. White text
 
 Please see _Typography_ for more information about using text colour.
 
-\(include a do/don't image\)
+_**\(include a do/don't image\)**_
 
 **Hex code**: F8FBFD
 
@@ -92,7 +92,7 @@ Muted text is used for secondary text elements such as captions, placeholder tex
 
 Please see _Typography_ for more information about using text colour.
 
-\(include example\)
+_**\(include example\)**_
 
 **Hex code**: 5E515A
 
@@ -100,7 +100,7 @@ Please see _Typography_ for more information about using text colour.
 
 By default, most applications will follow the light theme. This theme includes various shades of white for different background/foreground levels.
 
-**Hex Codes    
+**Hex Codes      
 **
 
 •    E0E0E0
@@ -115,8 +115,7 @@ By default, most applications will follow the light theme. This theme includes v
 
 Some applications may wish to also incorporate a dark theme. This theme includes various shades of black and grey for different background/foreground levels.
 
-**Hex codes:    
-**
+**Hex codes:    **
 
 •    000000
 
