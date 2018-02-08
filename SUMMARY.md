@@ -9,6 +9,8 @@
 * [Buttons](buttons.md)
 * [Links](links.md)
 * [Icons](iconography.md)
-* Badges
+* [Badges](badges.md)
 * [Images and Media](images-and-media.md)
+* [System Messaging](system-messaging.md)
+* [Grids and Spacing](grids-and-spacing.md)
 
