@@ -8,19 +8,19 @@
 
 ## Avatars
 
-Avatars are square, small images used to identify users on the site or application. Avatars are often combined with the users profile, and other components such as cards, comments, and buttons.
+Avatars are square, small images used to identify users on the site or application. Avatars are often combined with the user's profile and other components such as cards, comments, and buttons.
 
 Avatars are used in three sizes:
 
-Small: Used in combination with other components such as comments, chat, cards and anywhere else you would need to identify the user.
+**Small:** Used in combination with other components such as comments, chat, cards and anywhere else you would need to identify the user.
 
-Medium:
+**Medium:**
 
-Large: Used directly on the user's profile
+**Large**: Used directly on the user's profile
 
 Avatars use the default image _**\(include here\)**_
 
-When users upload their avatar, they are prompted to crop the image to the largest size.
+When users upload their avatar, they are prompted to crop the image to fit into the avatar's dimension. 
 
 ## Thumbnails
 
