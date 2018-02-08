@@ -1,10 +1,20 @@
 # Images and Media
 
+[https://v4-alpha.getbootstrap.com/content/images/](https://v4-alpha.getbootstrap.com/content/images/)
+
 ## Block Images
+
+Block images are separated from other elements on the page \(i.e. text\) and are typically centered with a set padding. In a layout including text, the text will continue on the next line after the image. 
 
 ## Inline Image
 
-## Full Bleed Image
+Inline images are aligned vertically with other elements on the page \(i.e. text\), and may be left or right aligned. Inline images only have specified padding for left and right borders. They flow along with text content, and the text will be wrapped around the remaining space around the image. 
+
+## Full Width/Bleed Image
+
+A full-bleed image extends from one edge of the browser to the other, spanning the width of your site.
+
+Slightly different, a full-width image extends only from one end of the content area to the other, rather than the full browser. 
 
 ## Avatars
 
@@ -20,7 +30,7 @@ Avatars are used in three sizes:
 
 Avatars use the default image _**\(include here\)**_
 
-When users upload their avatar, they are prompted to crop the image to fit into the avatar's dimension. 
+When users upload their avatar, they are prompted to crop the image to fit into the avatar's dimension.
 
 ## Thumbnails
 
