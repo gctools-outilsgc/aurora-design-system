@@ -22,19 +22,19 @@ Label text has high contrast with the button colour. See below for specific text
 
 ### Varying States
 
-Buttons are not one-state objects. Most users will recognize a button because of it's hover and active states. Varying states also provide feedback to the user at each stage of performing the action. 
+Buttons are not one-state objects. Most users will recognize a button because of it's hover and active states. Varying states also provide feedback to the user at each stage of performing the action.
 
-Buttons should include normal, hover, focus, active and disabled states: 
+Buttons should include normal, hover, focus, active and disabled states:
 
 **Normal: **Even in it's normal state, a button should look like a button! Before needing to hover, a user should be able to tell that an element is clickable.
 
-**Hover: **Usually indicated by a change in colour, or animation, hover states indicate to the user that the element is cliackable. 
+**Hover: **Usually indicated by a change in colour, or animation, hover states indicate to the user that the element is cliackable.
 
-**Focus: **Similar to hover states, focus states indicate that the user has tabbed to the specific button. 
+**Focus: **Similar to hover states, focus states indicate that the user has tabbed to the specific button.
 
-**Active/Pressed: **Usually indicated by a change in colour or animation, this indicates that the user has clicked or pressed a button/ 
+**Active/Pressed: **Usually indicated by a change in colour or animation, this indicates that the user has clicked or pressed a button/
 
-**Disabled: **Usually a ghosted version of the normal state, this indicates to the user that the action is unavailable. 
+**Disabled: **Usually a ghosted version of the normal state, this indicates to the user that the action is unavailable.
 
 ## Primary Buttons
 
@@ -86,31 +86,7 @@ Each of the states for primary buttons are as follows:
 
 Secondary buttons are usually in close proximity to the primary button, but not in a location where the user might mistake the two. Secondary buttons are usually placed to the \(left/right?\) of the primary button.
 
-## Links
 
-### When to Use a Link
-
-Buttons and links serve different purposes. Buttons are used for actions whereas links are  used for navigation. Avoid using links to indicate actions, even if they are secondary. Links should be used when a user is directed to a new section,  page, or website.
-
-As a general rule, if the user is making changes to the back or front-end of the site when clicking, you should use a button.
-
-### External Links
-
-If a link is bringing the user to an external web page, this should be indicated using an icon, and the page should open in a new window.
-
-### Link Styling
-
-Links should not exceed one line in length, and are applied to 2-4 key words rather than a full sentence or line.
-
-Links should always include a hover state and a visited state. In this system, links are displayed as follows:
-
-**Regular: **Nunitio Sans Regular at 14 points  _**\(include colour, underlined?\)**_
-
-**Hover: **Nunitio Sans Regular at 14 points
-
-**Visited: **Nunitio Sans Regular at 14 points
-
-There are other colour options for visited links. Best practice for visited links is to use a muted version of your hyperlink colour, a secondary colour, or the standard purple: \#551A8B
 
 ## Drop-Down Buttons
 
