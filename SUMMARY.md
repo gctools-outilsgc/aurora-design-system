@@ -10,6 +10,7 @@
 * [Links](links.md)
 * [Icons](iconography.md)
 * [Badges](badges.md)
+* [Tags](tags.md)
 * [Images and Media](images-and-media.md)
 * [System Messaging](system-messaging.md)
 * [Grids and Spacing](grids-and-spacing.md)
