@@ -1,17 +1,14 @@
-# Buttons
+# Buttons and Links
 
 ## Best Practices
-
-**\(to be moved to research section once button documentation is complete\)      
-**
 
 Buttons tend to have visual prominence on any given page or window. Primary buttons, buttons that indicate a call to action, are the most prominent. Buttons are placed where a user should expect them, i.e. in close proximity to the other elements that the action affects.
 
 ## Size and Padding
 
-Buttons used in this design system have a minimum size of 10mm x 10mm because this is the typical size of a user's finger pad when using the application on mobile. For web this minimum size is also consistent.
+Buttons used in this design system have a minimum size of 10mm x 10mm. This is the typical size of a user's finger pad when using the application on mobile. For web this minimum size is also consistent.
 
-The more white-space around a button, the more prominent the button is on the page. Most buttons in this system using 15px of padding.
+The more white-space around a button, the more prominent the button is on the page. Most buttons in this system use 15px of padding.
 
 ### Labels
 
@@ -26,8 +23,6 @@ Label text has high contrast with the button colour. See below for specific text
 ### Varying States
 
 All buttons include a hover, focus, active and disabled states. _**\(describe each\)**_
-
-Every action taken by the user will provide a user interface reaction \(colour/animation\)
 
 ## Primary Buttons
 
@@ -83,25 +78,41 @@ Secondary buttons are usually in close proximity to the primary button, but not 
 
 ## Links
 
-_**\(to complete, add more info about best practices\)**_
+### When to Use a Link
 
-Buttons and links serve different purposes. Buttons are used for actions whereas links are to be used for navigation.
+Buttons and links serve different purposes. Buttons are used for actions whereas links are  used for navigation. Avoid using links to indicate actions, even if they are secondary. Links should be used when a user is directed to a new section,  page, or website.
+
+As a general rule, if the user is making changes to the back or front-end of the site when clicking, you should use a button.
+
+### External Links
+
+If a link is bringing the user to an external web page, this should be indicated using an icon, and the page should open in a new window. 
+
+### Link Styling
+
+Links should not exceed one line in length, and are applied to 2-4 key words rather than a full sentence or line.
+
+Links should always include a hover state and a visited state. In this system, links are displayed as follows:
+
+**Regular: **Nunitio Sans Regular at 14 points  _**\(include colour, underlined?\)**_
+
+**Hover: **Nunitio Sans Regular at 14 points 
+
+**Visited: **Nunitio Sans Regular at 14 points 
+
+There are other colour options for visited links. Best practice for visited links is to use a muted version of your hyperlink colour, a secondary colour, or the standard purple: \#551A8B
 
 ## Drop-Down Buttons
 
-Drop down buttons display a list of items when clicked. They are used for two-step processes that may require more specific options for a singular action. 
+Drop down buttons display a list of items when clicked. They are used for two-step processes that may require more specific options for a singular action.
 
-## Split Buttons 
+## Split Buttons
 
-Split buttons are more complex than drop-down buttons. Instead of referring to a singular action, a split button acts as two distinct buttons in one. A split button provides a default action, while the arrow on the right provides a drop-down list of alternate actions. 
+Split buttons are more complex than drop-down buttons. Instead of referring to a singular action, a split button acts as two distinct buttons in one. A split button provides a default action, while the arrow on the right provides a drop-down list of alternate actions.
 
-The default action represented in the split button is the most commonly used, while the actions presented in the drop-down are alternates that are used only occasionally. 
+The default action represented in the split button is the most commonly used, while the actions presented in the drop-down are alternates that are used only occasionally.
 
-One of the best examples of a split button is an email reply button. Reply is represented as the default, since it is the most common, while the drop-down menu will provide other options such as _Reply to all, Forward, _or_ Delete. _
-
-
-
-
+One of the best examples of a split button is an email reply button. Reply is represented as the default, since it is the most common, while the drop-down menu will provide other options such as _Reply to all, Forward, or_ Delete.
 
 ## Menu Buttons
 
