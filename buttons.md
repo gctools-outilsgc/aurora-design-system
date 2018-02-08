@@ -86,7 +86,7 @@ As a general rule, if the user is making changes to the back or front-end of the
 
 ### External Links
 
-If a link is bringing the user to an external web page, this should be indicated using an icon, and the page should open in a new window. 
+If a link is bringing the user to an external web page, this should be indicated using an icon, and the page should open in a new window.
 
 ### Link Styling
 
@@ -96,9 +96,9 @@ Links should always include a hover state and a visited state. In this system, l
 
 **Regular: **Nunitio Sans Regular at 14 points  _**\(include colour, underlined?\)**_
 
-**Hover: **Nunitio Sans Regular at 14 points 
+**Hover: **Nunitio Sans Regular at 14 points
 
-**Visited: **Nunitio Sans Regular at 14 points 
+**Visited: **Nunitio Sans Regular at 14 points
 
 There are other colour options for visited links. Best practice for visited links is to use a muted version of your hyperlink colour, a secondary colour, or the standard purple: \#551A8B
 
