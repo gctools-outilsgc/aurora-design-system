@@ -2,6 +2,8 @@
 
 [https://v4-alpha.getbootstrap.com/content/images/](https://v4-alpha.getbootstrap.com/content/images/)
 
+## alt-tags
+
 ## Block Images
 
 Block images are separated from other elements on the page \(i.e. text\) and are typically centered with a set padding. In a layout including text, the text will continue on the next line after the image.
@@ -12,27 +14,37 @@ Inline images are aligned vertically with other elements on the page \(i.e. text
 
 ## Full Width Image
 
-Full-width images extend  from one end of the content area to the other. 
+Full-width images extend  from one end of the content area to the other.
 
 ## Avatars
 
 Avatars are square, small images used to identify users on the site or application. Avatars are often combined with the user's profile and other components such as cards, comments, and buttons.
 
-Avatars are used in three sizes:
+As a default avatars use the [user SVG icon](https://fontawesome.com/icons/user?style=solid) from Font Awesome.  
 
-**Small:** Used in combination with other components such as comments, chat, cards and anywhere else you would need to identify the user.
+When users upload their avatar, they are prompted to crop the image to fit into the avatar's square ratio.
 
-**Medium:**
+Avatars are used in three sizes and styled as follows:
 
-**Large**: Used directly on the user's profile
+**Small:**  Square image with corners rounded by 3px. Sized at 26 x 26 pixels. 
 
-Avatars use the default image _**\(include here\)**_
+Used on small components where the user would need to be identified, such as tags or chat. 
 
-When users upload their avatar, they are prompted to crop the image to fit into the avatar's dimension.
+**Medium: **Square image with corners rounded by 3px. Sized at 50 x 50 pixels. 
+
+Used in combination with other components such as comments, chat, cards and anywhere else you would need to identify the user.  
+
+**Large**:  Square image with corners rounded by 3px. Sized at 115 x 115 pixels. 
+
+Used directly on the user's profile.
+
+
 
 ## Thumbnails
 
 Thumbnails are small versions of an image that are used as previews to content. They are often combined with other components such as cards, comments, image previews, etc.
 
-Thumbnails are always square and \_**\(size\). **\_They do not crop the image but simply re-scale it. Thumbnails are typically left-aligned when combined with other components.
+Thumbnails are always square with corners rounded by 1px. They have a black stroke width of 0.25px. They are sized at 115 x 115 pixels. _**\(responsive sizing?\)**_
+
+Thumbnails do not crop the image but simply re-scale it. Thumbnails are typically left-aligned when combined with other components.
 
