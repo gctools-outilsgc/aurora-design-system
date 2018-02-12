@@ -84,7 +84,7 @@ Each of the states for secondary buttons are as follows:
 
 ### Position
 
-Secondary buttons are usually in close proximity to the primary button, but not in a location where the user might mistake the two. Secondary buttons are usually placed to the \(left/right\)_** **_of the primary button_. **They should have a consistent placement relative to the primary button to avoid confusion. **_
+Secondary buttons are usually in close proximity to the primary button, but not in a location where the user might mistake the two. Secondary buttons are usually placed to the \(left/right\)_** **_of the primary button. **They should have a consistent placement relative to the primary button to avoid confusion. **\_
 
 ## Drop-Down Buttons
 
