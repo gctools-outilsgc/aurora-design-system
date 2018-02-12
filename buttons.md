@@ -58,7 +58,7 @@ Each of the states for primary buttons are as follows:
 
 ### Position
 
-Primary buttons should be located in the most prominent and convenient location possible._ _These buttons should also be located in close proximity to the form or the elements that are affected by the action.
+Primary buttons should be located in the most prominent and convenient location possible.\_ \_These buttons should also be located in close proximity to the form or the elements that are affected by the action.
 
 ## Secondary Buttons
 
@@ -84,7 +84,7 @@ Each of the states for secondary buttons are as follows:
 
 ### Position
 
-Secondary buttons are usually in close proximity to the primary button, but not in a location where the user might mistake the two. Secondary buttons are usually placed to the \(left/right\)_** **_of the primary button. _**They should have a consistent placement relative to the primary button to avoid confusion. **_
+Secondary buttons are usually in close proximity to the primary button, but not in a location where the user might mistake the two. Secondary buttons are usually placed to the \(left/right\)_** **_of the primary button_. **They should have a consistent placement relative to the primary button to avoid confusion. **_
 
 ## Drop-Down Buttons
 
