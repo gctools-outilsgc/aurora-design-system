@@ -8,7 +8,7 @@ Rubik is used for titles and headings, while Nunito Sans is used for sub-heading
 
 ### Font Choice
 
-Both fonts chosen for this design system enhance accessibility and readability. Sans-serif fonts have a simpler structure than serif and script fonts so users with reading disabilities or visual impairments are able to more easily decipher characters.
+Both fonts chosen for this design system enhance accessibility and readability. Sans-serif fonts have a simpler structure than serif and script fonts, so users with reading disabilities or visual impairments are able to more easily decipher characters.
 
 If you choose to use fonts other than the ones listed here, it is recommended that your digital product use sans-serif rather than serif or script fonts.
 
@@ -78,7 +78,7 @@ There are three different types of lists:
 
 **Ordered lists: **Ordered lists use numbers to indicate content that requires a hierarchy.
 
-**Interactive lists: **Interactive lists include content that is clickable. These lists include a hover, and click state and act as minor navigation points.
+**Interactive lists: **Interactive lists include content that is clickable. These lists include a hover and click state, and act as minor navigation points.
 
 ## Hyperlinks
 
@@ -86,7 +86,7 @@ Link text is used within paragraphs to indicate hyperlinks and navigation points
 
 It is recommended that the link text be underlined and displayed in a secondary colour used in the application. It is also recommended that hyperlinks do not exceed one line in length, and are applied to 2-4 key words rather than a full sentence or line.
 
-Visited links should be indicated by a different colour. Typically, a best practice for visited links is to use a muted version of your hyperlink colour, a secondary colour, or the standard purple: \#551A8B
+Visited links should be indicated by a different colour. Typically, a best practice for visited links is to use a muted version of your hyperlink colour, a secondary colour, or the standard purple: \#551A8B.
 
 ## Emphasis
 

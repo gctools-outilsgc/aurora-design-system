@@ -12,7 +12,7 @@ Elements in this system use a simple and neutral colour palette that works well 
 
 Throughout the design system, documentation about elements will specify which colour is used.
 
-The palette used in this system is titled:** Thunder and Lightning** and uses the following hex codes:
+The palette used in this system is titled** Thunder and Lightning** and uses the following hex codes:
 
 Primary: 002D42
 
@@ -60,7 +60,7 @@ Accent: 7E0C33
 
 When creating your application or website you can apply your own colour palettes to various elements. When putting together your own colour combinations, it is recommended that you choose at least one primary colour, two or three secondary colours that are similar and an accent colour.
 
-For Government of Canada applications, it is required that all colours meet the WCAG AA accessibility level, though AAA is ideal. You can use online contrast checkers to ensure that the colours you choose meet accessibility standards when combined with text.
+For Government of Canada applications it is required that all colours meet the WCAG AA accessibility level, though AAA is ideal. You can use online contrast checkers to ensure that the colours you choose meet accessibility standards when combined with text.
 
 Once chosen, you can apply your own colours simply by modifying the hex codes in your CSS for various elements. For each component in this design system we identified whether we used a primary, secondary or accent colour.
 
@@ -100,7 +100,7 @@ _**\(include example\)**_
 
 By default, most applications will follow the light theme. This theme includes various shades of white for different background/foreground levels.
 
-**Hex Codes            
+**Hex Codes                
 **
 
 •    E0E0E0
@@ -157,7 +157,7 @@ _**Warning colours are used for notices that require the user’s acknowledgemen
 
 ### Error Colours
 
-_**Error colours are used to indicate system failures and malfunctions. Best practice is to use red due to its intensity and association with “stop”.**_
+_**Error colours are used to indicate system failures and malfunctions. Best practice is to use red due to heavy visual weight and association with “stop”.**_
 
 **Error hex codes:  **
 
