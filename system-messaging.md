@@ -8,17 +8,17 @@ Design system's notifications in descending level of severity:
 
 ![](/assets/Individual-Notification-Error.jpg)
 
-**Error notifications are used for system failures.**
+Error notifications are used for system failures and user errors.
 
-**Error example: “Your password cannot be updated at this time.”**
+Error example: “Your password must contain at least 8 characters.”
 
 ### Warning
 
 ![](/assets/Individual-Notification-Warning.jpg)
 
-**Warning notifications are used for user error and notices of potential future errors. Change**
+Warning notifications are used for notices of potential future errors. 
 
-**Warning example: “Your password must contain at least 8 characters.”**
+Warning example: “Caps lock is on which may cause you to enter your password incorrectly.”
 
 ### Information
 
