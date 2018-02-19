@@ -72,7 +72,7 @@ Notifications are 62px by 425px. The text has a 15px padding on the top and on t
 
 ### **Notification Messages**
 
-The notification messages should straightforward and as short as possible, and use key words. Long messages can be unclear, and may affect the sizing and readability of the message.
+The notification messages should straightforward and as short as possible, and use key words. Long messages can be unclear and may affect the sizing and readability of the message.
 
 Example of a clear notification: Your profile picture has been changed successfully.
 
