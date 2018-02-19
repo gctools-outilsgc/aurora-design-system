@@ -100,7 +100,7 @@ _**\(include example\)**_
 
 By default, most applications will follow the light theme. This theme includes various shades of white for different background/foreground levels.
 
-**Hex Codes                
+**Hex Codes                  
 **
 
 •    E0E0E0
@@ -133,7 +133,7 @@ Please refer to the alerts section and the colour section for more information.
 
 ### Info Colours
 
-_**Info colours are used when providing additional information and notes to the user. This should be in a colour that is distinct from the other alert colours, and carry the least visual weight.**_
+_**Info colours are used when providing additional information and notes to the user. **_
 
 **Info hex codes:  **
 
@@ -145,7 +145,7 @@ _**Info colours are used when providing additional information and notes to the 
 
 ### Warning Colours
 
-_**Warning colours are used for notices that require the user’s acknowledgement. This should be a colour that contrasts the primary colour in order to call attention to the message.**_
+_**Warning colours are used for notices that require the user’s acknowledgement.**_
 
 **Warning hex codes:  **
 
@@ -157,7 +157,7 @@ _**Warning colours are used for notices that require the user’s acknowledgemen
 
 ### Error Colours
 
-_**Error colours are used to indicate system failures and malfunctions. Best practice is to use red due to heavy visual weight and association with “stop”.**_
+_**Error colours are used to indicate system failures and malfunctions. **_
 
 **Error hex codes:  **
 
@@ -169,7 +169,7 @@ _**Error colours are used to indicate system failures and malfunctions. Best pra
 
 ### Success Colours
 
-_**Success colours are used when confirming that the user’s input was successful. Best practice is to use green due to its associations with safety and “go”.**_
+_**Success colours are used when confirming that the user’s input was successful. **_
 
 **Success hex codes:**
 
