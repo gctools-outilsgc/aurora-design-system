@@ -2,7 +2,7 @@
 
 ## When to Use a Link
 
-Buttons and links serve different purposes: buttons are used for actions whereas links are used for navigation. Avoid using links to indicate actions, even if they are secondary. Links should be used when a user is directed to a new section, page or website.
+Buttons and links serve different purposes: buttons are used for actions, whereas links are used for navigation. Avoid using links to indicate actions, even if they are secondary. Links should be used when a user is directed to a new section, page or website.
 
 As a general rule, if the user is making changes to the back or front-end of the site when clicking, you should use a button.
 
