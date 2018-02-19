@@ -8,7 +8,7 @@ Notifications in descending level of severity:
 
 ![](/assets/Individual-Notification-Error.jpg)
 
-Error notifications are used for system failures.
+**Error notifications are used for system failures.**
 
 Error example: “Your password cannot be updated at this time.”
 
@@ -40,7 +40,7 @@ Success example: “Your password was updated successfully.”
 
 ### Design
 
-The notifications are designed with the same concept of simplicity found in the mood boards. There is enough colour in the banners to provide visual impact which catches the user’s attention, but not so much as to overpower the user’s **field of vision**. 
+The notifications are designed with the same concept of simplicity found in the mood boards. There is enough colour in the banners to provide visual impact which catches the user’s attention, but not so much as to overpower the user’s **field of vision**.
 
 The font icons are from Font Awesome, and were chosen due to their simple design and universality.
 
