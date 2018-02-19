@@ -1,8 +1,8 @@
 # System Notifcations
 
-System notifications are short messages that appear to communicate information to the user. Notifications appear as pop-up banners which need to be dismissed or timed-out **\(time\).** There are four levels of severity which can be applied to the notifications.
+System notifications are short messages that appear to communicate information to the user. Notifications appear as pop-up banners which need to be dismissed or timed-out. There are four levels of severity which can be applied to the notifications: error,  warning, information and success.
 
-Notifications in descending level of severity:
+Design system's notifications in descending level of severity:
 
 ### Error
 
@@ -10,7 +10,7 @@ Notifications in descending level of severity:
 
 **Error notifications are used for system failures.**
 
-Error example: “Your password cannot be updated at this time.”
+**Error example: “Your password cannot be updated at this time.”**
 
 ### Warning
 
@@ -18,7 +18,7 @@ Error example: “Your password cannot be updated at this time.”
 
 **Warning notifications are used for user error and notices of potential future errors. Change**
 
-Warning example: “Your password must contain at least 8 characters.”
+**Warning example: “Your password must contain at least 8 characters.”**
 
 ### Information
 
@@ -44,13 +44,11 @@ The notifications are designed with the same concept of simplicity found in the 
 
 The font icons are from Font Awesome, and were chosen due to their simple design and universality.
 
-### **Needs subtitle**
-
 A drop shadow is used to show the user that the notification can be closed by clicking the “X” button. The drop shadow has a 1px X-axis, a 1px Y-axis and an opacity of 23%.
 
 ### **Colours**
 
-The colours used for notifications are from the design system’s palette. **\(Should we say why for each colour?\)**
+The colours used for notifications are from the design system’s palette.
 
 Hex colour for error notifications: \#D3080C
 
@@ -66,7 +64,7 @@ Notifications should be located at the top **\(right? Left? Does it matter?\)** 
 
 ### **Font**
 
-The font used for notifications is the design system standard font Nunito Sans Regular. The notification title is in black \(**off-black?\)** and 16px in size. The notification message is in black and 14px in size. The font sizes were chosen for high visibility and easy readability. However, the size of the font may vary based on the display size, device used or how long the notification message is.
+The font used for notifications is the design system standard font Nunito Sans Regular. The notification title is in black and 16px in size. The notification message is in black and 14px in size. The font sizes were chosen for high visibility and easy readability. However, the size of the font may vary based on the display size, device used or how long the notification message is.
 
 ### **Size and padding**
 
@@ -78,11 +76,23 @@ The notification messages should straightforward and as short as possible, and u
 
 Example of a clear notification: Your profile picture has been changed successfully.
 
-## Alerts
+#### Timing-out
 
-## Block
+Notifications, with the exception of warnings which require manual dismissal, are automatically timed-out to improve the flow of the website. The timing-out of notifications is based on the conservative estimate of a reading speed of 200 words-per-minute.
 
-## Toast
+Short notifications \(70 characters or fewer\) should be timed with a:
+
+* Show animation of 0.4 seconds.
+* Show duration of 3.5 seconds.
+* Hide animation of 1 second.
+
+Long notifications \(70-140 characters\) should be timed with a:
+
+* Show animation of 0.4 seconds.
+* Show duration of 7 seconds.
+* Hide animation of 2 seconds.
+
+If your notification will be longer than 140 characters, consider a different method of communicating the message.
 
 ## Inline Error
 
