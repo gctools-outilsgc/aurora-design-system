@@ -16,7 +16,7 @@ Error example: “Your password must contain at least 8 characters.”
 
 ![](/assets/Individual-Notification-Warning.jpg)
 
-Warning notifications are used for notices of potential future errors. 
+Warning notifications are used for notices of potential future errors.
 
 Warning example: “Caps lock is on which may cause you to enter your password incorrectly.”
 
@@ -60,7 +60,7 @@ Hex colour for success notifications: \#278400
 
 ### **Position**
 
-Notifications should be located at the top **\(right? Left? Does it matter?\)** of the page, or wherever is most convenient and visible for the user. **\(can we add more to this?\)**
+Notifications should be located at the top of the page, or wherever is most convenient and visible for the user. 
 
 ### **Font**
 
@@ -93,10 +93,6 @@ Long notifications \(70-140 characters\) should be timed with a:
 * Hide animation of 2 seconds.
 
 If your notification will be longer than 140 characters, consider a different method of communicating the message.
-
-## Inline Error
-
-## Tooltips
 
 
 
