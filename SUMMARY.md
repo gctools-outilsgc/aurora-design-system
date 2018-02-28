@@ -14,6 +14,8 @@
 * [Images and Media](images-and-media.md)
 * [System Messaging](system-messaging.md)
 * [Grids and Spacing](grids-and-spacing.md)
+* [Forms: Checkboxes, Radio Buttons and Switches](forms-checkboxes-radio-buttons-and-switches.md)
+* [Forms: Inputs](forms-inputs.md)
 * [Additional Resources](additional-resources.md)
 * [Research and Best Practices](research-and-best-practices.md)
 
