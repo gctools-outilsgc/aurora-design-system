@@ -20,25 +20,29 @@ Full-width images extend  from one end of the content area to the other.
 
 Avatars are square, small images used to identify users on the site or application. Avatars are often combined with the user's profile and other components such as cards, comments, and buttons.
 
-As a default avatars use the [user SVG icon](https://fontawesome.com/icons/user?style=solid) from Font Awesome.  
+As a default avatars use the [user SVG icon](https://fontawesome.com/icons/user?style=solid) from Font Awesome.
 
 When users upload their avatar, they are prompted to crop the image to fit into the avatar's square ratio.
 
 Avatars are used in three sizes and styled as follows:
 
-**Small:**  Square image with corners rounded by 3px. Sized at 26 x 26 pixels. 
+![](/assets/avatar_small.png)
 
-Used on small components where the user would need to be identified, such as tags or chat. 
+**Small:**  Square image with corners rounded by 3px. Sized at 26 x 26 pixels.
 
-**Medium: **Square image with corners rounded by 3px. Sized at 50 x 50 pixels. 
+Used on small components where the user would need to be identified, such as tags or chat.
 
-Used in combination with other components such as comments, chat, cards and anywhere else you would need to identify the user.  
+![](/assets/avatar_medium.png)
 
-**Large**:  Square image with corners rounded by 3px. Sized at 115 x 115 pixels. 
+**Medium: **Square image with corners rounded by 3px. Sized at 50 x 50 pixels.
+
+Used in combination with other components such as comments, chat, cards and anywhere else you would need to identify the user.
+
+![](/assets/avatar_large.png)
+
+**Large**:  Square image with corners rounded by 3px. Sized at 115 x 115 pixels.
 
 Used directly on the user's profile.
-
-
 
 ## Thumbnails
 
