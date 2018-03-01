@@ -34,8 +34,6 @@ Secondary: 0BA7B4, 6DD2DA
 
 Accent: FEC04F, FF9F40
 
-
-
 ![](/assets/Asset 3.png)
 
 Primary: 000A3D, 467B8D
@@ -44,8 +42,6 @@ Secondary: 43BDBC, 55C0A3
 
 Accent: ADE18D
 
-
-
 ![](/assets/Asset 4.png)
 
 Primary: 0278A4, 83C3F2
@@ -53,8 +49,6 @@ Primary: 0278A4, 83C3F2
 Secondary: 7B9F3F, C9DF61
 
 Accent: 4E4741
-
-
 
 ![](/assets/Asset 5.png)
 
@@ -108,7 +102,9 @@ _**\(include example\)**_
 
 By default, most applications will follow the light theme. This theme includes various shades of white for different background/foreground levels.
 
-**Hex Codes                    
+![](/assets/Light Theme.png)
+
+**Hex Codes                      
 **
 
 •    E0E0E0
@@ -122,6 +118,8 @@ By default, most applications will follow the light theme. This theme includes v
 ## Dark Theme
 
 Some applications may wish to also incorporate a dark theme. This theme includes various shades of black and grey for different background/foreground levels.
+
+![](/assets/Dark Theme.png)
 
 **Hex codes:    **
 
@@ -141,6 +139,8 @@ Please refer to the alerts section and the colour section for more information.
 
 ### Info Colours
 
+![](/assets/info_colours.png)
+
 _**Info colours are used when providing additional information and notes to the user. **_
 
 **Info hex codes:  **
@@ -152,6 +152,8 @@ _**Info colours are used when providing additional information and notes to the 
 •    D7FAFF
 
 ### Warning Colours
+
+![](/assets/warning_colours.png)
 
 _**Warning colours are used for notices that require the user’s acknowledgement.**_
 
@@ -165,6 +167,8 @@ _**Warning colours are used for notices that require the user’s acknowledgemen
 
 ### Error Colours
 
+![](/assets/error_colours.png)
+
 _**Error colours are used to indicate system failures and malfunctions. **_
 
 **Error hex codes:  **
@@ -176,6 +180,8 @@ _**Error colours are used to indicate system failures and malfunctions. **_
 •    F3E9E8
 
 ### Success Colours
+
+![](/assets/success_colours.png)
 
 _**Success colours are used when confirming that the user’s input was successful. **_
 
