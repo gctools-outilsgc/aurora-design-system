@@ -2,6 +2,8 @@
 
 ## Tags
 
+![](/assets/tags.png)
+
 Tags represent a set of user-generated keywords that help label, organize and categorize content. They are useful because they provide metadata that makes content searchable. Tags can be added or removed from content by the author.
 
 Tags are usually displayed near the title of the content, in close proximity to other information such as the date posted, number of likes and author.
@@ -13,6 +15,8 @@ Tags may also include a right-aligned remove button beside the text. This button
 Tags are sized to match the length of the keywords with padding of 7px on the top, right and bottom, and 10px on the left.
 
 ## Chips
+
+![](/assets/Chips.png)
 
 Chips represent contact information, typically including a user's avatar and name, with a link to their profile.
 
@@ -27,6 +31,8 @@ Chips have 3 different variations and are displayed as follows:
 **Hover:**Same as the user-controlled chip but has a background colour of 4D5D6C and theremoveicon is white with a transparent x. Small avatar \(26 x 26px\) aligned to the left.
 
 ## Pills
+
+![](/assets/Pills.png)
 
 Pills are similar to chips, but aren't necessarily associated with a particular user. They are styled the same but without the left-aligned avatar.
 
