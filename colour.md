@@ -14,6 +14,8 @@ Throughout the design system, documentation about elements will specify which co
 
 The palette used in this system is titled** Thunder and Lightning** and uses the following hex codes:
 
+![](/assets/Asset 1.png)
+
 Primary: 002D42
 
 Secondary: 96A8B2, 4D5D6C, CECECE
@@ -24,7 +26,7 @@ Accent: FEC04F
 
 Below are some sample palettes you may wish to use for your application or website. Each palette includes a primary colour, secondary colours and an accent colour. All palettes use fully accessible contrast ratios.
 
-**Blue Complimentary**
+![](/assets/Asset 2.png)
 
 Primary: 0D467D
 
@@ -32,7 +34,9 @@ Secondary: 0BA7B4, 6DD2DA
 
 Accent: FEC04F, FF9F40
 
-**Aurora Borealis**
+
+
+![](/assets/Asset 3.png)
 
 Primary: 000A3D, 467B8D
 
@@ -40,7 +44,9 @@ Secondary: 43BDBC, 55C0A3
 
 Accent: ADE18D
 
-**Green and Blue**
+
+
+![](/assets/Asset 4.png)
 
 Primary: 0278A4, 83C3F2
 
@@ -48,7 +54,9 @@ Secondary: 7B9F3F, C9DF61
 
 Accent: 4E4741
 
-**Triad**
+
+
+![](/assets/Asset 5.png)
 
 Primary: 024571, 2CADAD
 
@@ -100,7 +108,7 @@ _**\(include example\)**_
 
 By default, most applications will follow the light theme. This theme includes various shades of white for different background/foreground levels.
 
-**Hex Codes                  
+**Hex Codes                    
 **
 
 •    E0E0E0
