@@ -2,7 +2,7 @@
 
 System notifications are short messages that appear to communicate information to the user. Notifications appear as pop-up banners which need to be dismissed or timed-out. There are four levels of severity which can be applied to the notifications: error,  warning, information and success.
 
-Design system's notifications in descending level of severity:
+Design systems notifications in descending level of severity:
 
 ### Error
 
@@ -60,7 +60,7 @@ Hex colour for success notifications: \#278400
 
 ### **Position**
 
-Notifications should be located at the top of the page, or wherever is most convenient and visible for the user. 
+Notifications should be located at the top of the page, or wherever is most convenient and visible for the user.
 
 ### **Font**
 
@@ -93,6 +93,4 @@ Long notifications \(70-140 characters\) should be timed with a:
 * Hide animation of 2 seconds.
 
 If your notification will be longer than 140 characters, consider a different method of communicating the message.
-
-
 
