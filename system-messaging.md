@@ -1,4 +1,4 @@
-# System Notifcations
+# System Notifications
 
 System notifications are short messages that appear to communicate information to the user. Notifications appear as pop-up banners which need to be dismissed or timed-out. There are four levels of severity which can be applied to the notifications: error,  warning, information and success.
 
