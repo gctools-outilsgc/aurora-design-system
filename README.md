@@ -6,8 +6,4 @@ This project is happening parallel to the rebuild of our digital products, inclu
 
 This design system is being built in collaboration with multiple teams and departments, including the Canadian Digital Service, Talent Cloud and IRCC, and will be available for any Government of Canada or other external teams that wish to use the system to build their own products.
 
-For more information, visit [http://www.gcpedia.gc.ca/wiki/DCD\_design\_system    
-](http://www.gcpedia.gc.ca/wiki/DCD_design_system)
-
 To read the design system documentation, visit [https://gctools-outilsgc.gitbooks.io/-gcdigital-design-system/content/](https://gctools-outilsgc.gitbooks.io/-gcdigital-design-system/content/)
-
