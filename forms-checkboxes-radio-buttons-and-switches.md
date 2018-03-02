@@ -10,9 +10,13 @@ Labels should be designed with the user in mind. The user needs to be able to ea
 
 Labels should follow the vertical format of the form. Place labels above the field they are related to. Group a label with its field so that there is a clear distinction between fields. Do not use placeholder text for labels as this prevents the user from properly reviewing the form.
 
+\(Example image\).
+
 ### Text in Labels
 
 How labels are written affects their legibility. Do not write labels in all caps as this diminishes their readability. Labels should not be the same as placeholder text, they should both be their own separate entity. Don’t use symbols to represent required content etc. write out the information, as the user may not understand what the symbol means.
+
+\(example image\).
 
 ## Checkboxes
 
@@ -28,5 +32,5 @@ Radio buttons should follow the vertical format of the form i.e. they should be 
 
 \(For more information see [Buttons](https://www.gitbook.com/book/gctools-outilsgc/-gcdigital-design-system/edit#/edit/master/buttons.md?_k=1dnju1)\)
 
-Buttons in forms should clearly state their functional action. Secondary action buttons should be differentiated from primary action buttons. 
+Buttons in forms should clearly state their functional action. Secondary action buttons should be differentiated from primary action buttons.
 
