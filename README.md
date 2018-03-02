@@ -7,3 +7,6 @@ This project is happening parallel to the rebuild of our digital products, inclu
 This design system is being built in collaboration with multiple teams and departments, including the Canadian Digital Service, Talent Cloud and IRCC, and will be available for any Government of Canada or other external teams that wish to use the system to build their own products.
 
 To read the design system documentation, visit [https://gctools-outilsgc.gitbooks.io/-gcdigital-design-system/content/](https://gctools-outilsgc.gitbooks.io/-gcdigital-design-system/content/)
+
+Read more about GCTools at [https://www.canada.ca/en/treasury-board-secretariat/campaigns/gctools-hackathon/gctools.html](GCTools)
+
