@@ -98,7 +98,7 @@ Each of the states for secondary buttons are as follows:
 
 ![](/assets/button_secondary_disabled.png)
 
-**Disabled state: **Fill colour of \#CECECE, with white text. Border radius of 5px and padding of 15px. 
+**Disabled state: **Fill colour of \#CECECE, with white text. Border radius of 5px and padding of 15px.
 
 ### Position
 
@@ -110,23 +110,25 @@ Drop down buttons display a list of items when clicked. They are used for two-st
 
 ![](/assets/button_drop down.png)
 
-**Regular State: **Similar to the primary button, drop-down buttons use the primary colour at 100% opacity, white text, with a border radius of 4px and padding of 15px. The drop-down arrow represents a space of 30px by 40px, which is separated from the primary button using a white line. The arrow uses a space of 15px width and 8px in height. 
+**Regular State: **Similar to the primary button, drop-down buttons use the primary colour at 100% opacity, white text, with a border radius of 4px and padding of 15px. The drop-down arrow represents a space of 30px by 40px, which is separated from the primary button using a white line. The arrow uses a space of 15px width and 8px in height.
+
+
 
 ![](/assets/button_drop down_hover_1.png)
 
 ![](/assets/button_drop down_hover_2.png)
 
-**Hover States: **Similar to the primary button, drop-down buttons use the primary colour at 100% opacity, white text, with a border radius of 4px and padding of 15px. The drop-down arrow represents a space of 30px by 40px, which is separated from the primary button using a white line. The arrow uses a space of 15px width and 8px in height. Whichever piece of the button \(primary or drop-down section\) is being hovered over is shown at 80% opacity. 
+**Hover States: **Similar to the primary button, drop-down buttons use the primary colour at 100% opacity, white text, with a border radius of 4px and padding of 15px. The drop-down arrow represents a space of 30px by 40px, which is separated from the primary button using a white line. The arrow uses a space of 15px width and 8px in height. Whichever piece of the button \(primary or drop-down section\) is being hovered over is shown at 80% opacity.
 
 ![](/assets/button_drop down_focus_1.png)
 
-**Focus State: **Similar to the primary button, drop-down buttons use the primary colour at 100% opacity, white text, with a border radius of 4px and padding of 15px. The drop-down arrow represents a space of 30px by 40px, which is separated from the primary button using a white line. The arrow uses a space of 15px width and 8px in height. Whichever piece of the button \(primary or drop-down section\) is being focused on is shown at 80% opacity and includes a stroke of 3pts in the primary colour. 
+**Focus State: **Similar to the primary button, drop-down buttons use the primary colour at 100% opacity, white text, with a border radius of 4px and padding of 15px. The drop-down arrow represents a space of 30px by 40px, which is separated from the primary button using a white line. The arrow uses a space of 15px width and 8px in height. Whichever piece of the button \(primary or drop-down section\) is being focused on is shown at 80% opacity and includes a stroke of 3pts in the primary colour.
 
 ![](/assets/button_drop down_pressed.png)
 
-**Pressed State: **When the drop-down arrow is pressed, this arrow section of the button is displayed at 80% opacity and a drop-down menu is displayed below. The action box uses a 1pt border using \#CECECE. The box has a border radius of 4px. The width of the box is 166px, and the height depends on the number of actions, using 40px per action. 
+**Pressed State: **When the drop-down arrow is pressed, this arrow section of the button is displayed at 80% opacity and a drop-down menu is displayed below. The action box uses a 1pt border using \#CECECE. The box has a border radius of 4px. The width of the box is 166px, and the height depends on the number of actions, using 40px per action. On hover, the 40px around the action is displayed using \#CECECE
 
-Action text follows the 
+
 
 ## Split Buttons
 
@@ -137,6 +139,8 @@ The default action represented in the split button is the most commonly used, wh
 One of the best examples of a split button is an email reply button. Reply is represented as the default, since it is the most common, while the drop-down menu will provide other options such as Reply to all, Forward, or Delete.
 
 ## Button Groups \(?\)
+
+
 
 ## Menu Buttons
 

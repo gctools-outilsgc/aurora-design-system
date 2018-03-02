@@ -80,7 +80,7 @@ There are three different types of lists:
 
 **Interactive lists: **Interactive lists include content that is clickable. These lists include a hover and click state, and act as minor navigation points.
 
-![](/assets/Asset 7.png)
+
 
 ## Hyperlinks
 
