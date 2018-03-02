@@ -12,7 +12,7 @@ Labels should follow the vertical format of the form. Place labels above the fie
 
 ### Text in Labels
 
-How labels are written affects their legibility. Do not write labels in all caps as this diminishes their readability. Labels should not be the same as placeholder text, they should both be their own separate entity. Don’t use symbols to represent optional content etc. write out the information, as the user may not understand what the symbol means.
+How labels are written affects their legibility. Do not write labels in all caps as this diminishes their readability. Labels should not be the same as placeholder text, they should both be their own separate entity. Don’t use symbols to represent required content etc. write out the information, as the user may not understand what the symbol means.
 
 ## Checkboxes
 
