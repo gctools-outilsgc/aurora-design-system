@@ -24,11 +24,11 @@ Label text has high contrast with the button colour. See below for specific text
 
 ## Varying States
 
-Buttons are not one-state objects. Most users will recognize a button because of it's hover and active states. Varying states also provide feedback to the user at each stage of performing the action.
+Buttons are not one-state objects. Most users will recognize a button because of its hover and active states. Varying states also provide feedback to the user at each stage of performing the action.
 
 Buttons should include normal, hover, focus, active and disabled states:
 
-**Normal: **Even in it's normal state, a button should look like a button! Before hovering, a user should be able to tell that an element is clickable.
+**Normal: **Even in its normal state, a button should look like a button! Before hovering, a user should be able to tell that an element is clickable.
 
 **Hover: **Usually indicated by a change in colour or animation, hover states indicate to the user that the element is clickable.
 
@@ -102,11 +102,29 @@ Each of the states for secondary buttons are as follows:
 
 ### Position
 
-Secondary buttons are usually in close proximity to the primary button, but not in a location where the user might mistake the two. Secondary buttons are usually placed to the \(left/right\) of the primary button_. **They should have a consistent placement relative to the primary button to avoid confusion. **\_
+Secondary buttons are usually in close proximity to the primary button, but not in a location where the user might mistake the two. Secondary buttons are usually placed to the right of the primary button_. _They should have a consistent placement relative to the primary button to avoid confusion. 
 
 ## Drop-Down Buttons
 
 Drop down buttons display a list of items when clicked. They are used for two-step processes that may require more specific options for a singular action.
+
+![](/assets/button_drop down.png)
+
+**Regular State: **Similar to the p,rimary button, drop-down buttons use the primary colour at 100% opacity
+
+![](/assets/button_drop down_hover_1.png)
+
+![](/assets/button_drop down_hover_2.png)
+
+**Hover States:**
+
+![](/assets/button_drop down_focus_1.png)
+
+**Focus State:**
+
+![](/assets/button_drop down_pressed.png)
+
+**Pressed State: **
 
 ## Split Buttons
 
