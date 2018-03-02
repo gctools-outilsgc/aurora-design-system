@@ -1,6 +1,8 @@
 # Icons
 
-Icons in this system use SVG icons from[Font Awesome](https://www.gitbook.com/book/gctools-outilsgc/-gcdigital-design-system/edit).
+![](/assets/font awesome.PNG)
+
+Icons in this system use SVG icons from [Font Awesome](https://www.gitbook.com/book/gctools-outilsgc/-gcdigital-design-system/edit).
 
 SVG icons are recommended over icon fonts for a variety of reasons:
 
