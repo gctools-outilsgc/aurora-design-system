@@ -10,3 +10,20 @@ To read the design system documentation, visit [https://gctools-outilsgc.gitbook
 
 Read more about GCTools at [https://www.canada.ca/en/treasury-board-secretariat/campaigns/gctools-hackathon/gctools.html](GCTools)
 
+[https://zube.io/tbs-sct/design-system/w/main-workspace/kanban](Design System Zube board)
+
+The design system project was started by the Digital Collaboration Division (GCTools) in collaboration with the Canadian Digital Service, Immigration, Refugees and Citizenship Canada, Talent Cloud, and TBS Interoperability.
+
+# \#What is a design system?
+
+A catalogue of everything that makes up your digital product, including UI elements, writing style, guiding principles, coding standards, visual design, etc. The system provides information about your product or set of products, and provides reusable components for easy development.
+
+Building a design system is a collaborative effort and requires expertise across all fields in web/application design. A design system takes into account all aspects of the product and encompasses all levels of the user and the creator’s experience. 
+
+# \#Why do we want to build one? 
+
+* Consistency across applications and platforms, particularly taking into consideration the rebuild of the GCTools or other digital collaboration services. 
+* Partnership opportunities with interested communities, including the Canadian Digital Service, Talent Cloud, other teams in CIOB, and the design team at IRCC. 
+* Saves development and design time since components are reusable and effectively organized. Would complement the agile development process by removing the need for multiple design and UI iterations.  
+* Specifications for designing new features are determined right from the start, so more time can be spent on business and complex decisions. Less focus on repetitive design problems throughout the process of new development. 
+* Ability to stay current with external design and technology trends, especially with rapid change in the industry. 
