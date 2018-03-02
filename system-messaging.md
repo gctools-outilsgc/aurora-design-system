@@ -78,7 +78,7 @@ Example of a clear notification: Your profile picture has been changed successfu
 
 #### Timing-out
 
-Notifications, with the exception of warnings which require manual dismissal, are automatically timed-out to improve the flow of the website. The timing-out of notifications is based on the conservative estimate of a reading speed of 200 words-per-minute.
+Notifications, with the exception of errors which require manual dismissal, are automatically timed-out to improve the flow of the website. The timing-out of notifications is based on the conservative estimate of a reading speed of 200 words-per-minute.
 
 Short notifications \(70 characters or fewer\) should be timed with a:
 
