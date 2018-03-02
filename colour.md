@@ -104,7 +104,7 @@ By default, most applications will follow the light theme. This theme includes v
 
 ![](/assets/Light Theme.png)
 
-**Hex Codes                      
+**Hex Codes                        
 **
 
 •    E0E0E0

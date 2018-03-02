@@ -48,6 +48,8 @@ Used directly on the user's profile.
 
 Thumbnails are small versions of an image that are used as previews to content. They are often combined with other components such as cards, comments, image previews, etc.
 
+![](/assets/thumbnail_1.png)
+
 Thumbnails are always square with corners rounded by 1px. They have a black stroke width of 0.25px. They are sized at 115 x 115 pixels. _**\(responsive sizing?\)**_
 
 Thumbnails do not crop the image but simply re-scale it. Thumbnails are typically left-aligned when combined with other components.
