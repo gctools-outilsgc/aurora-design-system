@@ -28,5 +28,5 @@ Radio buttons should follow the vertical format of the form i.e. they should be 
 
 \(For more information see [Buttons](https://www.gitbook.com/book/gctools-outilsgc/-gcdigital-design-system/edit#/edit/master/buttons.md?_k=1dnju1)\)
 
-Buttons in forms should clearly state their functional action. 
+Buttons in forms should clearly state their functional action. Secondary action buttons should be differentiated from primary action buttons. 
 
