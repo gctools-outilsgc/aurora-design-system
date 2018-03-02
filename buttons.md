@@ -4,7 +4,7 @@
 
 ## Best Practices
 
-Buttons tend to have visual prominence on any given page or window.  Primary buttons, buttons that indicate a call to action, are the most prominent. _**Secondary buttons, which indicate less commonly used actions, should be less prominent than primary buttons. \(Are buttons always for actions?\)**_ Buttons are placed where a user should expect them, i.e. in close proximity to the other elements that the action affects.
+Buttons tend to have visual prominence on any given page or window.  Primary buttons, buttons that indicate a call to action, are the most prominent. Secondary buttons, which indicate less commonly used actions, should be less prominent than primary buttons. Buttons always indicate an action and are not to be used for navigation.  Buttons are placed where a user should expect them, i.e. in close proximity to the other elements that the action affects.
 
 ## Size and Padding
 
@@ -60,8 +60,6 @@ Each of the states for primary buttons are as follows:
 
 **Focus state: **primary colour at 80% opacity, white text, with a border radius of 4px and padding of 15px. Includes a 3px stroke in the primary colour.
 
-
-
 **Active state: **_**\(to complete\)**_
 
 ![](/assets/button_primary_disabled.png)
@@ -95,8 +93,6 @@ Each of the states for secondary buttons are as follows:
 ![](/assets/button_secondary_focus.png)
 
 **Focus state: **transparent with a 3px stroke using black, the text is displayed in black. Border radius of 4px and padding of 15px.
-
-
 
 **Active state: **_**\(to complete\)**_
 
