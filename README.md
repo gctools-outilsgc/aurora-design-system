@@ -31,9 +31,9 @@ Building a design system is a collaborative effort and requires expertise across
 
 Read the design system documentation on gitbooks: [https://gctools-outilsgc.gitbooks.io/-gcdigital-design-system/content/](https://gctools-outilsgc.gitbooks.io/-gcdigital-design-system/content/)
 
-Read about the goals of GCTools at [https://www.canada.ca/en/treasury-board-secretariat/campaigns/gctools-hackathon/gctools.html](GCTools)
+Read about the goals of GCTools at [GCTools](https://www.canada.ca/en/treasury-board-secretariat/campaigns/gctools-hackathon/gctools.html)
 
-Kanban Planning: [https://zube.io/tbs-sct/design-system/w/main-workspace/kanban ] ( Zube board requires login)
+Kanban Planning: [https://zube.io/tbs-sct/design-system/w/main-workspace/kanban Zube board requires login] ( https://zube.io/tbs-sct/design-system/w/main-workspace/kanban )
 
 ## Contents
 
