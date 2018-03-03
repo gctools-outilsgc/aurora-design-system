@@ -33,7 +33,7 @@ Read the design system documentation on gitbooks: [https://gctools-outilsgc.gitb
 
 Read about the goals of GCTools at [https://www.canada.ca/en/treasury-board-secretariat/campaigns/gctools-hackathon/gctools.html](GCTools)
 
-Kanban Planning: [https://zube.io/tbs-sct/design-system/w/main-workspace/kanban](Design System Zube board)
+Kanban Planning: [https://zube.io/tbs-sct/design-system/w/main-workspace/kanban ] ( Zube board requires login)
 
 ## Contents
 
