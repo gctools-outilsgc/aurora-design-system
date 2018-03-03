@@ -24,12 +24,12 @@ Building a design system is a collaborative effort and requires expertise across
 Ensure a seamless experience for users across platforms that is easy to use, and quick for developers and designers to implement. The design system will provide a basic framework with guiding principles and components, with the ability to be adapted to other brands and needs. 
 
 ## Guiding Principles
-Simple and flexible: a lightweight system that allows individual teams to adapt branding and other design elements to suit a specific project. The system will provide guidelines for all necessary elements without being restrictive.
-Fun to use: the system itself will have a pleasing design that is easy for developers and designers to navigate and adapt to their needs. Using the system will make their jobs easier rather than add an extra burden or obligations to follow.
-Re-usable: all components and principles included in the design system are generic enough to suit a variety of needs for multiple teams. Code and design elements can easily be extracted to create new products. Communications guidelines are easy to understand and follow.
-Diverse: The design system will cover a variety of needs and types of products. The system will also cover necessary government obligations such as official languages and accessibility.
-Technology agnostic: the design system is applicable regardless of which technology framework the team decides to use for their project.
-Open: the design system will be open and accessible to anyone who wishes to use it. All code is open source, and other guidelines and elements are free to copy.
+* _Simple and flexible_: a lightweight system that allows individual teams to adapt branding and other design elements to suit a specific project. The system will provide guidelines for all necessary elements without being restrictive.
+* _Fun to use_: the system itself will have a pleasing design that is easy for developers and designers to navigate and adapt to their needs. Using the system will make their jobs easier rather than add an extra burden or obligations to follow.
+* _Re-usable_: all components and principles included in the design system are generic enough to suit a variety of needs for multiple teams. Code and design elements can easily be extracted to create new products. Communications guidelines are easy to understand and follow.
+* _Diverse_: The design system will cover a variety of needs and types of products. The system will also cover necessary government obligations such as official languages and accessibility.
+* _Technology agnostic_: the design system is applicable regardless of which technology framework the team decides to use for their project.
+* _Open_: the design system will be open and accessible to anyone who wishes to use it. All code is open source, and other guidelines and elements are free to copy.
 
 ## Why do we want to build one? 
 
