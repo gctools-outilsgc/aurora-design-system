@@ -41,13 +41,13 @@ Ensure a seamless experience for users across platforms that is easy to use, and
 
 ## Design System Documentation
 
-Read the design system documentation on gitbooks: [GCDigital Design System](https://gctools-outilsgc.gitbooks.io/-gcdigital-design-system/content/)
+Read the design system documentation on Gitbook: [GCDigital Design System](https://gctools-outilsgc.gitbooks.io/-gcdigital-design-system/content/)
 
 Read about the goals of GCTools at [GCTools](https://www.canada.ca/en/treasury-board-secretariat/campaigns/gctools-hackathon/gctools.html)
 
 Kanban Planning \(requires login\) \(404\): [Zube](https://zube.io/tbs-sct/design-system/w/main-workspace/kanban )
 
-## Contents
+## Contents (still in draft)
 
 * [What's New](whats-new.md)
 * [Frequently Asked Questions](frequently-asked-questions.md)
