@@ -18,7 +18,7 @@ Some systems may not be able to download or display the fonts in this design sys
 
 **Rubik** is a sans-serif font designed by Philipp Hubert and Sebastian Fischer for the Chrome Cube Lab project. With 5 different weights, Rubik works well as a paragraph or display font. Rubik is popular internationally and is used in more than 180,000 websites.
 
-**Nunito Sans** is part of Google's superfamily typefaces. It was created by Vernon Adams and improved by Jacques Le Bailly to include a full set of weights. This font is popular all over the world and is used by 50,000 websites.
+**Nunito Sans** is part of Google's super family typefaces. It was created by Vernon Adams and improved by Jacques Le Bailly to include a full set of weights. This font is popular all over the world and is used by 50,000 websites.
 
 ## Titles \(H1\)
 
