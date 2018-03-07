@@ -16,7 +16,7 @@
 * [System Messaging](system-messaging.md)
 * [Grids and Spacing](grids-and-spacing.md)
 * [Forms: Overall design and labels](forms-overall-design-and-labels.md)
-* [Forms: Checkboxes, Radio Buttons and Switches](forms-checkboxes-radio-buttons-and-switches.md)
+* [Forms: Button Inputs](forms-checkboxes-radio-buttons-and-switches.md)
 * [Forms: Inputs](forms-inputs.md)
 * [Additional Resources](additional-resources.md)
 
