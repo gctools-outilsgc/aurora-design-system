@@ -2,9 +2,9 @@
 
 ## Fonts
 
-The Digital Collaboration Division uses two font families for all digital products: Rubik and Nunito Sans. Both Rubik and Nunito Sans are open source fonts and can be downloaded from Google Fonts for free.
+The Digital Collaboration Division uses two font families for all digital products: Rubik and Nunito Sans. Both Rubik and Nunito Sans are open source fonts and can be downloaded from [Google Fonts](https://fonts.google.com/) for free.
 
-Rubik is used for titles and headings, while Nunito Sans is used for sub-headings, buttons and paragraph text.
+[Rubik](https://fonts.google.com/specimen/Rubik) is used for titles and headings, while [Nunito Sans](https://fonts.google.com/specimen/Nunito+Sans) is used for sub-headings, buttons and paragraph text.
 
 ### Font Choice
 
@@ -79,8 +79,6 @@ There are three different types of lists:
 **Ordered lists: **Ordered lists use numbers to indicate content that requires a hierarchy.
 
 **Interactive lists: **Interactive lists include content that is clickable. These lists include a hover and click state, and act as minor navigation points.
-
-
 
 ## Hyperlinks
 
