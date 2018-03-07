@@ -74,7 +74,7 @@ Primary buttons should be located in the most prominent and convenient location 
 
 Secondary buttons are used for actions that are necessary to provide, but that users may click less often. Examples include actions such as Cancel submission, Delete or Back to menu._** \(All of these are reverse actions. Is that something to mention maybe?\)**_ These buttons have a visual weight that is equal to or less than the majority of elements on the page. The secondary button is usually placed in close proximity to the primary button. Try to keep button labels limited to one or two words.
 
-Secondary buttons, particularly ones used for destructive actions, should be designed in a way that deters users from clicking on it. _**For example, the button could be in a shade of red.**_** **This helps minimize mistakes.
+Secondary buttons, particularly ones used for destructive actions, should be designed in a way that deters users from clicking on it. For example, the button could be in a shade of red.** **This helps minimize mistakes.
 
 For permanent destructive secondary actions, such as Delete, clicking the button may bring the user to a second window to confirm the action.
 
@@ -132,7 +132,7 @@ Split buttons are more complex than drop-down buttons. Instead of referring to a
 
 The default action represented in the split button is the most commonly used, while the actions presented in the drop-down are alternates that are used only occasionally.
 
-One of the best examples of a split button is an email reply button. Reply is represented as the default, since it is the most common, while the drop-down menu will provide other options such as Reply to all, Forward, or Delete.
+One of the best examples of a split button is an email reply button. _Reply_ is represented as the default, since it is the most common, while the drop-down menu will provide other options such as _Reply to all_, _Forward_, or _Delete_.
 
 ## Button Groups \(?\)
 
