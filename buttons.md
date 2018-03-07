@@ -1,6 +1,4 @@
-# Buttons
-
-# ![](/assets/buttons.png)
+# Buttons![](/assets/buttons.png)
 
 ## Best Practices
 
