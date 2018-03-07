@@ -112,8 +112,6 @@ Drop down buttons display a list of items when clicked. They are used for two-st
 
 **Regular State: **Similar to the primary button, drop-down buttons use the primary colour at 100% opacity, white text, with a border radius of 4px and padding of 15px. The drop-down arrow represents a space of 30px by 40px, which is separated from the primary button using a white line. The arrow uses a space of 15px width and 8px in height.
 
-
-
 ![](/assets/button_drop down_hover_1.png)
 
 ![](/assets/button_drop down_hover_2.png)
@@ -128,8 +126,6 @@ Drop down buttons display a list of items when clicked. They are used for two-st
 
 **Pressed State: **When the drop-down arrow is pressed, this arrow section of the button is displayed at 80% opacity and a drop-down menu is displayed below. The action box uses a 1pt border using \#CECECE. The box has a border radius of 4px. The width of the box is 166px, and the height depends on the number of actions, using 40px per action. On hover, the 40px around the action is displayed using \#CECECE
 
-
-
 ## Split Buttons
 
 Split buttons are more complex than drop-down buttons. Instead of referring to a singular action, a split button acts as two distinct buttons in one. A split button provides a default action, while the arrow on the right provides a drop-down list of alternate actions.
@@ -139,8 +135,6 @@ The default action represented in the split button is the most commonly used, wh
 One of the best examples of a split button is an email reply button. Reply is represented as the default, since it is the most common, while the drop-down menu will provide other options such as Reply to all, Forward, or Delete.
 
 ## Button Groups \(?\)
-
-
 
 ## Menu Buttons
 
@@ -154,7 +148,7 @@ i.e in WSIWYG editor, Like button, share button
 
 Icon buttons or buttons with a dedicated shortcut \(i.e. Ctrl + S for Save\) should include a tooltip in the hover state.
 
-## Ratings/Likes
+## 
 
 
 
