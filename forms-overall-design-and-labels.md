@@ -4,11 +4,13 @@
 
 Forms should be designed vertically as this improves their scanability. When possible, a form should be one column.
 
-Inputs should be grouped and sequenced in the most logical way possible. If multiple inputs are required for one grouping of information \(i.e. street address, postal code, and province\), these inputs should be placed in close proximity to each other.  
+Information can be presented in multiple columns if they are grouped together \(i.e. first name and last name fields\). 
 
-Typically forms start with the most important or common information such as username, password, first or last name, email address, etc. 
+Inputs should be grouped and sequenced in the most logical way possible. If multiple inputs are required for one grouping of information \(i.e. street address, postal code, and province\), these inputs should be placed in close proximity to each other.
 
-For complicated forms, information should be displayed using multiple steps or pages. If this is the case, it is important to include a progress bar throughout the form, as well as a way to navigate both forwards and backwards between steps. 
+Typically forms start with the most important or common information such as username, password, first or last name, email address, etc.
+
+For complicated forms, information should be displayed using multiple steps or pages. If this is the case, it is important to include a progress bar throughout the form, as well as a way to navigate both forwards and backwards between steps.
 
 ## Labels
 
@@ -30,15 +32,13 @@ _**\(example image\).**_
 
 ## Placeholder Text
 
-Placeholder text is text that appears directly in the input field. This text is not meant to be used as a label, but can provide supplemental information or an example for the user. 
+Placeholder text is text that appears directly in the input field. This text is not meant to be used as a label, but can provide supplemental information or an example for the user.
 
-Placeholder text is meant to help the user more accurately complete the field rather than be the primary indicator of field content. 
+Placeholder text is meant to help the user more accurately complete the field rather than be the primary indicator of field content.
 
-As soon as the user starts typing in the field, the placeholder text should disappear. 
+As soon as the user starts typing in the field, the placeholder text should disappear.
 
 _**\(Example image here\)**_
 
-For more information about placeholder text design, refer to the [_Typography_](/typography.md) section. 
-
-
+For more information about placeholder text design, refer to the [_Typography_](/typography.md) section.
 
