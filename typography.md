@@ -2,9 +2,9 @@
 
 ## Fonts
 
-The Digital Collaboration Division uses two font families for all digital products: Rubik and Nunito Sans. Both Rubik and Nunito Sans are open source fonts and can be downloaded from Google Fonts for free.
+The Digital Collaboration Division uses two font families for all digital products: Rubik and Nunito Sans. Both Rubik and Nunito Sans are open source fonts and can be downloaded from [Google Fonts](https://fonts.google.com/) for free.
 
-Rubik is used for titles and headings, while Nunito Sans is used for sub-headings, buttons and paragraph text.
+[Rubik](https://fonts.google.com/specimen/Rubik) is used for titles and headings, while [Nunito Sans](https://fonts.google.com/specimen/Nunito+Sans) is used for sub-headings, buttons and paragraph text.
 
 ### Font Choice
 
@@ -18,7 +18,7 @@ Some systems may not be able to download or display the fonts in this design sys
 
 **Rubik** is a sans-serif font designed by Philipp Hubert and Sebastian Fischer for the Chrome Cube Lab project. With 5 different weights, Rubik works well as a paragraph or display font. Rubik is popular internationally and is used in more than 180,000 websites.
 
-**Nunito Sans** is part of Google's superfamily typefaces. It was created by Vernon Adams and improved by Jacques Le Bailly to include a full set of weights. This font is popular all over the world and is used by 50,000 websites.
+**Nunito Sans** is part of Google's super family typefaces. It was created by Vernon Adams and improved by Jacques Le Bailly to include a full set of weights. This font is popular all over the world and is used by 50,000 websites.
 
 ## Titles \(H1\)
 
@@ -79,8 +79,6 @@ There are three different types of lists:
 **Ordered lists: **Ordered lists use numbers to indicate content that requires a hierarchy.
 
 **Interactive lists: **Interactive lists include content that is clickable. These lists include a hover and click state, and act as minor navigation points.
-
-
 
 ## Hyperlinks
 

@@ -1,6 +1,4 @@
-# Buttons
-
-# ![](/assets/buttons.png)
+# Buttons![](/assets/buttons.png)
 
 ## Best Practices
 
@@ -74,7 +72,7 @@ Primary buttons should be located in the most prominent and convenient location 
 
 Secondary buttons are used for actions that are necessary to provide, but that users may click less often. Examples include actions such as Cancel submission, Delete or Back to menu._** \(All of these are reverse actions. Is that something to mention maybe?\)**_ These buttons have a visual weight that is equal to or less than the majority of elements on the page. The secondary button is usually placed in close proximity to the primary button. Try to keep button labels limited to one or two words.
 
-Secondary buttons, particularly ones used for destructive actions, should be designed in a way that deters users from clicking on it. _**For example, the button could be in a shade of red.**_** **This helps minimize mistakes.
+Secondary buttons, particularly ones used for destructive actions, should be designed in a way that deters users from clicking on it. For example, the button could be in a shade of red.** **This helps minimize mistakes.
 
 For permanent destructive secondary actions, such as Delete, clicking the button may bring the user to a second window to confirm the action.
 
@@ -112,8 +110,6 @@ Drop down buttons display a list of items when clicked. They are used for two-st
 
 **Regular State: **Similar to the primary button, drop-down buttons use the primary colour at 100% opacity, white text, with a border radius of 4px and padding of 15px. The drop-down arrow represents a space of 30px by 40px, which is separated from the primary button using a white line. The arrow uses a space of 15px width and 8px in height.
 
-
-
 ![](/assets/button_drop down_hover_1.png)
 
 ![](/assets/button_drop down_hover_2.png)
@@ -128,19 +124,15 @@ Drop down buttons display a list of items when clicked. They are used for two-st
 
 **Pressed State: **When the drop-down arrow is pressed, this arrow section of the button is displayed at 80% opacity and a drop-down menu is displayed below. The action box uses a 1pt border using \#CECECE. The box has a border radius of 4px. The width of the box is 166px, and the height depends on the number of actions, using 40px per action. On hover, the 40px around the action is displayed using \#CECECE
 
-
-
 ## Split Buttons
 
 Split buttons are more complex than drop-down buttons. Instead of referring to a singular action, a split button acts as two distinct buttons in one. A split button provides a default action, while the arrow on the right provides a drop-down list of alternate actions.
 
 The default action represented in the split button is the most commonly used, while the actions presented in the drop-down are alternates that are used only occasionally.
 
-One of the best examples of a split button is an email reply button. Reply is represented as the default, since it is the most common, while the drop-down menu will provide other options such as Reply to all, Forward, or Delete.
+One of the best examples of a split button is an email reply button. _Reply_ is represented as the default, since it is the most common, while the drop-down menu will provide other options such as _Reply to all_, _Forward_, or _Delete_.
 
 ## Button Groups \(?\)
-
-
 
 ## Menu Buttons
 
@@ -154,7 +146,7 @@ i.e in WSIWYG editor, Like button, share button
 
 Icon buttons or buttons with a dedicated shortcut \(i.e. Ctrl + S for Save\) should include a tooltip in the hover state.
 
-## Ratings/Likes
+## 
 
 
 
