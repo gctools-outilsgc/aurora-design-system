@@ -4,7 +4,7 @@
 
 Forms should be designed vertically as this improves their scanability. When possible, a form should be one column.
 
-Information can be presented in multiple columns if they are grouped together \(i.e. first name and last name fields\). 
+Information can be presented in multiple columns if they are grouped together \(i.e. first name and last name fields\).
 
 Inputs should be grouped and sequenced in the most logical way possible. If multiple inputs are required for one grouping of information \(i.e. street address, postal code, and province\), these inputs should be placed in close proximity to each other.
 
@@ -14,7 +14,7 @@ For complicated forms, information should be displayed using multiple steps or p
 
 ## Labels
 
-Users need to be able to easily read labels and intuitively understand how the label is related to its field. Labels should use clear but concise language and provide enough information for the user to accurately complete the required information.
+Users need to be able to easily read labels and intuitively understand how the label is related to its field. Labels should use clear but concise language, and provide enough information for the user to accurately complete the required information.
 
 If additional information is necessary beyond a label, this information should be displayed in a separate tooltip or text field. Additional information on how to complete the field might also be provided as placeholder text.
 
