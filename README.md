@@ -10,9 +10,9 @@ The design system project was started by the Digital Collaboration Division \(GC
 
 * Canadian Digital Service
 * Immigration, Refugees and Citizenship Canada, 
-* Talent Cloud, and 
-* TBS Interoperability.
-* any Government of Canada or external teams
+* Treasury Board Secretariat: Web Experience Toolkit and Canada.ca
+* Talent Cloud, and
+* other partners across the Government of Canada and externally
 
 ## What is a design system?
 
