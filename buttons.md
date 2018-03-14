@@ -140,7 +140,7 @@ One of the best examples of a split button is an email reply button. _Reply_ is 
 
 ## Icon Buttons
 
-_**\(to return to this when coding\)**_
+\(Sierra to write\)
 
 i.e in WSIWYG editor, Like button, share button
 
