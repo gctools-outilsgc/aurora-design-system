@@ -146,9 +146,7 @@ i.e  share button
 
 Icon buttons or buttons with a dedicated shortcut \(i.e. Ctrl + S for Save\) should include a tooltip in the hover state.
 
-
-
-## 
+## 1.15 em for icon size 
 
 
 
