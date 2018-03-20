@@ -142,9 +142,11 @@ One of the best examples of a split button is an email reply button. _Reply_ is 
 
 \(Sierra to write\)
 
-i.e in WSIWYG editor, Like button, share button
+i.e  share button
 
 Icon buttons or buttons with a dedicated shortcut \(i.e. Ctrl + S for Save\) should include a tooltip in the hover state.
+
+
 
 ## 
 
