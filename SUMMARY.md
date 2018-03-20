@@ -19,5 +19,6 @@
 * [Forms: Input Fields](forms-input-fields.md)
 * [Forms: Button Inputs](forms-checkboxes-radio-buttons-and-switches.md)
 * [Forms: Errors and Validation](forms-inputs.md)
+* [Forms: File Upload](forms-file-upload.md)
 * [Additional Resources](additional-resources.md)
 
