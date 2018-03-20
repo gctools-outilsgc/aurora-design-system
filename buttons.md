@@ -8,7 +8,7 @@ Buttons tend to have visual prominence on any given page or window.  Primary but
 
 Buttons used in this design system have a minimum size of 10mm x 10mm. This is the typical size of a user's finger pad when using the application on mobile. For web this minimum size is also consistent.
 
-The more white-space _**padding**_ around a button, the more prominent the button appears on the page. Most buttons in this system use 15px of padding, but are otherwise indicated. 
+The more white-space _**padding**_ around a button, the more prominent the button appears on the page. Most buttons in this system use 15px of padding, but are otherwise indicated.
 
 ## Labels
 
@@ -140,7 +140,7 @@ One of the best examples of a split button is an email reply button. _Reply_ is 
 
 ## Icon Buttons
 
-\(Sierra to write\)
+_**\(Sierra to write\)**_
 
 i.e  share button
 
