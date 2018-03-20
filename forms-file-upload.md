@@ -1,10 +1,10 @@
 # File Upload Inputs
 
-File upload input are a combination of button and input field. They are often found in forms.
+File upload input are a combination of button and input field. They are included in any form where the user has the option to include files. 
 
 The user does not input text into the input field; it automatically gets filled with file information once a file has been chosen.
 
-_**\(Sierra to write\)**_
+_Choose file_ is the action button to be selected by the user. Once clicked, the button opens a new window where the user can choose a file. File types are determined by the system parameters. 
 
 File upload inputs have four states:
 
