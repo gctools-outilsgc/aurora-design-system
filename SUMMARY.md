@@ -20,5 +20,10 @@
 * [Forms: Button Inputs](forms-checkboxes-radio-buttons-and-switches.md)
 * [Forms: Errors and Validation](forms-inputs.md)
 * [Forms: File Upload](forms-file-upload.md)
+* [Cards](cards.md)
+* [Modals](modals.md)
+* [Comments](comments.md)
+* [Progress Bars](progress-bars.md)
+* [Calendar Picker](calendar-picker.md)
 * [Additional Resources](additional-resources.md)
 
