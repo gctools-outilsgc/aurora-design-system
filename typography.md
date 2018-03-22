@@ -24,7 +24,7 @@ Some systems may not be able to download or display the fonts in this design sys
 
 Titles appear only on the top of pages and indicate high-level navigation points.
 
-Titles are displayed using Rubik Light at 36 points in the colour \#252525 on a light background or \#F8FBFD on a dark background.
+Titles are displayed using Rubik Light at 40 points in the colour \#252525 on a light background or \#F8FBFD on a dark background.
 
 ## Headings \(H2-H6\)
 
@@ -32,19 +32,19 @@ There are five different sub-headings. All sub-headings use the colours \#252525
 
 The headers use the following typographic styles:
 
-**Heading 2:** Rubik Regular at 21 points with a tracking modifier of 50 points.
+**Heading 2:** Rubik Regular at 24 points with a tracking modifier of 50 points.
 
-**Heading 3:** Rubik Medium at 18 points with a tracking modifier of 50 points.
+**Heading 3:** Rubik Medium at 21 points with a tracking modifier of 50 points.
 
-**Heading 4:** Rubik Regular at 16 points.
+**Heading 4:** Rubik Regular at 18 points.
 
-**Heading 5: **Nunito Sans Regular at 14 points. Letters are in all caps.
+**Heading 5: **Nunito Sans Regular at 16 points \(1em\). Letters are in all caps.
 
-**Heading 6:** Nunito Sans Bold at 14 points.
+**Heading 6:** Nunito Sans Bold at 16 points \(1em\).
 
 ## Paragraph Text
 
-Paragraph text is used for most text content found on the application. Paragraph text is set to Nunito Sans Regular at 14 points with a leading of 24 points. Unless indicating a hyperlink or navigation point, paragraph text should not have added emphasis.
+Paragraph text is used for most text content found on the application. Paragraph text is set to Nunito Sans Regular at 16 points \(1em\) with a leading of 24 points. Unless indicating a hyperlink or navigation point, paragraph text should not have added emphasis.
 
 Paragraph text uses the colours \#252525 on a light background or \#F8FBFD on a dark background.
 
@@ -82,7 +82,7 @@ There are three different types of lists:
 
 ## Hyperlinks
 
-Link text is used within paragraphs to indicate hyperlinks and navigation points. Hyperlinks and navigation points use Nunitio Sans Regular at 14 points with a leading of 24 points.
+Link text is used within paragraphs to indicate hyperlinks and navigation points. Hyperlinks and navigation points use Nunitio Sans Regular at 16 points with a leading of 24 points.
 
 It is recommended that the link text be underlined and displayed in a secondary colour used in the application. It is also recommended that hyperlinks do not exceed one line in length, and are applied to 2-4 key words rather than a full sentence or line.
 
@@ -100,5 +100,5 @@ Timestamps and placeholder text use the same typographic styles. Both use Nunito
 
 ## Button Text
 
-Button text is displayed as Nunito Sans Bold at 14 points, and uses the colours \#252525 on a light background or \#F8FBFD on a dark background. The colour of this text depends on the button chosen and must provide enough contrast with the colour of each type of button. For more about colour choice see our button section.
+Button text is displayed as Nunito Sans Bold at 16 points, and uses the colours \#252525 on a light background or \#F8FBFD on a dark background. The colour of this text depends on the button chosen and must provide enough contrast with the colour of each type of button. For more about colour choice see our button section.
 
