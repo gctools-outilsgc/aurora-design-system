@@ -68,7 +68,9 @@ The ideal length for body text is around 40-60 characters. If line length is too
 
 Pull Quotes are used to indicate key phrases from the content displayed on the page \(i.e. in articles or blogs\). Pull quotes are integrated into paragraphs.
 
-Pull quotes use a left-aligned line that is displayed in the application's accent colour. The text is displayed using Rubik Light Italic at 16 points, with a leading 22 points.
+Pull quotes use a left-aligned line that is displayed in the application's secondary or accent colour. The text is displayed using Rubik Light Italic at 16 points, with a leading 22 points.
+
+See [_Colour_](/colour.md) for more information on choosing accessible colours for your pull quotes. 
 
 ## Lists
 
