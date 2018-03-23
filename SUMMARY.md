@@ -4,6 +4,7 @@
 * [What's New](whats-new.md)
 * [Frequently Asked Questions](frequently-asked-questions.md)
 * [Foire aux questions](foire-aux-questions.md)
+* [Inclusive Design](inclusive-design.md)
 * [Typography](typography.md)
 * [Colour](colour.md)
 * [Buttons](buttons.md)
@@ -25,5 +26,5 @@
 * [Comments](comments.md)
 * [Progress Bars](progress-bars.md)
 * [Calendar Picker](calendar-picker.md)
-* [Additional Resources](additional-resources.md)
+* Building for Accessibility
 
