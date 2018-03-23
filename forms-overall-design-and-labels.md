@@ -18,17 +18,15 @@ Users need to be able to easily read labels and intuitively understand how the l
 
 If additional information is necessary beyond a label, this information should be displayed in a separate tooltip or text field. Additional information on how to complete the field might also be provided as placeholder text.
 
+### ![](/assets/Signing---Input-field.png)
+
 ### Placement of Labels
 
 Labels should follow the vertical format of the form. Place labels above their respective field. Group a label with its field so that there is a clear distinction between fields. **Do not use placeholder text for labels as this prevents the user from properly reviewing the form. \(possible conflict with previous paragraph\).**
 
-_**\(Example image\).**_
-
 ### Text in Labels
 
 How labels are written affects their legibility. Do not write labels in all caps as this diminishes their readability. Labels should not be the same as placeholder text, they should both be separate. Don’t use symbols to represent required content.
-
-_**\(example image\).**_
 
 ## Placeholder Text
 
@@ -41,4 +39,10 @@ As soon as the user starts typing in the field, the placeholder text should disa
 _**\(Example image here\)**_
 
 For more information about placeholder text design, refer to the [_Typography_](/typography.md) section.
+
+## Navigation
+
+Navigation to different pages may be necessary to include in a form. 
+
+
 

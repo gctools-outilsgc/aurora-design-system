@@ -1,6 +1,10 @@
 ## Input Errors
 
-Errors should be displayed in such a way that it is clear to the user that they have made an error, and what and where that error is.  Display the error inline with the field and briefly explain the reason for the error. As well, have an error box appear at the beginning of the form listing the errors. In the error box specify the number of errors, and list them numerically in the order in which they appear in the form. For each error provide a link that directs the user to the error. If the user attempts to submit the form with incomplete necessary fields, direct them to this error box. 
+Input errors should be displayed in such a way that it is clear to the user that they have made an error, and what and where that error is.
+
+**\(separate section? They're pretty intertwined\).**
+
+Display the error beneath and inline with the field and briefly explain the reason for the error. As well, have an error box appear at the beginning of the form listing the errors. In the error box specify the number of errors, and list them numerically in the order in which they appear in the form. For each error provide the reason for the error and a link that directs the user to the error. If the user attempts to submit the form with incomplete necessary fields, direct them to this error box.
 
 ![](/assets/Register--inline-errors.png)
 
@@ -8,7 +12,7 @@ Errors should be displayed in such a way that it is clear to the user that they 
 
 ## Validation
 
-Fields should be validated when the user has completed the required field information but prior to the user submitting or completing the entire form.
+Fields should be validated when the user has completed the required field information, but prior to the user submitting or completing the entire form.
 
 ## Required Fields
 
