@@ -62,7 +62,7 @@ Accent: 7E0C33
 
 When creating your application or website you can apply your own colour palettes to various elements. When putting together your own colour combinations, it is recommended that you choose at least one primary colour, two or three secondary colours that are similar and an accent colour.
 
-For Government of Canada applications it is required that all colours meet the WCAG AA accessibility level, though AAA is ideal. You can use online contrast checkers to ensure that the colours you choose meet accessibility standards when combined with text.
+For Government of Canada applications it is required that all colours meet the WCAG AA accessibility level, though AAA is ideal. You can use [online contrast checkers](https://webaim.org/resources/contrastchecker/) to ensure that the colours you choose meet accessibility standards when combined with text.
 
 Once chosen, you can apply your own colours simply by modifying the hex codes in your CSS for various elements. For each component in this design system we identified whether we used a primary, secondary or accent colour.
 
@@ -104,7 +104,7 @@ By default, most applications will follow the light theme. This theme includes v
 
 ![](/assets/Light Theme.png)
 
-**Hex Codes                            
+**Hex Codes                              
 **
 
 •    E0E0E0

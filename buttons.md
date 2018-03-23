@@ -132,11 +132,13 @@ The default action represented in the split button is the most commonly used, wh
 
 One of the best examples of a split button is an email reply button. _Reply_ is represented as the default, since it is the most common, while the drop-down menu will provide other options such as _Reply to all_, _Forward_, or _Delete_.
 
-## Button Groups \(?\)
+Split buttons follow the same design specifications as drop-down buttons.
 
-## Menu Buttons
+## Button Groups 
 
-\(hamburger icon\)
+Button groups, are a stylized way of putting multiple buttons together. 
+
+Primary actions are aligned to the left, while secondary actions are placed in the middle, and warning or destructive actions are aligned to the right. 
 
 ## Icon Buttons
 
