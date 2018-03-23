@@ -1,4 +1,12 @@
 # Badges
 
+Badges are used to show notifications and other alerts related to a particular element. Badges do not stand alone, but are combined with text, icons or buttons to show a change or action related to that feature. An example of this is a badge beside your Inbox link to show the number of unread emails. 
+
+When coding badges, the alternative text that will be read by screen readers should also include context. For example, the badge should read "40 unread emails" instead of just "40". 
+
+Badges in this design system appear as follows:
+
+
+
 
 
