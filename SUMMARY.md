@@ -26,5 +26,4 @@
 * [Comments](comments.md)
 * [Progress Bars](progress-bars.md)
 * [Calendar Picker](calendar-picker.md)
-* Building for Accessibility
 
