@@ -6,7 +6,7 @@ Including the option to like and rate content in your web products allows for gr
 
 _**Are like buttons primary or secondary buttons?**_
 
-The "like" function should use commonly understood symbols such as a thumbs up or a heart. Note that these two symbols have slightly different implications; a thumbs up implies approval while a heart suggests a personal enjoyment. Use whichever makes more sense in the context of the content. Including the word "like" on your like buttons improves accessibility.
+The "like" function should use commonly understood symbols such as a thumbs up or a heart. Note that these two symbols have slightly different connotations; a thumbs up implies approval while a heart suggests a personal enjoyment. Use whichever makes more sense in the context of the content. Including the word "like" on your like buttons improves accessibility.
 
 "Liking" should be a binary on/off function. Avoid using negative functions such as "dislike" as this may dissuade users from creating new content, or may give an overall negative impression of your product.
 
