@@ -12,5 +12,5 @@ Including a counter on like buttons can improve the community aspect of the func
 
 ![](/assets/likebutton.png)
 
-For more information on best practices for designing buttons such as the like function, see buttons.
+For more information on best practices for designing buttons such as the like function, see [Buttons](https://www.gitbook.com/book/gctools-outilsgc/-gcdigital-design-system/edit#/edit/master/buttons.md?_k=gs2sz8).
 
