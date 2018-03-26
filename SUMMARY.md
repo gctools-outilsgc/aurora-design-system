@@ -4,6 +4,7 @@
 * [What's New](whats-new.md)
 * [Frequently Asked Questions](frequently-asked-questions.md)
 * [Foire aux questions](foire-aux-questions.md)
+* [Inclusive Design](inclusive-design.md)
 * [Typography](typography.md)
 * [Colour](colour.md)
 * [Buttons](buttons.md)
@@ -16,8 +17,8 @@
 * [System Messaging](system-messaging.md)
 * [Grids and Spacing](grids-and-spacing.md)
 * [Forms: Overall design and labels](forms-overall-design-and-labels.md)
-* [Forms: Input Fields](forms-input-fields.md)
 * [Forms: Button Inputs](forms-checkboxes-radio-buttons-and-switches.md)
+* [Forms: Input Fields](forms-input-fields.md)
 * [Forms: Errors and Validation](forms-inputs.md)
 * [File Upload](forms-file-upload.md)
 * [Cards](cards.md)
@@ -25,5 +26,4 @@
 * [Comments](comments.md)
 * [Progress Bars](progress-bars.md)
 * [Calendar Picker](calendar-picker.md)
-* [Additional Resources](additional-resources.md)
 
