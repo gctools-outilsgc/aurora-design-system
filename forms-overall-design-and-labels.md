@@ -42,7 +42,5 @@ For more information about placeholder text design, refer to the [_Typography_](
 
 ## Navigation
 
-Navigation to different pages may be necessary to include in a form. 
-
-
+Navigation to different pages may be necessary to include in a form. If they are related to a specific field, for example "Forgot password?", include the link inline and underneath the related field. If the link is related to the entire form, for example "Register here", include the link at the bottom of the form in a way that is visually separate.  
 

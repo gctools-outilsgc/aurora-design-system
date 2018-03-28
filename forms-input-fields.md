@@ -12,7 +12,7 @@ When there is an error within a text field, outlining the field in red shows a g
 
 ## Date Boxes
 
-Date boxes should be grouped horizontally to show their close relationship.
+_**Calendar vs text field \(issues w/ ie\) Include both examples?**_
 
 ## File Upload
 
