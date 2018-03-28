@@ -27,7 +27,7 @@
 * [Progress Bars](progress-bars.md)
 * [Nav: Breadcrumbs](breadcrumbs.md)
 * [Nav: Back to top](nav-back-to-top.md)
-* Pagination/Scrolling
+* [Pagination/Scrolling](paginationscrolling.md)
 * Nav: Megamenu and Menus
 * Nav: Tabs
 * Nav: Sidebar
