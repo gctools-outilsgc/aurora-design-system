@@ -25,5 +25,13 @@
 * [Modals](modals.md)
 * [Comments](comments.md)
 * [Progress Bars](progress-bars.md)
-* [Calendar Picker](calendar-picker.md)
+* [Nav: Breadcrumbs](breadcrumbs.md)
+* [Nav: Back to top](nav-back-to-top.md)
+* Pagination/Scrolling
+* Nav: Megamenu and Menus
+* Nav: Tabs
+* Nav: Sidebar
+* Drawers and Accordions
+* Search
+* Headers and Footers
 
