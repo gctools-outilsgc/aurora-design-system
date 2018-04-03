@@ -30,8 +30,8 @@
 * [Pagination/Scrolling](paginationscrolling.md)
 * [Nav: Megamenu and Menus](nav-megamenu-and-menus.md)
 * [Nav: Tabs](nav-tabs.md)
-* Nav: Sidebar
-* Drawers and Accordions
-* Search
-* Headers and Footers
+* [Nav: Sidebar](nav-sidebar.md)
+* [Drawers and Accordions](drawers-and-accordions.md)
+* [Search](search.md)
+* [Headers and Footers](headers-and-footers.md)
 
