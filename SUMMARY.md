@@ -24,7 +24,7 @@
 * [Cards](cards.md)
 * [Modals](modals.md)
 * [Comments](comments.md)
-* [Progress Bars](progress-bars.md)
+* [Progress Indicators](progress-bars.md)
 * [Nav: Breadcrumbs](breadcrumbs.md)
 * [Nav: Back to top](nav-back-to-top.md)
 * [Pagination/Scrolling](paginationscrolling.md)
