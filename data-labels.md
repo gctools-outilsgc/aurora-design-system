@@ -18,11 +18,19 @@ If one graph is too complex to represent a certain dataset, the data should be r
 
 ### Graph Titles
 
+Graph and table titles in this design system use the typography style for [heading 2. ](/typography.md)Titles should be as short as possible, and accurately reflect the question the dataset is trying to represent. Titles always use title-case capitalization.
+
 ### Axis Labelling
 
-Always start axes at 0.
+Both the x and y axes should always be labelled. Labels should be placed outside of the data area. Labels should use simple and clear language, and accurately represent the data being show. Axis labels use the typographic style for[ heading 4](/typography.md). 
 
-### Skipping Labels
+For quantitative labels, the unit of measurement should be included in the label. 
+
+### Data Increments
+
+Qualitative data values should be labelled in a logical way, such as consecutive months. For quantitative values, they should be labelled using round numbers \(when possible\) that fit the data range. Always include an additional increment greater than the datset. For quantitative values,  axes should always start at 0. 
+
+In some visualizations with many axis points, skipping labels is an effective way to reduce visual clutter. Skipping labels can vary depending on the data, but the intervals between labels should always be consistent. \(i.e. skip every second label\)
 
 ## Use of Colour
 
