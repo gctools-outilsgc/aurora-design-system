@@ -35,8 +35,8 @@
 * [Search](search.md)
 * [Headers and Footers](headers-and-footers.md)
 * [Data: Overview](data-labels.md)
-* Data: Tables
+* [Data: Tables](data-tables.md)
 * [Data: Bar Graphs](data-bar-graphs.md)
 * [Data: Line Graphs](data-line-graphs.md)
-* Data: Scatterplots
+* [Data: Scatterplots](data-scatterplots.md)
 
