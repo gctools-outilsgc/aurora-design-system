@@ -22,15 +22,27 @@ Graph and table titles in this design system use the typography style for [headi
 
 ### Axis Labelling
 
-Both the x and y axes should always be labelled. Labels should be placed outside of the data area. Labels should use simple and clear language, and accurately represent the data being show. Axis labels use the typographic style for[ heading 4](/typography.md). 
+Both the x and y axes should always be labelled. Labels should be placed outside of the data area. Labels should use simple and clear language, and accurately represent the data being show. Axis labels use the typographic style for[ heading 4](/typography.md).
 
-For quantitative labels, the unit of measurement should be included in the label. 
+For quantitative labels, the unit of measurement should be included in the label.
 
 ### Data Increments
 
-Qualitative data values should be labelled in a logical way, such as consecutive months. For quantitative values, they should be labelled using round numbers \(when possible\) that fit the data range. Always include an additional increment greater than the datset. For quantitative values,  axes should always start at 0. 
+Qualitative data values should be labelled in a logical way, such as consecutive months. For quantitative values, they should be labelled using round numbers or decimals that fit the data range. Always include an additional increment greater than the datset. For quantitative values,  axes should always start at 0.
 
 In some visualizations with many axis points, skipping labels is an effective way to reduce visual clutter. Skipping labels can vary depending on the data, but the intervals between labels should always be consistent. \(i.e. skip every second label\)
+
+### Data Formats and Abbreviations
+
+When possible, labels and values should avoid abbreviations unless it is a conventional data format.  If spacing is a concern, it is recommended to skip labels in a way that makes sense for the data. Value labels should never be slanted to save space. 
+
+Some data formats should always use abbreviations:
+
+| Days of the week | Mon, Tues, Wed, Thurs, Fri, Sat, Sun |
+| :--- | :--- |
+| Months | Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec |
+| 12-hour time | 1am, 2pm, 12pm etc.  |
+| Standard money abbreviations | $1.2k, $3.4m, $6.2b, etc.  |
 
 ## Use of Colour
 
@@ -38,11 +50,7 @@ In some visualizations with many axis points, skipping labels is an effective wa
 
 ### Multi-Colour Graphs
 
-## Data Formats
-
-### Date and Time
-
-### Abbreviations
+## 
 
 
 
