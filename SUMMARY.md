@@ -8,7 +8,7 @@
 * [Typography](typography.md)
 * [Colour](colour.md)
 * [Buttons](buttons.md)
-* [Ratings/Likes](ratingslikes.md)
+* [Like Buttons](ratingslikes.md)
 * [Links](links.md)
 * [Badges](badges.md)
 * [Tags](tags.md)
