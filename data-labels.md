@@ -28,21 +28,23 @@ For quantitative labels, the unit of measurement should be included in the label
 
 ### Data Increments
 
-Qualitative data values should be labelled in a logical way, such as consecutive months. For quantitative values, they should be labelled using round numbers or decimals that fit the data range. Always include an additional increment greater than the datset. For quantitative values,  axes should always start at 0.
+Qualitative data values should be labelled in a logical way, such as consecutive months. For quantitative values, they should be labelled using round numbers or decimals that fit the data range. Always include an additional increment greater than the datset. For quantitative values,  axes should always start at 0.When using decimals, always round to a maximum of two decimal points. 
 
 In some visualizations with many axis points, skipping labels is an effective way to reduce visual clutter. Skipping labels can vary depending on the data, but the intervals between labels should always be consistent. \(i.e. skip every second label\)
 
+On the x-axis, value labels should be centered to their corresponding tick mark. For y-axis labels, they should be left-aligned and kept above the y-axis lines. 
+
 ### Data Formats and Abbreviations
 
-When possible, labels and values should avoid abbreviations unless it is a conventional data format.  If spacing is a concern, it is recommended to skip labels in a way that makes sense for the data. Value labels should never be slanted to save space. 
+When possible, labels and values should avoid abbreviations unless it is a conventional data format.  If spacing is a concern, it is recommended to skip labels in a way that makes sense for the data. Value labels should never be slanted to save space.
 
 Some data formats should always use abbreviations:
 
 | Days of the week | Mon, Tues, Wed, Thurs, Fri, Sat, Sun |
 | :--- | :--- |
 | Months | Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec |
-| 12-hour time | 1am, 2pm, 12pm etc.  |
-| Standard money abbreviations | $1.2k, $3.4m, $6.2b, etc.  |
+| 12-hour time | 1am, 2pm, 12pm etc. |
+| Standard money abbreviations | $1.2k, $3.4m, $6.2b, etc. |
 
 ## Use of Colour
 
