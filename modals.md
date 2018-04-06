@@ -22,6 +22,44 @@ Typically a modal should not cover a user's entire screen. The only exception is
 
 Modals can open up additional modals, however you should be careful to not have too many layers of modals as this increases visual noise.
 
+## Components of a Modal
+
+_**\(elaborate on\)**_
+
+Modals can be made up of several components. Some examples are:
+
+Header: 
+
+Main Title
+
+Meta Information
+
+Main Content
+
+Image
+
+Buttons
+
+
+
+## Modal Templates
+
+![](.gitbook/assets/modal.png)
+
+![](.gitbook/assets/modal1.png)
+
+![](.gitbook/assets/modal2.png)
+
+![](.gitbook/assets/modal3.png)
+
+![](.gitbook/assets/modal4.png)
+
+![](.gitbook/assets/modal5.png)
+
+![](.gitbook/assets/modal6.png)
+
+![](.gitbook/assets/modal-mobile.png)
+
 _**Sizing**_
 
 -width is consistent, height will vary
