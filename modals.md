@@ -18,7 +18,13 @@ Modal text should be short and precise so that the user clearly knows what the m
 
 How the user dismisses the modal depends on the severity of the action. Secondary action modals can be dismissed by clicking "X", appearing in the top right corner, or by clicking outside of the modal box. Primary actions should not have these options for dismissal, and should only be closed by selecting an action.
 
-Typically a modal should not cover a user's entire screen. The only exception is for a complex modal on a mobile. 
+Typically a modal should not cover a user's entire screen. The only exception is for a complex modal on a mobile.
 
-Modals can open up additional modals, however you should be careful to not have too many layers of modals as this increases visual noise. 
+Modals can open up additional modals, however you should be careful to not have too many layers of modals as this increases visual noise.
+
+_**Sizing**_
+
+-width is consistent, height will vary
+
+
 
