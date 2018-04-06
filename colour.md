@@ -46,13 +46,13 @@ The palette used in this system is titled** Thunder and Lightning** and uses the
 
 ![\#4D5D6C with white text \(\#FFFFFF\)](.gitbook/assets/colour_blue.png)
 
-\#4D5D6C with white text \(\#FFFFFF\)
+![\#96A8B2 with black text \(\#212121\)](.gitbook/assets/colour_slate-grey.png)
 
-\#96A8B2 with black text \(\#212121\)
 
-\#CECECE with black text \(\#212121\)
 
-\#FEC04F with black text \(\#212121\)
+![\#CECECE with black text \(\#212121\)](.gitbook/assets/colour_grey.png)
+
+![\#FEC04F with black text \(\#212121\)](.gitbook/assets/colour_yellow.png)
 
 ### Text Colours
 
