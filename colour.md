@@ -1,8 +1,6 @@
 # Colour
 
-Colour
-
-Palettes
+### Palettes
 
 Colour palettes consist of an array of colours that are used consistently within your particular application. Colour palettes are designed to work harmoniously with each other often incorporating primary colours, and secondary accent colours that are used to add variety and visual appeal to your application. The colour palette starts with primary colours, and builds on hues of that colour to create a complete and usable palette .
 
