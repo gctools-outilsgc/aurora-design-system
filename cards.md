@@ -12,10 +12,16 @@ Cards are not always the best way to display information. Complex or compound in
 
 ### **Guide for creating a card's content:**
 
-* Main Title - A short and clear heading
-* Meta information or subtitle - Time stamp, category etc.
+Elements that can be used in a card are:
+
+* Main Title - A short and clear label that states the card's main message.
+* Meta information - Used to organize the cards. This can be a time stamp, category etc.
 * Description - A more thorough explaination of the idea and call-to-action. This text should still be brief. 
-* Image or Rich Media
+* Image or Rich Media - Associated with the card and text, an image or rich media should contribute to the message.
+* Buttons - When a card requires a selectable action, or you want to emphasize that the card is a clickable object, you can use buttons.
+* Extra information - Any additional information that enhances the message of the card.
+
+Note that not all of these elements are necessary in every card. You can choose the elements which you think best fit the purpose of the card. However, every card should have a main title.
 
 ### Templates for cards
 
@@ -43,11 +49,13 @@ The actionable card template is for cards in which the user can take a primary o
 
 ![](/assets/Cards2.png)
 
+The image card template has a lot of visual impact. It's best used when an image can convey almost all of the message of the card.
+
 #### Text card template
 
 ![](/assets/Cards4.png)
 
-
+The text card template is content-dense. It's best used when a card needs to convey a lot of information, and doesn't have an image that can be easily associated with it.  
 
 ### Sorting
 
