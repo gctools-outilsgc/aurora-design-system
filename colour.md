@@ -42,7 +42,9 @@ Throughout the design system, documentation about elements will specify which co
 
 The palette used in this system is titled** Thunder and Lightning** and uses the following hex codes:
 
-002D42, with white text \(\#FFFFFF\)
+![\#002D42 with white text \(\#FFFFFF\)](.gitbook/assets/colour_navy.png)
+
+![\#4D5D6C with white text \(\#FFFFFF\)](.gitbook/assets/colour_blue.png)
 
 \#4D5D6C with white text \(\#FFFFFF\)
 
