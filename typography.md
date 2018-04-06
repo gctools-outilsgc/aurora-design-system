@@ -38,7 +38,7 @@ The headers use the following typographic styles:
 
 **Heading 4:** Rubik Regular at 21 points \(1.3125 em\).
 
-**Heading 5: **Nunito Sans Regular at 18 points \(1.125 em\). 
+**Heading 5: **Nunito Sans Regular at 18 points \(1.125 em\).
 
 **Heading 6:** Nunito Sans Bold at 16 points \(1em\).
 
@@ -98,7 +98,7 @@ Typographic formatting such as italics or underlining should be used sparingly a
 
 ## Timestamps and Placeholder Text
 
-Timestamps and placeholder text use the same typographic styles. Both use Nunito Sans Regular at 10 points with a tracking modifier of 50 points and leading of 21 points. Timestamps and placeholder text use the colours \#5E515A on a light background or \#F8FBFD on a dark background.
+Timestamps and placeholder text use the same typographic styles. Both use Nunito Sans Regular at 12 points with a tracking modifier of 50 points and leading of 21 points. Timestamps and placeholder text use the colours \#5E515A on a light background or \#F8FBFD on a dark background.
 
 ## Button Text
 
