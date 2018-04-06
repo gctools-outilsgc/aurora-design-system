@@ -86,7 +86,7 @@ Please see [_Typography_](/typography.md) for more information about using text 
 
 _**\(include example\)**_
 
-**Hex code**: 5E515A
+**Hex code**: \#5E515A
 
 ### Colour Themes
 
@@ -110,7 +110,7 @@ Please refer to the alerts section and the colour section for more information.
 
 Info Colours
 
-
+![](.gitbook/assets/info_colours%20%281%29.png)
 
 _**Info colours are used when providing additional information and notes to the user. **_
 
@@ -124,7 +124,7 @@ _**Info colours are used when providing additional information and notes to the 
 
 Warning Colours
 
-
+![](.gitbook/assets/warning_colours.png)
 
 _**Warning colours are used for notices that require the user’s acknowledgement.**_
 
@@ -138,7 +138,7 @@ _**Warning colours are used for notices that require the user’s acknowledgemen
 
 Error Colours
 
-
+![](.gitbook/assets/error_colours%20%281%29.png)
 
 _**Error colours are used to indicate system failures and malfunctions. **_
 
@@ -152,7 +152,7 @@ _**Error colours are used to indicate system failures and malfunctions. **_
 
 Success Colours
 
-
+![](.gitbook/assets/success_colours.png)
 
 _**Success colours are used when confirming that the user’s input was successful. **_
 
