@@ -1,12 +1,12 @@
-# System Notifications
+# System Messaging
 
-System notifications are short messages that appear to communicate information to the user. Notifications appear as pop-up banners which need to be dismissed or timed-out. There are four levels of severity which can be applied to the notifications: error,  warning, information and success.
+System notifications are short messages that appear to communicate information to the user. Notifications appear as pop-up banners which need to be dismissed or timed-out. There are four levels of severity which can be applied to the notifications: error, warning, information and success.
 
 Design systems notifications in descending level of severity:
 
 ### Error
 
-![](/assets/Individual-Notification-Error.jpg)
+![](.gitbook/assets/individual-notification-error.jpg)
 
 Error notifications are used for system failures and user errors.
 
@@ -14,7 +14,7 @@ Error example: “Your password must contain at least 8 characters.”
 
 ### Warning
 
-![](/assets/Individual-Notification-Warning.jpg)
+![](.gitbook/assets/individual-notification-warning.jpg)
 
 Warning notifications are used for notices of potential future errors.
 
@@ -22,7 +22,7 @@ Warning example: “Caps lock is on which may cause you to enter your password i
 
 ### Information
 
-![](/assets/Individual-Notification-Info.jpg)
+![](.gitbook/assets/individual-notification-info.jpg)
 
 Information notifications are used to provide additional information and notes to the user which they may find helpful in context.
 
@@ -30,7 +30,7 @@ Information example: “You can change your password in settings.”
 
 ### Success
 
-![](/assets/Individual-Notification-Success.jpg)
+![](.gitbook/assets/individual-notification-success.jpg)
 
 Success notifications are used to confirm that a task was completed successfully.
 

@@ -1,6 +1,6 @@
 # Icons
 
-![](/assets/font awesome.PNG)
+![](.gitbook/assets/font-awesome.PNG)
 
 Icons in this system use SVG icons from [Font Awesome](https://www.gitbook.com/book/gctools-outilsgc/-gcdigital-design-system/edit).
 
@@ -25,8 +25,4 @@ Icons are used for certain buttons and are usually associated with some sort of 
 The loading icon is displayed using the [spinner icon](https://www.gitbook.com/book/gctools-outilsgc/-gcdigital-design-system/edit) from Font Awesome. Font Awesome provides [multiple icons](https://www.gitbook.com/book/gctools-outilsgc/-gcdigital-design-system/edit) that may work well as a spinner, depending on your content. You can refer to [Font Awesome's documentation](https://www.gitbook.com/book/gctools-outilsgc/-gcdigital-design-system/edit) to animate the spinner to demonstrate a loading page.
 
 **\(maybe add other icons picked as standards?\)**
-
-## 
-
-
 

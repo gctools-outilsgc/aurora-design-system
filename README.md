@@ -1,4 +1,4 @@
-# GCDigital Design System
+# Introduction
 
 ## Preface
 
@@ -47,7 +47,7 @@ Read the design system documentation on Gitbook: [GCDigital Design System](https
 
 Read about the goals of GCTools at [GCTools](https://www.canada.ca/en/treasury-board-secretariat/campaigns/gctools-hackathon/gctools.html)
 
-Kanban Planning \(requires login\): [Zube](https://zube.io/tbs-sct/design-system/w/main-workspace/kanban )
+Kanban Planning \(requires login\): [Zube](https://zube.io/tbs-sct/design-system/w/main-workspace/kanban%20)
 
 ## Contents \(still in draft\)
 
@@ -58,16 +58,14 @@ Kanban Planning \(requires login\): [Zube](https://zube.io/tbs-sct/design-system
 * [Colour](colour.md)
 * [Buttons](buttons.md)
 * [Links](links.md)
-* [Icons](iconography.md)
+* [Icons](icons.md)
 * [Badges](badges.md)
 * [Tags](tags.md)
 * [Images and Media](images-and-media.md)
 * [System Messaging](system-messaging.md)
 * [Grids and Spacing](grids-and-spacing.md)
-* [Forms: Checkboxes, Radio Buttons and Switches](forms-checkboxes-radio-buttons-and-switches.md)
-* [Forms: Inputs](forms-inputs.md)
-* [Additional Resources](additional-resources.md)
-* [Research and Best Practices](research-and-best-practices.md)
-
-
+* [Forms: Checkboxes, Radio Buttons and Switches](forms-button-inputs.md)
+* [Forms: Inputs](forms-errors-and-validation.md)
+* [Additional Resources](https://github.com/gctools-outilsgc/design-system/tree/fcd3f3c371d580bcf069c31135a9b8b736fa67aa/additional-resources.md)
+* [Research and Best Practices](https://github.com/gctools-outilsgc/design-system/tree/fcd3f3c371d580bcf069c31135a9b8b736fa67aa/research-and-best-practices.md)
 

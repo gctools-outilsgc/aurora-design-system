@@ -1,4 +1,4 @@
-# Form Design and Labels
+# Forms: Overall design and labels
 
 ## Design
 
@@ -18,7 +18,7 @@ Users need to be able to easily read labels and intuitively understand how the l
 
 If additional information is necessary beyond a label, this information should be displayed in a separate tooltip or text field. Additional information on how to complete the field might also be provided as placeholder text.
 
-### ![](/assets/Signing---Input-field.png)
+![](.gitbook/assets/signing-input-field.png)
 
 ### Placement of Labels
 
@@ -38,9 +38,9 @@ As soon as the user starts typing in the field, the placeholder text should disa
 
 _**\(Example image here\)**_
 
-For more information about placeholder text design, refer to the [_Typography_](/typography.md) section.
+For more information about placeholder text design, refer to the [_Typography_](typography.md) section.
 
 ## Navigation
 
-Navigation to different pages may be necessary to include in a form. If they are related to a specific field, for example "Forgot password?", include the link inline and underneath the related field. If the link is related to the entire form, for example "Register here", include the link at the bottom of the form in a way that is visually separate.  
+Navigation to different pages may be necessary to include in a form. If they are related to a specific field, for example "Forgot password?", include the link inline and underneath the related field. If the link is related to the entire form, for example "Register here", include the link at the bottom of the form in a way that is visually separate.
 

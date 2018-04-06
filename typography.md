@@ -32,7 +32,7 @@ There are five different sub-headings. All sub-headings use the colours \#252525
 
 The headers use the following typographic styles:
 
-**Heading 2:** Rubik Regular at 28 points \(1.75 em\)  with a tracking modifier of 50 points.
+**Heading 2:** Rubik Regular at 28 points \(1.75 em\) with a tracking modifier of 50 points.
 
 **Heading 3:** Rubik Medium at 24 points \(1.5 em\) with a tracking modifier of 50 points.
 
@@ -54,11 +54,11 @@ _**\(more info about paragraph spacing\)**_
 
 The DCD design system is consistent with the following best practices for line-breaks:
 
-•    Avoid hyphenation at the end of a line.
+• Avoid hyphenation at the end of a line.
 
-•    Avoid leaving gaps or orphans hanging on a line.
+• Avoid leaving gaps or orphans hanging on a line.
 
-•    Avoid overly large indentation.
+• Avoid overly large indentation.
 
 ### Line Length
 
@@ -70,7 +70,7 @@ Pull Quotes are used to indicate key phrases from the content displayed on the p
 
 Pull quotes use a left-aligned line that is displayed in the application's secondary or accent colour. The text is displayed using Rubik Light Italic at 18 points, with a leading 22 points.
 
-See [_Colour_](/colour.md) for more information on choosing accessible colours for your pull quotes.
+See [_Colour_](colour.md) for more information on choosing accessible colours for your pull quotes.
 
 ## Lists
 

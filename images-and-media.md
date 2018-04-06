@@ -14,7 +14,7 @@ Inline images are aligned vertically with other elements on the page \(i.e. text
 
 ## Full Width Image
 
-Full-width images extend  from one end of the content area to the other.
+Full-width images extend from one end of the content area to the other.
 
 ## Avatars
 
@@ -26,21 +26,21 @@ When users upload their avatar, they are prompted to crop the image to fit into 
 
 Avatars are used in three sizes and styled as follows:
 
-![](/assets/avatar_small.png)
+![](.gitbook/assets/avatar_small.png)
 
-**Small:**  Square image with corners rounded by 3px. Sized at 26 x 26 pixels.
+**Small:** Square image with corners rounded by 3px. Sized at 26 x 26 pixels.
 
 Used on small components where the user would need to be identified, such as tags or chat.
 
-![](/assets/avatar_medium.png)
+![](.gitbook/assets/avatar_medium.png)
 
 **Medium: **Square image with corners rounded by 3px. Sized at 50 x 50 pixels.
 
 Used in combination with other components such as comments, chat, cards and anywhere else you would need to identify the user.
 
-![](/assets/avatar_large.png)
+![](.gitbook/assets/avatar_large.png)
 
-**Large**:  Square image with corners rounded by 3px. Sized at 115 x 115 pixels.
+**Large**: Square image with corners rounded by 3px. Sized at 115 x 115 pixels.
 
 Used directly on the user's profile.
 
@@ -48,7 +48,7 @@ Used directly on the user's profile.
 
 Thumbnails are small versions of an image that are used as previews to content. They are often combined with other components such as cards, comments, image previews, etc.
 
-![](/assets/thumbnail.png)
+![](.gitbook/assets/thumbnail.png)
 
 Thumbnails are always square with corners rounded by 1px. They have a black stroke width of 0.25px. They are sized at 115 x 115 pixels. _**\(responsive sizing?\)**_
 

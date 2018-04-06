@@ -1,8 +1,8 @@
-# Buttons![](/assets/buttons.png)
+# Buttons
 
 ## Best Practices
 
-Buttons tend to have visual prominence on any given page or window.  Primary buttons, buttons that indicate a call to action, are the most prominent. Secondary buttons, which indicate less commonly used actions, should be less prominent than primary buttons. Buttons always indicate an action and are not to be used for navigation.  Buttons are placed where a user should expect them, i.e. in close proximity to the other elements that the action affects.
+Buttons tend to have visual prominence on any given page or window. Primary buttons, buttons that indicate a call to action, are the most prominent. Secondary buttons, which indicate less commonly used actions, should be less prominent than primary buttons. Buttons always indicate an action and are not to be used for navigation. Buttons are placed where a user should expect them, i.e. in close proximity to the other elements that the action affects.
 
 ## Size and Padding
 
@@ -46,21 +46,21 @@ Primary buttons use the primary colour, with white text. Sizing of the button de
 
 Each of the states for primary buttons are as follows:
 
-![](/assets/button_primary.png)
+![](.gitbook/assets/button_primary.png)
 
-**Regular state:**  primary colour at 100% opacity, white text, with a border radius of 4px and padding of 15px.
+**Regular state:** primary colour at 100% opacity, white text, with a border radius of 4px and padding of 15px.
 
-![](/assets/button_primary_hover.png)
+![](.gitbook/assets/button_primary_hover.png)
 
 **Hover state: **primary colour at 80% opacity, white text, with a border radius of 4px and padding of 15px.
 
-![](/assets/button_primary_focus.png)
+![](.gitbook/assets/button_primary_focus.png)
 
 **Focus state: **primary colour at 80% opacity, white text, with a border radius of 4px and padding of 15px. Includes a 3px stroke in the primary colour.
 
 **Active state: **_**\(to complete\)**_
 
-![](/assets/button_primary_disabled.png)
+![](.gitbook/assets/button_primary_disabled.png)
 
 **Disabled state: **primary colour at 50% opacity, white text, with a border radius of 4px and padding of 15px.
 
@@ -80,21 +80,21 @@ Secondary buttons in this system are transparent with a stroke colour. Text chan
 
 Each of the states for secondary buttons are as follows:
 
-![](/assets/button_secondary.png)
+![](.gitbook/assets/button_secondary.png)
 
 **Regular state: **transparent with a 1px stroke using the muted text colour \(\#666666\), the text is also written using the muted colour. Border radius of 4px and padding of 15px.
 
-![](/assets/button_secondary_hover.png)
+![](.gitbook/assets/button_secondary_hover.png)
 
 **Hover state: **transparent with a 1px stroke using black, the text is displayed in black. Border radius of 4px and padding of 15px.
 
-![](/assets/button_secondary_focus.png)
+![](.gitbook/assets/button_secondary_focus.png)
 
 **Focus state: **transparent with a 3px stroke using black, the text is displayed in black. Border radius of 4px and padding of 15px.
 
 **Active state: **_**\(to complete\)**_
 
-![](/assets/button_secondary_disabled.png)
+![](.gitbook/assets/button_secondary_disabled.png)
 
 **Disabled state: **Fill colour of \#CECECE, with white text. Border radius of 5px and padding of 15px.
 
@@ -106,21 +106,21 @@ Secondary buttons are usually in close proximity to the primary button, but not 
 
 Drop down buttons display a list of items when clicked. They are used for two-step processes that may require more specific options for a singular action.
 
-![](/assets/button_drop down.png)
+![](.gitbook/assets/button_drop-down.png)
 
 **Regular State: **Similar to the primary button, drop-down buttons use the primary colour at 100% opacity, white text, with a border radius of 4px and padding of 15px. The drop-down arrow represents a space of 30px by 40px, which is separated from the primary button using a white line. The arrow uses a space of 15px width and 8px in height.
 
-![](/assets/button_drop down_hover_1.png)
+![](.gitbook/assets/button_drop-down_hover_1.png)
 
-![](/assets/button_drop down_hover_2.png)
+![](.gitbook/assets/button_drop-down_hover_2.png)
 
 **Hover States: **Similar to the primary button, drop-down buttons use the primary colour at 100% opacity, white text, with a border radius of 4px and padding of 15px. The drop-down arrow represents a space of 30px by 40px, which is separated from the primary button using a white line. The arrow uses a space of 15px width and 8px in height. Whichever piece of the button \(primary or drop-down section\) is being hovered over is shown at 80% opacity.
 
-![](/assets/button_drop down_focus_1.png)
+![](.gitbook/assets/button_drop-down_focus_1.png)
 
 **Focus State: **Similar to the primary button, drop-down buttons use the primary colour at 100% opacity, white text, with a border radius of 4px and padding of 15px. The drop-down arrow represents a space of 30px by 40px, which is separated from the primary button using a white line. The arrow uses a space of 15px width and 8px in height. Whichever piece of the button \(primary or drop-down section\) is being focused on is shown at 80% opacity and includes a stroke of 3pts in the primary colour.
 
-![](/assets/button_drop down_pressed.png)
+![](.gitbook/assets/button_drop-down_pressed.png)
 
 **Pressed State: **When the drop-down arrow is pressed, this arrow section of the button is displayed at 80% opacity and a drop-down menu is displayed below. The action box uses a 1pt border using \#CECECE. The box has a border radius of 4px. The width of the box is 166px, and the height depends on the number of actions, using 40px per action. On hover, the 40px around the action is displayed using \#CECECE
 
@@ -134,21 +134,19 @@ One of the best examples of a split button is an email reply button. _Reply_ is 
 
 Split buttons follow the same design specifications as drop-down buttons.
 
-## Button Groups 
+## Button Groups
 
-Button groups, are a stylized way of putting multiple buttons together. 
+Button groups, are a stylized way of putting multiple buttons together.
 
-Primary actions are aligned to the left, while secondary actions are placed in the middle, and warning or destructive actions are aligned to the right. 
+Primary actions are aligned to the left, while secondary actions are placed in the middle, and warning or destructive actions are aligned to the right.
 
 ## Icon Buttons
 
 _**\(Sierra to write\)**_
 
-i.e  share button
+i.e share button
 
 Icon buttons or buttons with a dedicated shortcut \(i.e. Ctrl + S for Save\) should include a tooltip in the hover state.
 
 ## 1.15 em for icon size
-
-
 

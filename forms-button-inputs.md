@@ -1,4 +1,4 @@
-# Button Inputs
+# Forms: Button Inputs
 
 ## Checkboxes
 
@@ -10,19 +10,19 @@ Labels for checkboxes are aligned to the right of the box.
 
 Checkboxes, like other buttons, have four different states:
 
-![](/assets/checkbox_normal.png)
+![](.gitbook/assets/checkbox_normal.png)
 
 **Normal: **18px by 18px box, border radius of 4px, background colour of \#F9F9F9, border colour of \#96A8B2 at 1px
 
-![](/assets/checkbox_hover.png)
+![](.gitbook/assets/checkbox_hover.png)
 
 **Hover: **18px by 18px box, border radius of 4px, background color \#FFFFFF, border colour of \#4D5D6C at 1px
 
-![](/assets/checkbox_focus.png)
+![](.gitbook/assets/checkbox_focus.png)
 
 **Focus: **18px by 18px box, border radius of 4px, background color \#FFFFFF, border colour of \#4D5D6C at 3px
 
-![](/assets/checkbox_active.png)
+![](.gitbook/assets/checkbox_active.png)
 
 **Active: **18px by 18px box, border radius of 4px, background colour \#4D5D6C, border colour of \#96A8B2 . Includes a white check icon centered within the box.
 
@@ -54,21 +54,21 @@ Switches can be used in all kinds of forms, or other types of functions such as 
 
 Switches have four different states:
 
-![](/assets/switch_off.png)
+![](.gitbook/assets/switch_off.png)
 
 **Off: **32px by 18px, border radius of 9px, slider background colour of \#E3E4E5, knob colour \#FFFFFF, border 1px with a colour of \#66666. The knob is on the left of the slider.
 
-![](/assets/switch_off_hover.png)
+![](.gitbook/assets/switch_off_hover.png)
 
 **Off, Hover/Focus:**
 
 32px by 18px, border radius of 9px, slider background colour of \#E3E4E5, knob colour of \#FFFFFF with a border of 3px and border colour of \#4D5D6C , border 1px with a colour of \#66666. The knob is on the left of the slider.
 
-![](/assets/switch_on.png)
+![](.gitbook/assets/switch_on.png)
 
 **On: **32px by 18px, border radius of 9px, slider background colour of \#FEC04F, knob colour \#FFFFFF, border 1px with a colour of \#66666. The knob is on the right of the slider.
 
-![](/assets/switch_on_hover.png)
+![](.gitbook/assets/switch_on_hover.png)
 
 **On, Hover/Focus: **32px by 18px, border radius of 9px, slider background colour of \#FEC04F, knob colour \#FFFFFF with a border of 3px and colour of \#4D5D6C, border 1px with a colour of \#66666. The knob is on the right of the slider.
 

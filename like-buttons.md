@@ -6,13 +6,9 @@ The "like" function should use commonly understood symbols such as a thumbs up o
 
 Including a counter on like buttons can improve the community aspect of your product, as users can see how many people have positively reacted to the content. _**Can people see who has liked the content?**_
 
-![](/assets/likebutton.png)
+![](.gitbook/assets/likebutton.png)
 
 For more information on best practices on buttons such as the like function, see [Buttons](https://www.gitbook.com/book/gctools-outilsgc/-gcdigital-design-system/edit#/edit/master/buttons.md?_k=gs2sz8).
 
-
-
 \(to include ratings at a later date\)
-
-
 

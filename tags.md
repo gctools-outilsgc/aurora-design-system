@@ -1,8 +1,8 @@
-# Tags, Chips and Pills
+# Tags
 
 ## Tags
 
-![](/assets/tags.png)
+![](.gitbook/assets/tags.png)
 
 Tags represent a set of user-generated keywords that help label, organize and categorize content. They are useful because they provide metadata that makes content searchable. Tags can be added or removed from content by the author.
 
@@ -16,7 +16,7 @@ Tags are sized to match the length of the keywords with padding of 7px on the to
 
 ## Chips
 
-![](/assets/Chips.png)
+![](.gitbook/assets/chips.png)
 
 Chips represent contact information, typically including a user's avatar and name, with a link to their profile.
 
@@ -24,7 +24,7 @@ Chips are rectangular with a border radius of 4px. An avatar image is displayed 
 
 Chips have 3 different variations and are displayed as follows:
 
-**Normal: **Rectangular box filled in with** **CECECE. Black text. Small avatar \(26 x 26px\) aligned to the left. 
+**Normal: **Rectangular box filled in with** **CECECE. Black text. Small avatar \(26 x 26px\) aligned to the left.
 
 **User-control: **Same as normal, but there is an additional remove icon on the right. This icon is 4D5D6C with a transparent x, and is right-aligned. Small avatar \(26 x 26px\) aligned to the left.
 
@@ -32,7 +32,7 @@ Chips have 3 different variations and are displayed as follows:
 
 ## Pills
 
-![](/assets/Pills.png)
+![](.gitbook/assets/pills.png)
 
 Pills are similar to chips, but aren't necessarily associated with a particular user. They are styled the same but without the left-aligned avatar.
 
