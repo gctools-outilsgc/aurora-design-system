@@ -37,7 +37,7 @@ This template features all of the basic content elements. This template can be u
 
 ![](/assets/import.png)
 
-Similar to the basic card template, this variation has the majority of the basic content elements, however there is a greater emphasis on text over image. This template can be used for any card that does not require an action beyond clicking the card, in which the image is less important.
+Similar to the basic card template, this variation has the majority of the basic content elements, however there is a greater emphasis on text over image. This template can be used for any card that does not require an action beyond clicking the card in which the image is less important.
 
 #### Actionable card template
 
@@ -55,7 +55,7 @@ The image card template has a lot of visual impact. It's best used when an image
 
 ![](/assets/Cards4.png)
 
-The text card template is content-dense. It's best used when a card needs to convey a lot of information, and doesn't have an image that can be easily associated with it.  
+The text card template is content-dense. It's best used when a card needs to convey a lot of information, and doesn't have an image that can be easily associated with it.
 
 ### Sorting
 
