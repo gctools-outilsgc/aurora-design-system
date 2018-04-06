@@ -6,11 +6,11 @@ Modals are overlay messages that show users information on the page they are on.
 
 Alerts - Urgent interruptions, required acknowledgement
 
-Simple Menus - Lists
+Simple Menus - Lists -choice, ringtone 
 
 Confirmation - Single action
 
-_**Other types?**_
+_**Come up with examples**_  
 
 ## Best Practices
 
@@ -25,6 +25,4 @@ Modals can open up additional modals, however you should be careful to not have 
 _**Sizing**_
 
 -width is consistent, height will vary
-
-
 
