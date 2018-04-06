@@ -10,23 +10,23 @@ Themes enable consistent application styling through surface shades, shadow dept
 
 We have created other sample colour palettes that you may wish to use in your own system. Please see each swatch for corresponding text colour.
 
-
+![](.gitbook/assets/colour_aurora-borealis.png)
 
 Hex codes \(left to right\): \#000A3D, \#467B8D, \#5DC1BE, \#55C0A3, \#ADE18D
 
-
+![](.gitbook/assets/colour_blue-complimentary.png)
 
 Hex codes \(left to right\): \#0D467D, \#137991, \#6DD2DA, \#FF9F40, \#FEC04F
 
-
+![](.gitbook/assets/colour_triad.png)
 
 Hex codes \(left to right\): \#7E0C33, \#024571, \#5DC1BE, \#F6CF22, \#EDDB7C
 
-
+![](.gitbook/assets/colour_green-and-blue.png)
 
 Hex codes \(left to right\): \#0278A4, \#4E474, \#83C3F2, \#C9DF61, \#C1D699
 
-Applying Your Own Palettes
+### Applying Your Own Palettes
 
 When creating your application or website you can apply your own colour palettes to various elements. When putting together your own colour combinations, it is recommended that you choose at least one primary colour, two or three secondary colours that are similar and an accent colour.
 
@@ -34,9 +34,9 @@ For Government of Canada applications it is required that all colours meet the W
 
 Once chosen, you can apply your own colours simply by modifying the hex codes in your CSS for various elements.
 
+![](.gitbook/assets/colour_palettes.png)
 
-
-Colours Used in This System
+### Colours Used in This System
 
 Elements in this system use a simple and neutral colour palette that works well across multiple applications with various branding styles.
 
@@ -54,9 +54,9 @@ The palette used in this system is titled** Thunder and Lightning** and uses the
 
 \#FEC04F with black text \(\#212121\)
 
-Text Colours
+### Text Colours
 
-Black Text
+#### Black Text
 
 Text in this design system is displayed in an off-black colour. Black text can be used on any light background \(see: Light Theme\) or any button or element that uses a light colour. When adding text to any background that is not black it is essential to check the contrast for accessibility. Significant contrast between the background/element colour and the text ensures readability, even for those with visual impairments such as colour blindness.
 
@@ -66,7 +66,7 @@ _**\(include a do/don't image\)**_
 
 **Hex code**: \#212121
 
-White Text
+#### White Text
 
 Light text in this design system is displayed in an off-white colour. White text can be used on any dark background \(see: Dark Theme\) or any button or element that uses a dark or light colour. When adding white text it is essential to check the contrast for accessibility. Significant contrast between the background/element colour and the text ensures readability, even for those with visual impairments such as colour blindness.
 
@@ -76,7 +76,7 @@ _**\(include a do/don't image\)**_
 
 **Hex code**: \#FFFFFF
 
-Muted Text
+#### Muted Text
 
 Muted text is used for secondary text elements such as captions, placeholder text and timestamps. This muted text colour only works on light backgrounds \(see: Light Theme\) or light-coloured elements. For dark backgrounds or bright/dark elements, use white text.
 
@@ -86,13 +86,11 @@ _**\(include example\)**_
 
 **Hex code**: 5E515A
 
-Colour Themes
+### Colour Themes
 
-Light Theme
+#### Light Theme
 
 By default, most applications will follow the light theme. This theme includes various shades of white for different background/foreground levels.
-
-
 
 **Hex Codes                                          
 **
@@ -105,11 +103,9 @@ By default, most applications will follow the light theme. This theme includes v
 
 •    FFFFFF
 
-Dark Theme
+#### Dark Theme
 
 Some applications may wish to also incorporate a dark theme. This theme includes various shades of black and grey for different background/foreground levels.
-
-
 
 **Hex codes:    **
 
@@ -121,7 +117,7 @@ Some applications may wish to also incorporate a dark theme. This theme includes
 
 •    424242
 
-System Alerts and Messaging
+### System Alerts and Messaging
 
 This design system uses the same alerts and messaging colours as described in the Web Experience Toolkit:
 
