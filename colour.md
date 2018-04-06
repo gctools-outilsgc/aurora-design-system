@@ -56,6 +56,8 @@ The palette used in this system is titled** Thunder and Lightning** and uses the
 
 ### Text Colours
 
+![](.gitbook/assets/font-colours_1.png)
+
 #### Black Text
 
 Text in this design system is displayed in an off-black colour. Black text can be used on any light background \(see: Light Theme\) or any button or element that uses a light colour. When adding text to any background that is not black it is essential to check the contrast for accessibility. Significant contrast between the background/element colour and the text ensures readability, even for those with visual impairments such as colour blindness.
@@ -90,32 +92,15 @@ _**\(include example\)**_
 
 #### Light Theme
 
-By default, most applications will follow the light theme. This theme includes various shades of white for different background/foreground levels.
+By default, most applications will follow the light theme. This theme includes various shades of white for different background/foreground levels.**                                    **
 
-**Hex Codes                                          
-**
-
-•    E0E0E0
-
-•    F5F5F5
-
-•    FAFAFA
-
-•    FFFFFF
+![](.gitbook/assets/light-theme%20%281%29.png)
 
 #### Dark Theme
 
 Some applications may wish to also incorporate a dark theme. This theme includes various shades of black and grey for different background/foreground levels.
 
-**Hex codes:    **
-
-•    000000
-
-•    212121
-
-•    303030
-
-•    424242
+![](.gitbook/assets/dark-theme.png)
 
 ### System Alerts and Messaging
 
