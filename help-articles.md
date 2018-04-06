@@ -2,7 +2,7 @@
 
 \(This style guide is currently for Freshdesk. It will be updated and changed to suit the design system\).
 
-Titles
+### Titles
 
 All article names/titles should be written in the form of a question. For example:
 
@@ -12,7 +12,7 @@ All article names/titles should be written in the form of a question. For exampl
 
 If the article can answer more than one complete question, you should split it in to multiple articles.
 
-Headings and Text
+ Headings and Text
 
 •    Font is the default Helvetica Neue
 
@@ -34,7 +34,7 @@ o    Tables are in grey scale \(see section\).
 
 o    Hyperlinks are blue \(see section\).
 
-Notes, Tips and Warnings
+ Notes, Tips and Warnings
 
 •    Notes are in italics. Notes should also appear in brackets \(e.g. \(Note: This format\)\).
 
