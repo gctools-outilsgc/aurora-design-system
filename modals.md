@@ -36,9 +36,9 @@ Main Content: A detailed explanation of the modal's purpose.
 
 Image: Only use when relevant to the modal's task.
 
-Buttons: The action the user takes when using the modal. Most modal's should have buttons. 
+Buttons: The actions the user can take when using the modal.
 
-Not all of these elements are necessary for a modal. Use what makes the most sense for the message and action the modal fulfills. 
+Not all of these elements are necessary for a modal. Use what makes the most sense for the message and action the modal fulfills. However, all modals should have buttons with the actions the user can take.
 
 ## Modal Templates
 
