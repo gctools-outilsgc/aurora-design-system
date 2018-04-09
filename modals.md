@@ -6,7 +6,7 @@ Modals are overlay messages that appear when actions need to be taken. They shou
 
 Alerts - Urgent interruptions which require acknowledgement. For example, if a user hasn't saved their data, and is trying to navigate away from a page an alert modal should appear to warn them that they will lose their data if they continue. Use for actions that are irreversible.
 
-Menus - Lists which offer a user choices. For example, choosing a sound that will play to remind them of an event in their calendar. 
+Menus - Lists which offers a user choice. For example, choosing a sound that will play to remind them of an event in their calendar. 
 
 Confirmation - A single action which confirms a user's choice. For example, a confirmation modal appears when a user is opting to delete their account to ensure that this is the action they meant to take.
 
