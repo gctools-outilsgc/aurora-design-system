@@ -10,6 +10,8 @@ Simple Menus - Lists -choice, ringtone
 
 Confirmation - Single action
 
+Form -
+
 _**Come up with examples**_
 
 ## Best Practices
@@ -21,6 +23,8 @@ How the user dismisses the modal depends on the severity of the action. Secondar
 Typically a modal should not cover a user's entire screen. The only exception is for a (full screen) complex modal on a mobile.
 
 Modals can open up additional modals, however you should be careful to not have too many layers of modals as this increases visual noise.
+
+Levels of modals, levels of information
 
 ## Components of a Modal
 
