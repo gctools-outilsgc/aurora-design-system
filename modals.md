@@ -4,7 +4,7 @@ Modals are overlay messages that show users information on the page they are on.
 
 ## Types of Modals
 
-Alerts - Urgent interruptions, required acknowledgement
+Alerts - Urgent interruptions, required acknowledgement (deleting stuff, nav, irreversible)
 
 Simple Menus - Lists -choice, ringtone
 
@@ -18,7 +18,7 @@ Modal text should be short and precise so that the user clearly knows what the m
 
 How the user dismisses the modal depends on the severity of the action. Secondary action modals can be dismissed by clicking "X", appearing in the top right corner, or by clicking outside of the modal box. Primary actions should not have these options for dismissal, and should only be closed by selecting an action.
 
-Typically a modal should not cover a user's entire screen. The only exception is for a complex modal on a mobile.
+Typically a modal should not cover a user's entire screen. The only exception is for a (full screen) complex modal on a mobile.
 
 Modals can open up additional modals, however you should be careful to not have too many layers of modals as this increases visual noise.
 
@@ -28,17 +28,17 @@ _**\(elaborate on\)**_
 
 Modals can be made up of several components. Some examples are:
 
-Header: 
+Title: (Overall description)
 
-Main Title
+Subtitle: (specific call-to-action)
 
-Meta Information
+Meta Information:
 
-Main Content
+Main Content:
 
-Image
+Image:
 
-Buttons
+Buttons:
 
 
 
