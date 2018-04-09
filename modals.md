@@ -1,6 +1,6 @@
 # Modals
 
-Modals are overlay messages that show users information on the page they are on. They should be used for actions or information that the user must acknowledge before proceeding. Modals prevent the user from accessing the parent page until the modal has been clicked out of or dismissed.
+Modals are overlay messages that appear when actions need to be taken. They should be used for actions or information that the user must acknowledge before proceeding. Modals prevent the user from accessing the parent page until the modal has been clicked out of or dismissed.
 
 ## Types of Modals
 
