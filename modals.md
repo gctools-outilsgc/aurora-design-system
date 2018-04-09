@@ -4,15 +4,13 @@ Modals are overlay messages that show users information on the page they are on.
 
 ## Types of Modals
 
-Alerts - Urgent interruptions, required acknowledgement (deleting stuff, nav, irreversible)
+Alerts - Urgent interruptions which require acknowledgement. For example, if a user hasn't saved their data, and is trying to navigate away from a page an alert modal should appear to warn them that they will lose their data if they continue. Use for actions that are irreversible.
 
-Simple Menus - Lists -choice, ringtone
+Menus - Lists which offer a user choices. For example, choosing a sound that will play to remind them of an event in their calendar. 
 
-Confirmation - Single action
+Confirmation - A single action which confirms a user's choice. For example, a confirmation modal appears when a user is opting to delete their account to ensure that this is the action they meant to take.
 
-Form -
-
-_**Come up with examples**_
+Form - A complex modal that requires the user to fill out multiple fields. 
 
 ## Best Practices
 
@@ -20,51 +18,71 @@ Modal text should be short and precise so that the user clearly knows what the m
 
 How the user dismisses the modal depends on the severity of the action. Secondary action modals can be dismissed by clicking "X", appearing in the top right corner, or by clicking outside of the modal box. Primary actions should not have these options for dismissal, and should only be closed by selecting an action.
 
-Typically a modal should not cover a user's entire screen. The only exception is for a (full screen) complex modal on a mobile.
+Typically a modal should not cover a user's entire screen. The only exception is for a complex modal on a mobile.
 
 Modals can open up additional modals, however you should be careful to not have too many layers of modals as this increases visual noise.
 
-Levels of modals, levels of information
-
 ## Components of a Modal
-
-_**\(elaborate on\)**_
 
 Modals can be made up of several components. Some examples are:
 
-Title: (Overall description)
+Title:  An overall description of the modal.
 
-Subtitle: (specific call-to-action)
+Subtitle: A specific call-to-action for the modal. Use if the title does not convey the entire message of the modal.
 
-Meta Information:
+Meta Information: Information that is used to categorize the modal. 
 
-Main Content:
+Main Content: A detailed explanation of the modal's purpose. 
 
-Image:
+Image: Only use when relevant to the modal's task.
 
-Buttons:
+Buttons: The action the user takes when using the modal. Most modal's should have buttons. 
 
-
+Not all of these elements are necessary for a modal. Use what makes the most sense for the message and action the modal fulfills. 
 
 ## Modal Templates
 
-![](.gitbook/assets/modal.png)
+### Standard Modal Template
 
 ![](.gitbook/assets/modal1.png)
 
-![](.gitbook/assets/modal2.png)
+This template comprises of the majority of elements that can be found in a typical modal. Do not use as an alert modal, as it can be exited from without the user choosing an action. 
 
-![](.gitbook/assets/modal3.png)
+### Standard Modal Template Mobile
 
-![](.gitbook/assets/modal4.png)
+![](.gitbook/assets/modal3%20%281%29.png)
 
-![](.gitbook/assets/modal5.png)
+The standard modal template, sized for mobile. 
+
+### Alert Modal Template
+
+![](.gitbook/assets/modal4%20%281%29.png)
+
+The alert modal template does not allow the user to return to the parent page without taking an action.
+
+### Alert Modal Template Simplified 
 
 ![](.gitbook/assets/modal6.png)
 
+If further explanation of the alert is not required, you can use a simplified version of the modal.
+
+### Menu Modal Template
+
+![](.gitbook/assets/modal5%20%282%29.png)
+
+The menu modal template offers the user a choice of options.
+
+### Image Modal Template
+
+![](.gitbook/assets/modal%20%282%29.png)
+
+Based on the standard modal template, this image modal includes a placement for an image. 
+
+## Example of User Flow and Layering
+
 ![](.gitbook/assets/modal-mobile.png)
 
-_**Sizing**_
+This is an example of layering modals for the user to achieve a goal.  In this scenario the user is creating an event in their calendar through modals on mobile. The first modal that opens navigates the user to two other modals through action buttons. Upon selecting the "Create an event" action, a full screen form modal opens, and the first modal closes. Within this form modal, the user selects "alert" opening a second layer of modal in the menu format. After selecting an option, or closing the menu modal, the user returns to the first layer form modal.
 
--width is consistent, height will vary
+Layers can help direct users through closely related options within a task. However, too many layers can become confusing for the user. Typically you should not have more than two layers of modals. 
 

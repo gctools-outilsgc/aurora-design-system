@@ -12,7 +12,7 @@ Cards are not always the best way to display information. Complex or compound in
 
 Cards can make your web product more engaging. However, you should consider the type of information you are sharing, as well as how the user will be viewing this information before you decide to use a card.
 
-### **Guide for creating a card's content**
+### Components of a card
 
 Elements that can be used in a card are:
 
