@@ -50,5 +50,5 @@ Some data formats should always use abbreviations:
 
 Graphs and visualizations should always aim to use as little colour as possible. If multiple colours are required, they should be a complimentary palette that are both distinguishable when placed in close proximity. Colour choice should avoid bias \(i.e. red or green\) unless specifically related to the data \(i.e. a decrease or increase\). Any colour is acceptable for a visualization so long as it meets contrast requirements. For more information about colour choice, visit the [colour section](colour.md).
 
-See specific types of visualizations for use of colour. In general, each variable should ave one designated colour, and only graphs showing multiple variables should have multiple colours.
+See specific types of visualizations for use of colour. In general, each variable should have one designated colour, and only graphs showing multiple variables should have multiple colours.
 
