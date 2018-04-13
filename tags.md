@@ -1,4 +1,4 @@
-# Tags
+# Tags, Chips and Pills
 
 ## Tags
 

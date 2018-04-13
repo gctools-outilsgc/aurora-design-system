@@ -8,8 +8,6 @@ Step indicators are used for tasks that require multiple steps. To visually repr
 
 If a label is required for your step indicator, the label should be placed at the top of the element and left-aligned.
 
-Step indicators should always include a text indicator as well as the visual. This text should be included in the &lt;alt&gt; tag.
-
 Colours for the step indicator can vary, but ensure that contrast requirements are met. Visit the [colour section](colour.md) for more information on choosing accessible colours.
 
 Step indicators are styled as follows:

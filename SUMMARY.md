@@ -11,7 +11,7 @@
 * [Like Buttons](like-buttons.md)
 * [Links](links.md)
 * [Badges](badges.md)
-* [Tags](tags.md)
+* [Tags, Chips and Pills](tags.md)
 * [Icons](icons.md)
 * [Images and Media](images-and-media.md)
 * [System Messaging](system-messaging.md)
@@ -42,4 +42,5 @@
 * [Data: Scatterplots](data-scatterplots.md)
 * [Data: Keys and Tooltips](data-keys-and-tooltips.md)
 * [Help Articles](help-articles.md)
+* [Tooltips](tooltips.md)
 
