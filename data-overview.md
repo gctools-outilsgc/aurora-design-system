@@ -14,6 +14,10 @@ If one graph is too complex to represent a certain dataset, the data should be r
 
 \(Include do and don't image\)
 
+### Multiple Formats
+
+When you use data visualizations, it is recommended to represent the data in multiple formats where possible. Regardless of the type of visualization you use, a simple data table, or other ways of viewing the raw data, should be available somewhere on the page. This allows users to view and analyze the data in a way that makes the most sense to them, as well as easily identify individual data points.
+
 ## Labels
 
 ### Graph Titles
@@ -48,7 +52,13 @@ Some data formats should always use abbreviations:
 
 ## Use of Colour
 
-Graphs and visualizations should always aim to use as little colour as possible. If multiple colours are required, they should be a complimentary palette that are both distinguishable when placed in close proximity. Colour choice should avoid bias \(i.e. red or green\) unless specifically related to the data \(i.e. a decrease or increase\). Any colour is acceptable for a visualization so long as it meets contrast requirements. For more information about colour choice, visit the [colour section](colour.md).
+Graphs and visualizations should always aim to use as little colour as possible. If multiple colours are required, they should be a complimentary palette that are both distinguishable when placed in close proximity. Colour choice should avoid bias \(i.e. red or green\) unless specifically related to the data \(i.e. a decrease or increase\). Any colour is acceptable for a visualization so long as it meets contrast requirements. 
+
+For increased accessibility, it is also recommended to use textures in addition to colour differences, so that variables are easier to distinguish. 
 
 See specific types of visualizations for use of colour. In general, each variable should have one designated colour, and only graphs showing multiple variables should have multiple colours.
+
+Axis lines should use light grey \(\#E0E0E0\), to not distract from other colours used in the visualization 
+
+For more information about colour choice, visit the [colour section](colour.md).
 
