@@ -122,7 +122,7 @@ This design system uses the same alerts and messaging colours as described in th
 
 Please refer to the alerts section and the colour section for more information.
 
-Info Colours
+#### Info Colours
 
 ![](.gitbook/assets/info_colours%20%281%29.png)
 
@@ -130,13 +130,13 @@ _**Info colours are used when providing additional information and notes to the 
 
 **Info hex codes:  **
 
-•    245269
+•    \#245269
 
-•    269ABC
+•    \#269ABC
 
-•    D7FAFF
+•    \#D7FAFF
 
-Warning Colours
+#### Warning Colours
 
 ![](.gitbook/assets/warning_colours.png)
 
@@ -144,13 +144,13 @@ _**Warning colours are used for notices that require the user’s acknowledgemen
 
 **Warning hex codes:  **
 
-•    66512C
+•    \#66512C
 
-•    FF9900
+•    \#FF9900
 
-•    F9F4D4
+•    \#F9F4D4
 
-Error Colours
+#### Error Colours
 
 ![](.gitbook/assets/error_colours%20%281%29.png)
 
@@ -158,13 +158,13 @@ _**Error colours are used to indicate system failures and malfunctions. **_
 
 **Error hex codes:  **
 
-•    923534
+•    \#923534
 
-•    D3080C
+•    \#D3080C
 
-•    F3E9E8
+•    \#F3E9E8
 
-Success Colours
+#### Success Colours
 
 ![](.gitbook/assets/success_colours.png)
 
@@ -172,9 +172,9 @@ _**Success colours are used when confirming that the user’s input was successf
 
 **Success hex codes:**
 
-•    2B542C
+•    \#2B542C
 
-•    278400
+•    \#278400
 
-•    D8EECA
+•    \#D8EECA
 
