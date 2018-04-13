@@ -22,6 +22,14 @@ Progress bars should always include a text indicator as well as the visual to pr
 
 Colours for the progress bar can vary, but ensure that contrast requirements are met. Visit the [colour section](colour.md) for more information on choosing accessible colours.
 
+Progress bars can be filled with any colour you choose, but be sure to use text that meets minimum contrast requirements. For more information about accessible colours, visit the colour section. 
+
+Progress bars are styled using a rectangle with 16px height and variable width. The rectangle has a 1px border coloured \#ADACAC, with a 4px border radius. 
+
+Percentage can be either aligned to the right of the bar, or the percentage can be centred within the coloured portion of the bar. 
+
+![](.gitbook/assets/progress-bars.png)
+
 ### Animation
 
 Progress bars start empty and gradually fill with colour using an animation. The percentage shown should match the level of colour that fills the bar.
