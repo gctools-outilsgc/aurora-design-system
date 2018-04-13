@@ -4,3 +4,7 @@ In general, keys and tooltips should only be used on visualizations when absolut
 
 Never use a key if you only have one data category. 
 
+## Keys
+
+## Tooltips
+
