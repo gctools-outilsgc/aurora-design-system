@@ -50,7 +50,7 @@ Some data formats should always use abbreviations:
 | 12-hour time | 1am, 2pm, 12pm etc. |
 | Standard money abbreviations | $1.2k, $3.4m, $6.2b, etc. |
 
-## Use of Colour
+## Colours and Textures
 
 Graphs and visualizations should always aim to use as little colour as possible. If multiple colours are required, they should be a complimentary palette that are both distinguishable when placed in close proximity. Colour choice should avoid bias \(i.e. red or green\) unless specifically related to the data \(i.e. a decrease or increase\). Any colour is acceptable for a visualization so long as it meets contrast requirements. 
 
