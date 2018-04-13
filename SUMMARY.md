@@ -37,7 +37,7 @@
 * [Data: Overview](data-overview.md)
 * [Data: Choosing Visualizations](data-choosing-visualizations.md)
 * [Data: Tables](data-tables.md)
-* [Data: Column and Bar Graphs](data-bar-graphs.md)
+* [Data: Column and Bar Graphs](data-column-and-bar-graphs.md)
 * [Data: Line Graphs](data-line-graphs.md)
 * [Data: Scatterplots](data-scatterplots.md)
 * [Data: Keys and Tooltips](data-keys-and-tooltips.md)
