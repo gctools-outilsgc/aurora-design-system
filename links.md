@@ -14,9 +14,9 @@ If a link is bringing the user to an external web page, this should be indicated
 
 Links should not exceed one line in length, and be applied to 2-4 key words rather than a full sentence or line.
 
-Links should always include a hover state and a visited state. In this system, links are displayed as follows:
+Links should always include a hover state and a visited state, and should look different from the rest of the text. In this system, links are displayed as follows:
 
-**Regular: **Nunitio Sans Regular at 14 points **\(include colour, underlined?\)**
+**Regular: **Nunitio Sans Regular at 14 points
 
 **Hover: **Nunitio Sans Regular at 14 points
 
