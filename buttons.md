@@ -124,21 +124,13 @@ Drop down buttons display a list of items when clicked. They are used for two-st
 
 **Pressed State: **When the drop-down arrow is pressed, this arrow section of the button is displayed at 80% opacity and a drop-down menu is displayed below. The action box uses a 1pt border using \#CECECE. The box has a border radius of 4px. The width of the box is 166px, and the height depends on the number of actions, using 40px per action. On hover, the 40px around the action is displayed using \#CECECE
 
-## Split Buttons
-
-Split buttons are more complex than drop-down buttons. Instead of referring to a singular action, a split button acts as two distinct buttons in one. A split button provides a default action, while the arrow on the right provides a drop-down list of alternate actions.
-
-The default action represented in the split button is the most commonly used, while the actions presented in the drop-down are alternates that are used only occasionally.
-
-One of the best examples of a split button is an email reply button. _Reply_ is represented as the default, since it is the most common, while the drop-down menu will provide other options such as _Reply to all_, _Forward_, or _Delete_.
-
-Split buttons follow the same design specifications as drop-down buttons.
-
 ## Button Groups
 
 Button groups, are a stylized way of putting multiple buttons together.
 
 Primary actions are aligned to the left, while secondary actions are placed in the middle, and warning or destructive actions are aligned to the right.
+
+![](.gitbook/assets/button-groups.png)
 
 ## Icon Buttons
 

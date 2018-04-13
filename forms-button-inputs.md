@@ -38,13 +38,21 @@ Labels for radio buttons are aligned to the right of the button.
 
 Radio buttons have four different states:
 
+![](.gitbook/assets/radio_normal.png)
+
 **Normal: **18px by 18px circle, background colour of \#F9F9F9, border colour of \#96A8B2 at 1px
+
+![](.gitbook/assets/radio_hover.png)
 
 **Hover: **18px by 18px circle, background color \#FFFFFF, border colour of \#4D5D6C at 1px
 
+![](.gitbook/assets/radio_focus.png)
+
 **Focus: **18px by 18px circle, border radius of 4px, background color \#FFFFFF, border colour of \#4D5D6C at 3px
 
-**Active: **18px by 18px circle, border radius of 4px, background colour \#4D5D6C, border colour of \#96A8B2 . Includes filled in smaller circle within the full button.
+![](.gitbook/assets/radio_active.png)
+
+**Active: **18px by 18px circle, border radius of 4px, background colour \#4D5D6C, border colour of \#96A8B2. Includes filled in smaller circle within the full button.
 
 ## Switches
 
