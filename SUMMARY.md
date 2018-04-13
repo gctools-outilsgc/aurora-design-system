@@ -41,4 +41,5 @@
 * [Data: Scatterplots](data-scatterplots.md)
 * [Data: Keys and Tooltips](data-keys-and-tooltips.md)
 * [Help Articles](help-articles.md)
+* [Data: Choosing Visualizations](data-choosing-visualizations.md)
 
