@@ -12,6 +12,22 @@ Step indicators should always include a text indicator as well as the visual. Th
 
 Colours for the step indicator can vary, but ensure that contrast requirements are met. Visit the [colour section](colour.md) for more information on choosing accessible colours.
 
+Step indicators are styled as follows:
+
+Each step is an individual circle with an outer circle of 44px using the colour \#CECECE. 
+
+The inner circle is white \(\#FFFFFF\) and 34px. it is centred within the outer circle. The text is heading 2 style, Rubik Regular at 21 points.  The inner circle has a black \(\#000000\)drop shadow of 20% opacity, offset of 0 for x and y, and 4px blur. 
+
+In between steps there is a centred line with a thickness of 3px. This line should be the same colour as the outer circle. 
+
+![](.gitbook/assets/steps_empty.png)
+
+In progress, completed steps use a coloured circle and line. The outer circle is filled with the colour \(\#FEC04F\) or the secondary colour of your choice. The line is also filled with this colour. 
+
+![](.gitbook/assets/steps_active.png)
+
+![](.gitbook/assets/steps_complete.png)
+
 ## Progress Bars
 
 Progress bars are used to visually represent a page or feature that is loading or in progress. Progress bars show a percentage as well as the visual representation shown within the bar.
