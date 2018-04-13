@@ -16,7 +16,9 @@ In this case, put extra effort to make your table as readable as possible, and c
 
 ## Bar and Column Graphs
 
-Bar graphs \(horizontal bars\) and column graphs \(vertical bars\) are ideal for comparing the results of one variable. Column graphs can also be used to show comparisons across multiple variables, but it is recommended to keep this number to a minimum.
+Bar graphs \(horizontal bars\) and column graphs \(vertical bars\) are ideal for comparing the results of one variable. Column and bar graphs are ideal for comparing a small number of categories \(5-15\). Bar graphs are best used when there are more than 10. If you have more than 15 categories, consider other type of visualizations or multiple, smaller graphs. 
+
+Column graphs can also be used to show comparisons across multiple variables, but it is recommended to keep this number to a minimum.
 
 Overall, column graphs should be used over bar graphs. Bar graphs are ideal if your data labels are long and require more visual space, or if you have more than 10 items \(bars\) to show.
 
