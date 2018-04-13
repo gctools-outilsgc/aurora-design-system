@@ -42,6 +42,16 @@ Throughout the design system, documentation about elements will specify which co
 
 The palette used in this system is titled** Thunder and Lightning** and uses the following hex codes:
 
+\#002D42 \(with white text\)
+
+\#4D5D6C \(with white text\)
+
+\#96A8B2 \(with black text\)
+
+\#CECECE \(with black text\)
+
+\#FEC04F \(with black text\)
+
 ![\#002D42 with white text \(\#FFFFFF\)](.gitbook/assets/colour_navy.png)
 
 ![\#4D5D6C with white text \(\#FFFFFF\)](.gitbook/assets/colour_blue.png)
@@ -92,13 +102,17 @@ _**\(include example\)**_
 
 #### Light Theme
 
-By default, most applications will follow the light theme. This theme includes various shades of white for different background/foreground levels.**                                    **
+By default, most applications will follow the light theme. This theme includes various shades of white for different background/foreground levels.**             **
+
+Hex codes: \#E0E0E0, \#F5F5F5, \#FAFAFA, \#FFFFF**                       **
 
 ![](.gitbook/assets/light-theme%20%281%29.png)
 
 #### Dark Theme
 
 Some applications may wish to also incorporate a dark theme. This theme includes various shades of black and grey for different background/foreground levels.
+
+Hex codes: \#000000, \#212121, \#303030, \#424242
 
 ![](.gitbook/assets/dark-theme.png)
 
