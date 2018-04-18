@@ -2,6 +2,9 @@
 
 ## Preface
 
+Learn more about this project on our new [GCDigital Design System](https://wiki.gccollab.ca/GCDigital_design_system) wiki page! 
+ 
+
 The Digital Collaboration Division \(GCTools\) is building a design system to standardize the visual language and user experience of our digital collaboration tools. The system will encompass visual elements, components and communications.
 
 This project is happening parallel to the rebuild of our digital products, including moving our suite of tools to a micro-service architecture. These projects will inform each other and work together to update the developmental framework, user interface and design of our tools.
