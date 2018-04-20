@@ -2,8 +2,7 @@
 
 ## Preface
 
-Learn more about this project on our new [GCDigital Design System](https://wiki.gccollab.ca/GCDigital_design_system) wiki page! 
- 
+Learn more about this project on our new [GCDigital Design System](https://wiki.gccollab.ca/GCDigital_design_system) wiki page!
 
 The Digital Collaboration Division \(GCTools\) is building a design system to standardize the visual language and user experience of our digital collaboration tools. The system will encompass visual elements, components and communications.
 
@@ -63,7 +62,7 @@ Kanban Planning \(requires login\): [Zube](https://zube.io/tbs-sct/design-system
 * [Links](links.md)
 * [Icons](icons.md)
 * [Badges](badges.md)
-* [Tags](tags.md)
+* [Tags](tags-chips-and-pills.md)
 * [Images and Media](images-and-media.md)
 * [System Messaging](system-messaging.md)
 * [Grids and Spacing](grids-and-spacing.md)

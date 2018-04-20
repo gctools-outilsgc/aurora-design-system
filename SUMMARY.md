@@ -11,7 +11,7 @@
 * [Like Buttons](like-buttons.md)
 * [Links](links.md)
 * [Badges](badges.md)
-* [Tags, Chips and Pills](tags.md)
+* [Tags, Chips and Pills](tags-chips-and-pills.md)
 * [Icons](icons.md)
 * [Images and Media](images-and-media.md)
 * [System Messaging](system-messaging.md)
