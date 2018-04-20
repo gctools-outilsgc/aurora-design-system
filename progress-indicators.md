@@ -12,11 +12,11 @@ Colours for the step indicator can vary, but ensure that contrast requirements a
 
 Step indicators are styled as follows:
 
-Each step is an individual circle with an outer circle of 44px using the colour \#CECECE. 
+Each step is an individual circle with an outer circle of **44px** using the colour \#CECECE. 
 
-The inner circle is white \(\#FFFFFF\) and 34px. it is centred within the outer circle. The text is heading 2 style, Rubik Regular at 21 points.  The inner circle has a black \(\#000000\)drop shadow of 20% opacity, offset of 0 for x and y, and 4px blur. 
+The inner circle is white \(\#FFFFFF\) and **34px**. it is centred within the outer circle. The text is heading 2 style, Rubik Regular at 21 points.  The inner circle has a black \(\#000000\)drop shadow of 20% opacity, offset of 0 for x and y, and **4px** blur. 
 
-In between steps there is a centred line with a thickness of 3px. This line should be the same colour as the outer circle. 
+In between steps there is a centred line with a thickness of **3px**. This line should be the same colour as the outer circle. 
 
 ![](.gitbook/assets/steps_empty.png)
 
@@ -38,7 +38,7 @@ Colours for the progress bar can vary, but ensure that contrast requirements are
 
 Progress bars can be filled with any colour you choose, but be sure to use text that meets minimum contrast requirements. For more information about accessible colours, visit the colour section. 
 
-Progress bars are styled using a rectangle with 16px height and variable width. The rectangle has a 1px border coloured \#ADACAC, with a 4px border radius. 
+Progress bars are styled using a rectangle with **16px** height and variable width. The rectangle has a **1px** border coloured \#ADACAC, with a **4px** border radius. 
 
 Percentage can be either aligned to the right of the bar, or the percentage can be centred within the coloured portion of the bar. 
 

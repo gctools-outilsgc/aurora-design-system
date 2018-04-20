@@ -12,19 +12,19 @@ Checkboxes, like other buttons, have four different states:
 
 ![](.gitbook/assets/checkbox_normal.png)
 
-**Normal: **18px by 18px box, border radius of 4px, background colour of \#F9F9F9, border colour of \#96A8B2 at 1px
+**Normal: 18px by 18px** box, border radius of **4px**, background colour of \#F9F9F9, border colour of \#96A8B2 at **1px**
 
 ![](.gitbook/assets/checkbox_hover.png)
 
-**Hover: **18px by 18px box, border radius of 4px, background color \#FFFFFF, border colour of \#4D5D6C at 1px
+**Hover: 18px by 18px** box, border radius of **4px**, background color \#FFFFFF, border colour of \#4D5D6C at **1px**
 
 ![](.gitbook/assets/checkbox_focus.png)
 
-**Focus: **18px by 18px box, border radius of 4px, background color \#FFFFFF, border colour of \#4D5D6C at 3px
+**Focus: 18px by 18px** box, border radius of **4px**, background color \#FFFFFF, border colour of \#4D5D6C at **3px**
 
 ![](.gitbook/assets/checkbox_active.png)
 
-**Active: **18px by 18px box, border radius of 4px, background colour \#4D5D6C, border colour of \#96A8B2 . Includes a white check icon centered within the box.
+**Active: 18px by 18px** box, border radius of **4px**, background colour \#4D5D6C, border colour of \#96A8B2 . Includes a white check icon centered within the box.
 
 ## Radio Buttons
 
@@ -40,19 +40,19 @@ Radio buttons have four different states:
 
 ![](.gitbook/assets/radio_normal.png)
 
-**Normal: **18px by 18px circle, background colour of \#F9F9F9, border colour of \#96A8B2 at 1px
+**Normal: 18px by 18px** circle, background colour of \#F9F9F9, border colour of \#96A8B2 at **1px**
 
 ![](.gitbook/assets/radio_hover.png)
 
-**Hover: **18px by 18px circle, background color \#FFFFFF, border colour of \#4D5D6C at 1px
+**Hover: 18px by 18px** circle, background color \#FFFFFF, border colour of \#4D5D6C at **1p**x
 
 ![](.gitbook/assets/radio_focus.png)
 
-**Focus: **18px by 18px circle, border radius of 4px, background color \#FFFFFF, border colour of \#4D5D6C at 3px
+**Focus: 18px by 18px** circle, border radius of **4px**, background color \#FFFFFF, border colour of \#4D5D6C at **3px**
 
 ![](.gitbook/assets/radio_active.png)
 
-**Active: **18px by 18px circle, border radius of 4px, background colour \#4D5D6C, border colour of \#96A8B2. Includes filled in smaller circle within the full button.
+**Active: 18px by 18px** circle, border radius of **4px**, background colour \#4D5D6C, border colour of \#96A8B2. Includes filled in smaller circle within the full button.
 
 ## Switches
 
@@ -64,21 +64,21 @@ Switches have four different states:
 
 ![](.gitbook/assets/switch_off.png)
 
-**Off: **32px by 18px, border radius of 9px, slider background colour of \#E3E4E5, knob colour \#FFFFFF, border 1px with a colour of \#66666. The knob is on the left of the slider.
+**Off: 32px by 18px**, border radius of **9px**, slider background colour of \#E3E4E5, knob colour \#FFFFFF, border **1px** with a colour of \#66666. The knob is on the left of the slider.
 
 ![](.gitbook/assets/switch_off_hover.png)
 
 **Off, Hover/Focus:**
 
-32px by 18px, border radius of 9px, slider background colour of \#E3E4E5, knob colour of \#FFFFFF with a border of 3px and border colour of \#4D5D6C , border 1px with a colour of \#66666. The knob is on the left of the slider.
+**32px by 18px**, border radius of **9px**, slider background colour of \#E3E4E5, knob colour of \#FFFFFF with a border of **3px** and border colour of \#4D5D6C , border **1px** with a colour of \#66666. The knob is on the left of the slider.
 
 ![](.gitbook/assets/switch_on.png)
 
-**On: **32px by 18px, border radius of 9px, slider background colour of \#FEC04F, knob colour \#FFFFFF, border 1px with a colour of \#66666. The knob is on the right of the slider.
+**On: 32px by 18px**, border radius of **9px**, slider background colour of \#FEC04F, knob colour \#FFFFFF, border **1px** with a colour of \#66666. The knob is on the right of the slider.
 
 ![](.gitbook/assets/switch_on_hover.png)
 
-**On, Hover/Focus: **32px by 18px, border radius of 9px, slider background colour of \#FEC04F, knob colour \#FFFFFF with a border of 3px and colour of \#4D5D6C, border 1px with a colour of \#66666. The knob is on the right of the slider.
+**On, Hover/Focus: 32px by 18px**, border radius of **9px**, slider background colour of \#FEC04F, knob colour \#FFFFFF with a border of **3px** and colour of \#4D5D6C, border **1px** with a colour of \#66666. The knob is on the right of the slider.
 
 ## Action Buttons
 

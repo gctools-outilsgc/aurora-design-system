@@ -8,7 +8,7 @@ Buttons tend to have visual prominence on any given page or window. Primary butt
 
 Buttons used in this design system have a minimum size of 10mm x 10mm. This is the typical size of a user's finger pad when using the application on mobile. For web this minimum size is also consistent.
 
-The more white-space _**padding**_ around a button, the more prominent the button appears on the page. Most buttons in this system use 15px of padding, but are otherwise indicated.
+The more white-space _**padding**_ around a button, the more prominent the button appears on the page. Most buttons in this system use **15px** of padding, but are otherwise indicated.
 
 ## Labels
 
@@ -48,21 +48,21 @@ Each of the states for primary buttons are as follows:
 
 ![](.gitbook/assets/button_primary.png)
 
-**Regular state:** primary colour at 100% opacity, white text, with a border radius of 4px and padding of 15px.
+**Regular state:** primary colour at 100% opacity, white text, with a border radius of **4px** and padding of **15px**.
 
 ![](.gitbook/assets/button_primary_hover.png)
 
-**Hover state: **primary colour at 80% opacity, white text, with a border radius of 4px and padding of 15px.
+**Hover state: **primary colour at 80% opacity, white text, with a border radius of **4px** and padding of **15px**.
 
 ![](.gitbook/assets/button_primary_focus.png)
 
-**Focus state: **primary colour at 80% opacity, white text, with a border radius of 4px and padding of 15px. Includes a 3px stroke in the primary colour.
+**Focus state: **primary colour at 80% opacity, white text, with a border radius of **4px** and padding of **15px**. Includes a **3px** stroke in the primary colour.
 
 **Active state: **_**\(to complete\)**_
 
 ![](.gitbook/assets/button_primary_disabled.png)
 
-**Disabled state: **primary colour at 50% opacity, white text, with a border radius of 4px and padding of 15px.
+**Disabled state: **primary colour at 50% opacity, white text, with a border radius of **4px** and padding of **15px**.
 
 ### Position
 
@@ -82,21 +82,21 @@ Each of the states for secondary buttons are as follows:
 
 ![](.gitbook/assets/button_secondary.png)
 
-**Regular state: **transparent with a 1px stroke using the muted text colour \(\#666666\), the text is also written using the muted colour. Border radius of 4px and padding of 15px.
+**Regular state: **transparent with a **1px** stroke using the muted text colour \(\#666666\), the text is also written using the muted colour. Border radius of **4px** and padding of **15px**.
 
 ![](.gitbook/assets/button_secondary_hover.png)
 
-**Hover state: **transparent with a 1px stroke using black, the text is displayed in black. Border radius of 4px and padding of 15px.
+**Hover state: **transparent with a **1px** stroke using black, the text is displayed in black. Border radius of **4px** and padding of **15px**.
 
 ![](.gitbook/assets/button_secondary_focus.png)
 
-**Focus state: **transparent with a 3px stroke using black, the text is displayed in black. Border radius of 4px and padding of 15px.
+**Focus state: **transparent with a **3px** stroke using black, the text is displayed in black. Border radius of **4px** and padding of **15px**.
 
 **Active state: **_**\(to complete\)**_
 
 ![](.gitbook/assets/button_secondary_disabled.png)
 
-**Disabled state: **Fill colour of \#CECECE, with white text. Border radius of 5px and padding of 15px.
+**Disabled state: **Fill colour of \#CECECE, with white text. Border radius of **5px** and padding of **15px**.
 
 ### Position
 
@@ -108,21 +108,21 @@ Drop down buttons display a list of items when clicked. They are used for two-st
 
 ![](.gitbook/assets/button_drop-down.png)
 
-**Regular State: **Similar to the primary button, drop-down buttons use the primary colour at 100% opacity, white text, with a border radius of 4px and padding of 15px. The drop-down arrow represents a space of 30px by 40px, which is separated from the primary button using a white line. The arrow uses a space of 15px width and 8px in height.
+**Regular State: **Similar to the primary button, drop-down buttons use the primary colour at 100% opacity, white text, with a border radius of **4px** and padding of **15px**. The drop-down arrow represents a space of **30px by 40px**, which is separated from the primary button using a white line. The arrow uses a space of **15px** width and **8px** in height.
 
 ![](.gitbook/assets/button_drop-down_hover_1.png)
 
 ![](.gitbook/assets/button_drop-down_hover_2.png)
 
-**Hover States: **Similar to the primary button, drop-down buttons use the primary colour at 100% opacity, white text, with a border radius of 4px and padding of 15px. The drop-down arrow represents a space of 30px by 40px, which is separated from the primary button using a white line. The arrow uses a space of 15px width and 8px in height. Whichever piece of the button \(primary or drop-down section\) is being hovered over is shown at 80% opacity.
+**Hover States: **Similar to the primary button, drop-down buttons use the primary colour at 100% opacity, white text, with a border radius of **4px** and padding of** 15px**. The drop-down arrow represents a space of **30px by 40px**, which is separated from the primary button using a white line. The arrow uses a space of **15px** width and **8px** in height. Whichever piece of the button \(primary or drop-down section\) is being hovered over is shown at 80% opacity.
 
 ![](.gitbook/assets/button_drop-down_focus_1.png)
 
-**Focus State: **Similar to the primary button, drop-down buttons use the primary colour at 100% opacity, white text, with a border radius of 4px and padding of 15px. The drop-down arrow represents a space of 30px by 40px, which is separated from the primary button using a white line. The arrow uses a space of 15px width and 8px in height. Whichever piece of the button \(primary or drop-down section\) is being focused on is shown at 80% opacity and includes a stroke of 3pts in the primary colour.
+**Focus State: **Similar to the primary button, drop-down buttons use the primary colour at 100% opacity, white text, with a border radius of **4px** and padding of **15px**. The drop-down arrow represents a space of **30px by 40px**, which is separated from the primary button using a white line. The arrow uses a space of **15px** width and **8px** in height. Whichever piece of the button \(primary or drop-down section\) is being focused on is shown at 80% opacity and includes a stroke of **3pts** in the primary colour.
 
 ![](.gitbook/assets/button_drop-down_pressed.png)
 
-**Pressed State: **When the drop-down arrow is pressed, this arrow section of the button is displayed at 80% opacity and a drop-down menu is displayed below. The action box uses a 1pt border using \#CECECE. The box has a border radius of 4px. The width of the box is 166px, and the height depends on the number of actions, using 40px per action. On hover, the 40px around the action is displayed using \#CECECE
+**Pressed State: **When the drop-down arrow is pressed, this arrow section of the button is displayed at 80% opacity and a drop-down menu is displayed below. The action box uses a 1pt border using \#CECECE. The box has a border radius of **4px**. The width of the box is **166px**, and the height depends on the number of actions, using **40px** per action. On hover, the **40px** around the action is displayed using \#CECECE
 
 ## Button Groups
 
