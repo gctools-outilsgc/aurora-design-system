@@ -28,19 +28,19 @@ Avatars are used in three sizes and styled as follows:
 
 ![](.gitbook/assets/avatar_small.png)
 
-**Small:** Square image with corners rounded by 3px. Sized at 26 x 26 pixels.
+**Small:** Square image with corners rounded by **3px**. Sized at **26 x 26 pixels**.
 
 Used on small components where the user would need to be identified, such as tags or chat.
 
 ![](.gitbook/assets/avatar_medium.png)
 
-**Medium: **Square image with corners rounded by 3px. Sized at 50 x 50 pixels.
+**Medium: **Square image with corners rounded by **3px**. Sized at **50 x 50 pixels**.
 
 Used in combination with other components such as comments, chat, cards and anywhere else you would need to identify the user.
 
 ![](.gitbook/assets/avatar_large.png)
 
-**Large**: Square image with corners rounded by 3px. Sized at 115 x 115 pixels.
+**Large**: Square image with corners rounded by **3px**. Sized at **115 x 115 pixel**s.
 
 Used directly on the user's profile.
 
@@ -50,7 +50,7 @@ Thumbnails are small versions of an image that are used as previews to content. 
 
 ![](.gitbook/assets/thumbnail.png)
 
-Thumbnails are always square with corners rounded by 1px. They have a black stroke width of 0.25px. They are sized at 115 x 115 pixels. _**\(responsive sizing?\)**_
+Thumbnails are always square with corners rounded by **1px**. They have a black stroke width of **0.25p**x. They are sized at **115 x 115 pixels**. _**\(responsive sizing?\)**_
 
 Thumbnails do not crop the image but simply re-scale it. Thumbnails are typically left-aligned when combined with other components.
 
