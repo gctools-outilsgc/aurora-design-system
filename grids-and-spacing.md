@@ -4,7 +4,7 @@ This design system uses the same grid framework as the [Web Experience Toolkit](
 
 The grid system relies on a series of containers, columns and rows to build layout and align content. Containers center and horizontally pad content. Columns are the framework the content placement is built on. Rows act as wrappers for the columns.  
 
-The grid framework contains 12 columns that scale according to the viewport of the user's device. Further customization of grids and column layouts, such as offsetting and nesting, is possible through the Web Experience Toolkit's framework. Viewport width is in pixels, and  does not change the font size.
+The grid framework contains 12 columns that scale according to the viewport of the user's device. Further customization of grids and column layouts, such as offsetting and nesting, is possible through the Web Experience Toolkit's framework. Viewport width is in **pixels**, and  does not change the font size.
 
 ![Source: https://getbootstrap.com/docs/4.0/layout/grid/](.gitbook/assets/gridgraph1.PNG)
 
