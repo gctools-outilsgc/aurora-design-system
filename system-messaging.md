@@ -44,7 +44,7 @@ The notifications are designed with the same concept of simplicity found in the 
 
 The font icons are from Font Awesome, and were chosen due to their simple design and universality.
 
-A drop shadow is used to show the user that the notification can be closed by clicking the “X” button. The drop shadow has a 1px X-axis, a 1px Y-axis and an opacity of 23%.
+A drop shadow is used to show the user that the notification can be closed by clicking the “X” button. The drop shadow has a **1px X-axis**, a **1px Y-axis** and an opacity of 23%.
 
 ### **Colours**
 
@@ -64,11 +64,11 @@ Notifications should be located at the top of the page, or wherever is most conv
 
 ### **Font**
 
-The font used for notifications is the design system standard font Nunito Sans Regular. The notification title is in black and 16px in size. The notification message is in black and 14px in size. The font sizes were chosen for high visibility and easy readability. However, the size of the font may vary based on the display size, device used or how long the notification message is.
+The font used for notifications is the design system standard font Nunito Sans Regular. The notification title is in black and **16px** in size. The notification message is in black and **14px** in size. The font sizes were chosen for high visibility and easy readability. However, the size of the font may vary based on the display size, device used or how long the notification message is.
 
 ### **Size and padding**
 
-Notifications are 62px by 425px. The text has a 15px padding on the top and on the bottom, and a 30px padding from the left. The corners are rounded to 2px. Padding sizes can vary based on how long the message will be. Padding is used to make text more pronounced in order to separate the message content from the background content.
+Notifications are **62px by 425px**. The text has a **15px** padding on the top and on the bottom, and a **30px** padding from the left. The corners are rounded to **2px**. Padding sizes can vary based on how long the message will be. Padding is used to make text more pronounced in order to separate the message content from the background content.
 
 ### **Notification Messages**
 
