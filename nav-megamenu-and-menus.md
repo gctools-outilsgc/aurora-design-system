@@ -6,29 +6,23 @@
 
 Menus must contain at least two items, and each item should only be a single line of text. Menus can be exited by clicking outside of the menu, or by selecting the action, unless multiple actions can be selected, or selecting a navigation point. Menus should typically only have one level of nesting. 
 
+Interaction w/button
+
 -Ordering -- static vs dynamic
 
 -Nesting -- no more than one level, ideally
 
 -location -- top level \(emitting element -- for context\)
 
--Dismissing -- click outside, or select item \(not if multiple items can be selected\)
+-Temporary? 
+
+
 
 ## Action Menus \(need different name\)
 
--temporary
+Action menus are temporary lists of choices a user can make. They can consist of both** primary actions** and options which affect the page. Menu items can contain icons, and checkboxes.  **\(Do we want different symbols for multiple items vs different states?\). **Disabled options should still be shown, just in an unclickable state.** **Menus should be internally scrollable. 
 
 -interaction w/control
-
--discrete
-
--scroll internally
-
--disabled are still shown, just unclickable
-
-and checkboxes. \(Do we want different symbols for multiple items vs different states?\). Disabled items should still be shown in an unclickable state.
-
-
 
 Menu items can be ordered either statically or dynamically based on their 
 
