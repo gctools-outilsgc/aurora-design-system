@@ -1,12 +1,10 @@
 # Menus
 
-Menus are used to display lists of choices the user can select \(**parallelism?**\). Menus can be used for both lists of actions, as well as a form of navigation.
+Menus are used to display lists of choices the user can select \(**parallelism?**\). Menus can be used for lists of actions, as well as a form of navigation.
 
 ## Best Practices
 
--must contain at least two items
-
--menu items are a single line of text -- may also contain icons, and checks for multiple items or states \(do we want two different symbols for this?\)
+Menus must contain at least two items, and each item should only be a single line of text. 
 
 -Ordering -- static vs dynamic
 
@@ -27,6 +25,14 @@
 -scroll internally
 
 -disabled are still shown, just unclickable
+
+and checkboxes. \(Do we want different symbols for multiple items vs different states?\). Disabled items should still be shown in an unclickable state.
+
+
+
+Menu items can be ordered either statically or dynamically based on their 
+
+-Ordering -- static vs dynamic
 
 #### Labels
 
