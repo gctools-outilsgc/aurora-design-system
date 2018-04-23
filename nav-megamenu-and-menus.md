@@ -20,13 +20,9 @@ Interaction w/button
 
 ## Action Menus \(need different name\)
 
-Action menus are temporary lists of choices a user can make. They can consist of both** primary actions** and options which affect the page. Menu items can contain icons, and checkboxes.  **\(Do we want different symbols for multiple items vs different states?\). **Disabled options should still be shown, just in an unclickable state.** **Menus should be internally scrollable. 
+Action menus are temporary lists of choices a user can make. They can consist of both** primary actions** and options which affect the page. Menu items can contain icons, and checkboxes.  **\(Do we want different symbols for multiple items vs different states?\). **Menus should be internally scrollable. 
 
--interaction w/control
-
-Menu items can be ordered either statically or dynamically based on their 
-
--Ordering -- static vs dynamic
+Action menus can be static or contextual. Static menus have fixed options in the same order. Contextual menus dynamically change available options, or the order of the items in the list. 
 
 #### Labels
 
