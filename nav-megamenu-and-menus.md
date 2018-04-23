@@ -1,22 +1,12 @@
 # Menus
 
-Menus are used to display lists of choices the user can select \(**parallelism?**\). Menus can be used for lists of actions, as well as a form of navigation.
+Menus are used to display lists of choices the user can select. Menus can be used for lists of actions, as well as a form of navigation.
 
 ## Best Practices
 
-Menus must contain at least two items, and each item should only be a single line of text. Menus can be exited by clicking outside of the menu, or by selecting the action, unless multiple actions can be selected, or selecting a navigation point. Menus should typically only have one level of nesting. 
+Menus must contain at least two items, and each item should only be a single line of text. Menus can be exited by clicking outside of the menu, or by selecting the action, unless multiple actions can be selected, or selecting a navigation point. Menus should be labeled clearly and concisely. Menus should typically only have one level of nesting. 
 
-Interaction w/button
-
--Ordering -- static vs dynamic
-
--Nesting -- no more than one level, ideally
-
--location -- top level \(emitting element -- for context\)
-
--Temporary? 
-
-
+Interaction w/button?  -Temporary? \(Are we counting menu bars as menus?\)
 
 ## Action Menus \(need different name\)
 
@@ -26,31 +16,19 @@ Action menus are temporary lists of choices a user can make. They can consist of
 
 Action menus can be static or contextual. Static menus have fixed options; contextual menus change their options based on what is available to select. Menu items can be ordered either statically \(always in the same order\) or dynamically \(changing based on previous user interaction\).
 
-### Standard Action Menu
+#### Standard Action Menu
 
 ![](.gitbook/assets/menu2.png)
 
-
-
-#### Labels
+#### Cascading Menu
 
 ![](.gitbook/assets/menu1.png)
 
--concisely and accurately
-
-#### Contextual
-
--dynamic
-
-### Cascading Menus
+#### Check Option Menu
 
 ![](.gitbook/assets/menu3.png)
 
--desktop
-
-#### Inline
-
-### Simple Menus
+#### Simple Menus \(need image\)
 
 -mobile or tablet
 
@@ -60,27 +38,29 @@ Action menus can be static or contextual. Static menus have fixed options; conte
 
 -left aligned
 
+ -location -- top level \(emitting element -- for context\)
+
 ## Navigation Menus
+
+### Best Practices
 
 ### Menu Bar \(merge w/tabs? or vice versa?\)
 
 ### Mega-menus
 
--type of expendable menu
+Mega-menus are used when your navigation points have subcategories. The navigation points are grouped together with like items, under a title header. All items should be visible at the same time. Mega-menus can have multiple columns. 
 
--**subcategories** \(what makes it different from other menus\)
+#### Standard Mega-Menu
 
--two dimensional, groups of navigation items
+![](.gitbook/assets/mega-menu1.png)
 
--structured
+#### Dynamic Mega-Menu
 
--static
+![](.gitbook/assets/mega-menu.png)
 
--everything is visible at once
 
-#### Timing
 
-### Static \(merge w/sidebar? or vice versa?\)
+
 
 ## Hybrid
 
