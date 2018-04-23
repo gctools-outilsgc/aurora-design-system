@@ -28,7 +28,7 @@
 * [Nav: Breadcrumbs](nav-breadcrumbs.md)
 * [Nav: Back to top](nav-back-to-top.md)
 * [Pagination/Scrolling](pagination-scrolling.md)
-* [Nav: Megamenu and Menus](nav-megamenu-and-menus.md)
+* [Menus](nav-megamenu-and-menus.md)
 * [Nav: Tabs](nav-tabs.md)
 * [Nav: Sidebar](nav-sidebar.md)
 * [Drawers and Accordions](drawers-and-accordions.md)
