@@ -4,7 +4,7 @@
 
 ## Best Practices
 
-Menus must contain at least two items, and each item should only be a single line of text. 
+Menus must contain at least two items, and each item should only be a single line of text. Menus can be exited by clicking outside of the menu, or by selecting the action, unless multiple actions can be selected, or selecting a navigation point. Menus should typically only have one level of nesting. 
 
 -Ordering -- static vs dynamic
 
