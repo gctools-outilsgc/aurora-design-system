@@ -20,21 +20,17 @@ Interaction w/button
 
 ## Action Menus \(need different name\)
 
-Action menus are temporary lists of choices a user can make. 
+### Best Practices
 
-### Static Action Menu
+Action menus are temporary lists of choices a user can make. They can consist of both** primary actions** and options which affect the page. Menu items can contain icons, and checkboxes.  **\(Do we want different symbols for multiple items vs different states?\). **Menus should be internally scrollable. 
+
+Action menus can be static or contextual. Static menus have fixed options; contextual menus change their options based on what is available to select. Menu items can be ordered either statically \(always in the same order\) or dynamically \(changing based on previous user interaction\).
+
+### Standard Action Menu
 
 ![](.gitbook/assets/menu2.png)
 
 
-
-![](.gitbook/assets/menu.png)
-
-#### 
-
-They can consist of both** primary actions** and options which affect the page. Menu items can contain icons, and checkboxes.  **\(Do we want different symbols for multiple items vs different states?\). **Menus should be internally scrollable. 
-
-Action menus can be static or contextual. Static menus have fixed options in the same order. Contextual menus dynamically change available options, or the order of the items in the list. 
 
 #### Labels
 
@@ -89,4 +85,6 @@ Action menus can be static or contextual. Static menus have fixed options in the
 ## Hybrid
 
 
+
+![](.gitbook/assets/menu.png)
 
