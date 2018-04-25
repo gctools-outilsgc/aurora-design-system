@@ -14,7 +14,7 @@ Error example: “Your password must contain at least 8 characters.”
 
 ### Warning
 
-![](.gitbook/assets/individual-notification-warning.jpg)
+![](.gitbook/assets/individual-notification-warning2.png)
 
 Warning notifications are used for notices of potential future errors.
 
@@ -22,7 +22,7 @@ Warning example: “Caps lock is on which may cause you to enter your password i
 
 ### Information
 
-![](.gitbook/assets/individual-notification-info.jpg)
+![](.gitbook/assets/individual-notification-info2.png)
 
 Information notifications are used to provide additional information and notes to the user which they may find helpful in context.
 
