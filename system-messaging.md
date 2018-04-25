@@ -64,7 +64,7 @@ Notifications should be located at the top of the page, or wherever is most conv
 
 ### **Font**
 
-The font used for notifications is the design system standard font Nunito Sans Regular. The notification title is in black and **16px** in size. The notification message is in black and **14px** in size. The font sizes were chosen for high visibility and easy readability. However, the size of the font may vary based on the display size, device used or how long the notification message is.
+The font used for notifications is the design system standard font Nunito Sans Regular. The notification title is in black and **16pt** in size. The notification message is in black and **14pt** in size. The font sizes were chosen for high visibility and easy readability. However, the size of the font may vary based on the display size, device used or how long the notification message is.
 
 ### **Size and padding**
 
