@@ -10,7 +10,7 @@
 
 ![](.gitbook/assets/legend1.png)
 
-## Timelines \(or run charts?\)
+## Timelines \(or run charts? timeline is ambiguous\)
 
 Timelines are a type of line graph that are used to show changes in data over time. The time value should always be represented on the x-axis.
 
