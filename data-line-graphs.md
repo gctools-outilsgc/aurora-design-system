@@ -10,18 +10,15 @@ A great feature to add to your timeline is the ability for users to zoom in and 
 
 ## Area Graphs
 
-* two objects \(too messy and hard to read otherwise\)
-* lower opacity \(should be able to see both\)
-
-
-
-* use for proportional relationships 
-  * Cognitively implies relationship \(subtraction\)
+* use for part-to-whole relationships
+  * Cognitively implies relationship \(subtraction or addition\)
 
 OR
 
 * to show volume \(discrete objects\)
-* 
+  * two objects \(too messy and hard to read otherwise\)
+  * lower opacity \(should be able to see both\)
+
 ### Streamgraphs?
 
 
