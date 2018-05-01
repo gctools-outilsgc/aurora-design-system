@@ -20,7 +20,9 @@ Action menus can be static or contextual. Static menus have fixed options; conte
 
 #### Standard Action Menu
 
-![](.gitbook/assets/menu2.png)
+![](.gitbook/assets/asset-1.png)
+
+
 
 #### Cascading Menu
 
@@ -63,8 +65,6 @@ Mega-menus are used when your navigation points have subcategories. The navigati
 ## Hybrid
 
 
-
-![](.gitbook/assets/simple-unselected%20%281%29.png)
 
 ![](.gitbook/assets/menu.png)
 
