@@ -4,11 +4,9 @@ The "like" function should use commonly understood symbols such as a thumbs up o
 
 "Liking" should be a binary on/off function. Avoid using negative functions such as "dislike" as this may dissuade users from creating new content, or may give an overall negative impression of your product.
 
-Including a counter on like buttons can improve the community aspect of your product, as users can see how many people have positively reacted to the content. _**Can people see who has liked the content?**_
+Including a counter on like buttons can improve the community aspect of your product, as users can see how many people have positively reacted to the content.
 
 ![](.gitbook/assets/likebutton.png)
 
 For more information on best practices on buttons such as the like function, see [Buttons](https://www.gitbook.com/book/gctools-outilsgc/-gcdigital-design-system/edit#/edit/master/buttons.md?_k=gs2sz8).
-
-\(to include ratings at a later date\)
 
