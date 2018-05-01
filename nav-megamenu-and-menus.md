@@ -16,6 +16,8 @@ Action menus are temporary lists of choices a user can make. They can consist of
 
 Action menus can be static or contextual. Static menus have fixed options; contextual menus change their options based on what is available to select. Menu items can be ordered either statically \(always in the same order\) or dynamically \(changing based on previous user interaction\).
 
+### Templates of Action Menus
+
 #### Standard Action Menu
 
 ![](.gitbook/assets/menu2.png)
@@ -28,17 +30,13 @@ Action menus can be static or contextual. Static menus have fixed options; conte
 
 ![](.gitbook/assets/menu3.png)
 
-#### Simple Menus \(need image\)
+#### Simple Menus
 
--mobile or tablet
+![Simple menu before selection ](.gitbook/assets/simple-unselected.png)
 
--vertical
+![Simple menu after selecting &quot;Hide&quot;](.gitbook/assets/simpleselected1.png)
 
--nesting is vertically aligned on top of selected item
-
--left aligned
-
- -location -- top level \(emitting element -- for context\)
+Simple menus are used for mobile and tablet only. They use vertically-aligned nesting to reveal menu options, in order to reduce horizontal bulk. The nest should appear on top of the emitting element, slightly left-aligned. The selected item should be highlighted, and positioned on top of the emitting element.
 
 ## Navigation Menus
 
@@ -65,6 +63,8 @@ Mega-menus are used when your navigation points have subcategories. The navigati
 ## Hybrid
 
 
+
+![](.gitbook/assets/simple-unselected%20%281%29.png)
 
 ![](.gitbook/assets/menu.png)
 
