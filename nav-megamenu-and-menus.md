@@ -12,7 +12,7 @@ Interaction w/button?  -Temporary? \(Are we counting menu bars as menus?\)
 
 ### Best Practices
 
-Action menus are temporary lists of choices a user can make. They can consist of both** primary actions** and options which affect the page. Menu items can contain icons, and checkboxes.  **\(Do we want different symbols for multiple items vs different states?\). **Menus should be internally scrollable. 
+Action menus are temporary lists of choices a user can make. They can consist of both** primary actions** and options which affect the page. Menu items can contain icons, and checkboxes.** **Menus should be internally scrollable. 
 
 Action menus can be static or contextual. Static menus have fixed options; contextual menus change their options based on what is available to select. Menu items can be ordered either statically \(always in the same order\) or dynamically \(changing based on previous user interaction\).
 
@@ -44,7 +44,7 @@ Simple menus are used for mobile and tablet only. They use vertically-aligned ne
 
 ### Best Practices
 
-### Menu Bar \(merge w/tabs? or vice versa?\)
+
 
 ### Mega-menus
 

@@ -18,7 +18,7 @@ Users need to be able to easily read labels and intuitively understand how the l
 
 If additional information is necessary beyond a label, this information should be displayed in a separate tooltip or text field. Additional information on how to complete the field might also be provided as placeholder text.
 
-![](.gitbook/assets/signing-input-field.png)
+![](.gitbook/assets/asset-1-2x%20%281%29.png)
 
 ### Placement of Labels
 
