@@ -82,17 +82,15 @@ Each of the states for secondary buttons are as follows:
 
 ![](.gitbook/assets/button_secondary.png)
 
-**Regular state: **transparent with a **1px** stroke using the muted text colour \(\#666666\), the text is also written using the muted colour. Border radius of **4px** and padding of **15px**.
+**Regular state: **transparent with a **1px** stroke using the outline and text colour \(\#002D42\), the text is also written using the muted colour. Border radius of **4px** and padding of **15px**. 
 
 ![](.gitbook/assets/button_secondary_hover.png)
 
-**Hover state: **transparent with a **1px** stroke using black, the text is displayed in black. Border radius of **4px** and padding of **15px**.
+**Hover state: ** primary colour at 80% opacity, white text, with a border radius of **4px** and padding of **15px**.
 
 ![](.gitbook/assets/button_secondary_focus.png)
 
-**Focus state: **transparent with a **3px** stroke using black, the text is displayed in black. Border radius of **4px** and padding of **15px**.
-
-**Active state: **_**\(to complete\)**_
+**Focus state: **transparent with a **3px** stroke using an outline and text colour of \(\#002S42\). Border radius of **4px** and padding of **15px**.
 
 ![](.gitbook/assets/button_secondary_disabled.png)
 

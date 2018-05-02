@@ -38,7 +38,7 @@
 * [Data: Column and Bar Graphs](data-column-and-bar-graphs.md)
 * [Data: Line Graphs](data-line-graphs.md)
 * [Data: Scatterplots](data-scatterplots.md)
-* [Data: Keys, Legends and Tooltips](data-keys-and-tooltips.md)
+* [Data: Legends and Tooltips](data-keys-and-tooltips.md)
 * [Help Articles](help-articles.md)
 * [Tooltips](tooltips.md)
 
