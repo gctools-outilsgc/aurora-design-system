@@ -1,4 +1,0 @@
-# Headers and Footers
-
-
-

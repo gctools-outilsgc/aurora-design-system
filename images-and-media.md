@@ -2,8 +2,6 @@
 
 [https://v4-alpha.getbootstrap.com/content/images/](https://v4-alpha.getbootstrap.com/content/images/)
 
-## alt-tags
-
 ## Block Images
 
 Block images are separated from other elements on the page \(i.e. text\) and are typically centered with a set padding. In a layout including text, the text will continue on the next line after the image.
