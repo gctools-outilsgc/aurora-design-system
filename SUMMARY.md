@@ -28,7 +28,7 @@
 * [Nav: Breadcrumbs](nav-breadcrumbs.md)
 * [Nav: Back to top](nav-back-to-top.md)
 * [Pagination/Scrolling](pagination-scrolling.md)
-* [Menus](nav-megamenu-and-menus.md)
+* [Menus](menus.md)
 * [Nav: Tabs](nav-tabs.md)
 * [Drawers and Accordions](drawers-and-accordions.md)
 * [Search](search.md)
@@ -38,7 +38,7 @@
 * [Data: Column and Bar Graphs](data-column-and-bar-graphs.md)
 * [Data: Line Graphs](data-line-graphs.md)
 * [Data: Scatterplots](data-scatterplots.md)
-* [Data: Legends and Tooltips](data-keys-and-tooltips.md)
+* [Data: Legends and Tooltips](data-legends-and-tooltips.md)
 * [Help Articles](help-articles.md)
 * [Tooltips](tooltips.md)
 

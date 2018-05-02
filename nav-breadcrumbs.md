@@ -10,3 +10,9 @@ Breadcrumbs should be complimentary to primary navigation and should never be us
 
 Breadcrumbs in this design system are as follows:
 
+Every layer of breadcrumb that is not active \(i.e. the last in the list\) will be styled using link text. 
+
+In between each layer there is a chevron icon coloured \#A0A0A0
+
+Each layer has spacing of **12px** on either side of the chevron. 
+
