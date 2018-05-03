@@ -12,5 +12,13 @@ Legends should typically be aligned to the side of the graph, unless there is se
 
 Do not rely only on colour, different shapes can be used for individual data points to make the sets more distinguishable.
 
+## Legends {#legends}
+
+Legends... however, they should only be used as necessary. If the graph is only including one data set, don't add a legend.
+
+Legends should typically be aligned to the side of the graph, unless there is secondary axis in which case the legend should be placed at the bottom of the graph.
+
+Do not rely only on colour, different shapes can be used for individual data points to make the sets more distinguishable.
+
 ## Tooltips
 
