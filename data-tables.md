@@ -6,7 +6,7 @@
 * Change amount shown \(right and what \#\)
 * Left, what page you're on
 
-![](.gitbook/assets/asset-21-2x.png)
+![](.gitbook/assets/asset-21-2x%20%281%29.png)
 
 
 
