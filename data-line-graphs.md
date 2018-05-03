@@ -1,47 +1,26 @@
 # Data: Line Graphs
 
-## Legends
+## Run charts
 
-Legends... however, they should only be used as necessary. If the graph is only including one data set, don't add a legend. 
+Run charts are a type of line graph that are used to show changes in data over time. The time value should always be represented on the x-axis. Do not have more than three data sets shown the the graph, as your graph will become hard to read and process.
 
-Legends should typically be aligned to the side of the graph, unless there is secondary axis in which case the legend should be placed at the bottom of the graph. 
+A useful feature to add to your run chart is the ability for users to zoom in and out to particular points of time represented on your graph. Adding markers for each data point make this easier to do.
 
-Do not rely only on colour, different shapes can be used for individual data points to make the sets more distinguishable.
+### Single Data Series Run Chart
 
-### Side-Aligned Legend
+![](.gitbook/assets/linegraph.png)
 
-![](.gitbook/assets/legend.png)
+### Multiple Data Series Run Chart
 
-### Bottom-Aligned Legend
+When using multiple data series in a run chart, include a legend. See [Legends and Tooltips](https://gctools-outilsgc.gitbook.io/-gcdigital-design-system/~/edit/primary/data-legends-and-tooltips) for more information.
 
-![](.gitbook/assets/legend1.png)
+![](.gitbook/assets/asset-1-2x.png)
 
-## Timelines \(or run charts? timeline is ambiguous\)
 
-**Timelines** are a type of line graph that are used to show changes in data over time. The time value should always be represented on the x-axis. Do not have more than three data sets shown the the graph, as 
-
-A great feature to add to your **timeline** is the ability for users to zoom in and out to particular periods of time represented on your graph. 
-
-### Single Data Set Timeline/Run Chart
-
-![](.gitbook/assets/line_graph1%20%282%29.png)
-
-### Multiple Data Set Timeline/Run Chart
-
-![](.gitbook/assets/line_graph2.png)
 
 ## Area Graphs
 
-\(Need image\)
+Area graphs are line graphs that can be used to represent quantitative data. You can use a stacked area graph to represent a part-to-whole relationship between data series. Use a lower opacity if the series overlaps so all series can be seen.  Area charts can also be used to emphasize visual volume for a single data series of discrete objects.
 
-* use for part-to-whole relationships
-  * Cognitively implies relationship \(subtraction or addition\)
-
-OR
-
-* to show volume \(discrete objects\)
-  * one or two objects \(too messy and hard to read otherwise\)
-  * lower opacity \(should be able to see both\)
-
-![](.gitbook/assets/line_graph.png)
+![](.gitbook/assets/asset-25-2x%20%282%29.png)
 
