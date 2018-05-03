@@ -19,11 +19,11 @@ Bar graphs follow the same standards as column graphs, simply using horizontal i
 
 If you are using time as a variable in your visualization, always use a column graph. 
 
-![](.gitbook/assets/asset-21-2x.png)
+![](.gitbook/assets/asset-21-2x%20%281%29.png)
 
-![](.gitbook/assets/asset-22-2x.png)
+![](.gitbook/assets/asset-22-2x%20%281%29.png)
 
-![](.gitbook/assets/asset-23-2x.png)
+![](.gitbook/assets/asset-23-2x%20%281%29.png)
 
-![](.gitbook/assets/asset-25-2x.png)
+![](.gitbook/assets/asset-25-2x%20%281%29.png)
 
