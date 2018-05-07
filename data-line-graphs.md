@@ -14,7 +14,7 @@ A useful feature to add to your run chart is the ability for users to zoom in an
 
 When using multiple data series in a run chart, include a legend. See [Legends and Tooltips](https://gctools-outilsgc.gitbook.io/-gcdigital-design-system/~/edit/primary/data-legends-and-tooltips) for more information.
 
-![](.gitbook/assets/asset-1-2x.png)
+![](.gitbook/assets/asset-1-2x%20%281%29.png)
 
 
 

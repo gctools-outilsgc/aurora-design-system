@@ -18,7 +18,7 @@ Do not rely only on colour, different shapes can be used for individual data poi
 
 #### Bottom Aligned Legend
 
-![](.gitbook/assets/asset-1-2x%20%281%29.png)
+![](.gitbook/assets/asset-1-2x%20%282%29.png)
 
 
 
