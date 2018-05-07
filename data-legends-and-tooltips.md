@@ -20,5 +20,5 @@ Do not rely only on colour, different shapes can be used for individual data poi
 
 ![](.gitbook/assets/asset-1-2x%20%281%29.png)
 
-
+## Tooltips
 

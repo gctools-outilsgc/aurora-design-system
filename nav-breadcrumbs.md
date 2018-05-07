@@ -10,7 +10,9 @@ Breadcrumbs should be complimentary to primary navigation and should never be us
 
 Breadcrumbs in this design system are as follows:
 
-Every layer of breadcrumb that is not active \(i.e. the last in the list\) will be styled using link text. 
+![](.gitbook/assets/breadcrumbs.png)
+
+Each layer of breadcrumbs is styled using link text. The last item is never a link since it is the current page and not clickable. The last item is styled using standard text. 
 
 In between each layer there is a chevron icon coloured \#A0A0A0
 
