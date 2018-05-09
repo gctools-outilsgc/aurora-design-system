@@ -14,7 +14,7 @@ Pagination splits content into multiple discrete pages. It is best used when the
 
 ### Best Practices
 
-**Through pagination, a user should be able understand the amount of content there is; you should include a link to the last page of the content in the pagination bar, unless the data set fluctuates in size. Also include a link to the first page on every page. Need image.**
+**Through pagination, a user should be able understand the amount of content there is; you should include a link to the last page of the content in the pagination bar, unless the data set fluctuates in size. Also include a link to the first page on every page. **
 
 **Next/previous vs first/last? When?**
 
@@ -23,6 +23,4 @@ Each page should contain the same amount of objects, you may want to include an 
 The user should be able to clearly tell which page they are currently on. Place this number in the middle of the pagination bar and give it the heaviest visual weight. The user should also be able to see what content page they have already viewed so they do not have to revisit content that they have already seen. You can show this by changing the colour, typically a secondary colour, of already visited pages versus pages the user has yet to visit. 
 
 ![](.gitbook/assets/asset-3-2x.png)
-
-
 
