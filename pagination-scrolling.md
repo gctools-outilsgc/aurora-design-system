@@ -24,5 +24,3 @@ The user should be able to clearly tell which page they are currently on. Place 
 
 ![](.gitbook/assets/asset-3-2x.png)
 
-![](.gitbook/assets/asset-4-2x%20%281%29.png)
-
