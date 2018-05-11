@@ -43,4 +43,8 @@
 * [Tooltips](tooltips.md)
 * Content Guidelines
 * Voice and Tone
+* Vocabulary
+* Formatting
+* Alternative Text
+* Grammar and Mechanics
 
