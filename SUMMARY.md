@@ -30,7 +30,7 @@
 * [Pagination/Scrolling](pagination-scrolling.md)
 * [Menus](menus.md)
 * Nav: Tabs
-* Drawers and Accordions
+* [Drawers and Accordions](drawers-and-accordions.md)
 * [Search](search.md)
 * [Data: Overview](data-overview.md)
 * [Data: Choosing Visualizations](data-choosing-visualizations.md)
@@ -41,10 +41,4 @@
 * [Data: Legends and Tooltips](data-legends-and-tooltips.md)
 * [Help Articles](help-articles.md)
 * [Tooltips](tooltips.md)
-* Content Guidelines
-* Voice and Tone
-* Vocabulary
-* Formatting
-* Alternative Text
-* Grammar and Mechanics
 
