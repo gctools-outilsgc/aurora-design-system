@@ -12,7 +12,7 @@ Tags are rectangular with a border radius of **4px**. The left side of the tag i
 
 Tags may also include a right-aligned remove button beside the text. This button is represented as a black/white circle with a transparent x.
 
-Tags are sized to match the length of the keywords with padding of** 7px** on the top, right and bottom, and **10px** on the left.
+Tags are sized to match the length of the keywords with padding of **7px** on the top, right and bottom, and **10px** on the left.
 
 ## Chips
 
@@ -24,11 +24,11 @@ Chips are rectangular with a border radius of **4px**. An avatar image is displa
 
 Chips have 3 different variations and are displayed as follows:
 
-**Normal: **Rectangular box filled in with** **CECECE. Black text. Small avatar \(**26 x 26px**\) aligned to the left.
+**Normal:** Rectangular box filled in with ****CECECE. Black text. Small avatar \(**26 x 26px**\) aligned to the left.
 
-**User-control: **Same as normal, but there is an additional remove icon on the right. This icon is 4D5D6C with a transparent x, and is right-aligned. Small avatar \(**26 x 26px**\) aligned to the left.
+**User-control:** Same as normal, but there is an additional remove icon on the right. This icon is 4D5D6C with a transparent x, and is right-aligned. Small avatar \(**26 x 26px**\) aligned to the left.
 
-**Hover: **Same as the user-controlled chip but has a background colour of 4D5D6C and the remove icon is white with a transparent x. Small avatar \(**26 x 26px**\) aligned to the left.
+**Hover:** Same as the user-controlled chip but has a background colour of 4D5D6C and the remove icon is white with a transparent x. Small avatar \(**26 x 26px**\) aligned to the left.
 
 ## Pills
 
@@ -38,9 +38,9 @@ Pills are similar to chips, but aren't necessarily associated with a particular 
 
 Pills have three variations which are stylized as follows:
 
-**Normal: **Rectangular box filled in CECECE. Black text.
+**Normal:** Rectangular box filled in CECECE. Black text.
 
-**User-control: **Same as normal, but there is an additional remove icon on the right. This icon is 4D5D6C with a transparent x, and is right-aligned.
+**User-control:** Same as normal, but there is an additional remove icon on the right. This icon is 4D5D6C with a transparent x, and is right-aligned.
 
-**Hover: **Same as the user-controlled chip but has a background colour of 4D5D6C and the remove icon is white with a transparent x.
+**Hover:** Same as the user-controlled chip but has a background colour of 4D5D6C and the remove icon is white with a transparent x.
 

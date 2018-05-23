@@ -8,7 +8,7 @@
 
 **Operable**
 
-**Understandable **
+**Understandable** 
 
 * Note about writing guidelines in the design system
 

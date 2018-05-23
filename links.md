@@ -16,11 +16,11 @@ Links should not exceed one line in length, and be applied to 2-4 key words rath
 
 Links should always include a hover state and a visited state, and should look different from the rest of the text. In this system, links are displayed as follows:
 
-**Regular: **Nunitio Sans Regular at 14 points
+**Regular:** Nunitio Sans Regular at 14 points
 
-**Hover: **Nunitio Sans Regular at 14 points
+**Hover:** Nunitio Sans Regular at 14 points
 
-**Visited: **Nunitio Sans Regular at 14 points
+**Visited:** Nunitio Sans Regular at 14 points
 
 There are other colour options for visited links. Best practice for visited links is to use a muted version of your hyperlink colour, a secondary colour or the standard purple: \#551A8B.
 
