@@ -2,8 +2,6 @@
 
 [https://v4-alpha.getbootstrap.com/content/images/](https://v4-alpha.getbootstrap.com/content/images/)
 
-## alt-tags
-
 ## Block Images
 
 Block images are separated from other elements on the page \(i.e. text\) and are typically centered with a set padding. In a layout including text, the text will continue on the next line after the image.
@@ -34,7 +32,7 @@ Used on small components where the user would need to be identified, such as tag
 
 ![](.gitbook/assets/avatar_medium.png)
 
-**Medium: **Square image with corners rounded by **3px**. Sized at **50 x 50 pixels**.
+**Medium:** Square image with corners rounded by **3px**. Sized at **50 x 50 pixels**.
 
 Used in combination with other components such as comments, chat, cards and anywhere else you would need to identify the user.
 

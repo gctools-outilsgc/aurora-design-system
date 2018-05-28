@@ -40,7 +40,7 @@ Elements in this system use a simple and neutral colour palette that works well 
 
 Throughout the design system, documentation about elements will specify which colour is used.
 
-The palette used in this system is titled** Thunder and Lightning** and uses the following hex codes:
+The palette used in this system is titled **Thunder and Lightning** and uses the following hex codes:
 
 \#002D42 \(with white text\)
 
@@ -102,9 +102,9 @@ _**\(include example\)**_
 
 #### Light Theme
 
-By default, most applications will follow the light theme. This theme includes various shades of white for different background/foreground levels.**             **
+By default, most applications will follow the light theme. This theme includes various shades of white for different background/foreground levels.             ****
 
-Hex codes: \#E0E0E0, \#F5F5F5, \#FAFAFA, \#FFFFF**                       **
+Hex codes: \#E0E0E0, \#F5F5F5, \#FAFAFA, \#FFFFF                       ****
 
 ![](.gitbook/assets/light-theme%20%281%29.png)
 
@@ -126,9 +126,9 @@ Please refer to the alerts section and the colour section for more information.
 
 ![](.gitbook/assets/info_colours%20%281%29.png)
 
-_**Info colours are used when providing additional information and notes to the user. **_
+_**Info colours are used when providing additional information and notes to the user.**_ 
 
-**Info hex codes:  **
+**Info hex codes:**  
 
 •    \#245269
 
@@ -142,7 +142,7 @@ _**Info colours are used when providing additional information and notes to the 
 
 _**Warning colours are used for notices that require the user’s acknowledgement.**_
 
-**Warning hex codes:  **
+**Warning hex codes:**  
 
 •    \#66512C
 
@@ -154,9 +154,9 @@ _**Warning colours are used for notices that require the user’s acknowledgemen
 
 ![](.gitbook/assets/error_colours%20%281%29.png)
 
-_**Error colours are used to indicate system failures and malfunctions. **_
+_**Error colours are used to indicate system failures and malfunctions.**_ 
 
-**Error hex codes:  **
+**Error hex codes:**  
 
 •    \#923534
 
@@ -168,7 +168,7 @@ _**Error colours are used to indicate system failures and malfunctions. **_
 
 ![](.gitbook/assets/success_colours.png)
 
-_**Success colours are used when confirming that the user’s input was successful. **_
+_**Success colours are used when confirming that the user’s input was successful.**_ 
 
 **Success hex codes:**
 

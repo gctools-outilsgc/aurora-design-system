@@ -2,7 +2,7 @@
 
 ## Checkboxes
 
-Checkboxes are used when the user can select multiple options from the given list. They are also used to confirm certain statements such as: _I accept the Terms and Conditions,_ or _Send me email updates. _
+Checkboxes are used when the user can select multiple options from the given list. They are also used to confirm certain statements such as: _I accept the Terms and Conditions,_ or _Send me email updates._ 
 
 If there is an _Other_ option, this should include an open field for users to provide additional information.
 

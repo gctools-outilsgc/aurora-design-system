@@ -8,17 +8,21 @@ Menus must contain at least two items, and each item should only be a single lin
 
 Interaction w/button?  -Temporary? \(Are we counting menu bars as menus?\)
 
-## Action Menus \(need different name\)
+## Action Menus
 
 ### Best Practices
 
-Action menus are temporary lists of choices a user can make. They can consist of both** primary actions** and options which affect the page. Menu items can contain icons, and checkboxes.  **\(Do we want different symbols for multiple items vs different states?\). **Menus should be internally scrollable. 
+Action menus are temporary lists of choices a user can make. They can consist of both ****primary actions and options which affect the page. Menu items can contain icons, and checkboxes. ****Menus should be internally scrollable. 
 
 Action menus can be static or contextual. Static menus have fixed options; contextual menus change their options based on what is available to select. Menu items can be ordered either statically \(always in the same order\) or dynamically \(changing based on previous user interaction\).
 
+### Templates of Action Menus
+
 #### Standard Action Menu
 
-![](.gitbook/assets/menu2.png)
+![](.gitbook/assets/asset-1.png)
+
+
 
 #### Cascading Menu
 
@@ -28,23 +32,17 @@ Action menus can be static or contextual. Static menus have fixed options; conte
 
 ![](.gitbook/assets/menu3.png)
 
-#### Simple Menus \(need image\)
+### Simple Menus
 
--mobile or tablet
+Simple menus are used for mobile and tablet only. They use vertically-aligned nesting to reveal menu options, in order to reduce horizontal bulk. The nest should appear on top of the emitting element, slightly left-aligned. The selected item should be highlighted, and positioned on top of the emitting element.
 
--vertical
+![Simple menu before selection ](.gitbook/assets/simple-unselected.png)
 
--nesting is vertically aligned on top of selected item
-
--left aligned
-
- -location -- top level \(emitting element -- for context\)
+![Simple menu after selecting &quot;Hide&quot;](.gitbook/assets/simpleselected1.png)
 
 ## Navigation Menus
 
-### Best Practices
-
-### Menu Bar \(merge w/tabs? or vice versa?\)
+\(Ask Sab\)
 
 ### Mega-menus
 
@@ -60,11 +58,9 @@ Mega-menus are used when your navigation points have subcategories. The navigati
 
 
 
-
-
 ## Hybrid
 
-
+\(Keep?\)
 
 ![](.gitbook/assets/menu.png)
 
