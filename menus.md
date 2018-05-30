@@ -6,8 +6,6 @@
 
 Menus must contain at least two items, and each item should only be a single line of text. Menus can be exited by clicking outside of the menu, or by selecting the action, unless multiple actions can be selected, or selecting a navigation point. Menus should be labeled clearly and concisely. Menus should typically only have one level of nesting. 
 
-Interaction w/button?  -Temporary? \(Are we counting menu bars as menus?\)
-
 ## Action Menus
 
 ### Best Practices
@@ -42,8 +40,6 @@ Simple menus are used for mobile and tablet only. They use vertically-aligned ne
 
 ## Navigation Menus
 
-\(Ask Sab\)
-
 ### Mega-menus
 
 Mega-menus are used when your navigation points have subcategories. The navigation points are grouped together with like items, under a title header. All items should be visible at the same time. Mega-menus can have multiple columns. 
@@ -55,12 +51,4 @@ Mega-menus are used when your navigation points have subcategories. The navigati
 #### Dynamic Mega-Menu
 
 ![](.gitbook/assets/mega-menu.png)
-
-
-
-## Hybrid
-
-\(Keep?\)
-
-![](.gitbook/assets/menu.png)
 
