@@ -38,9 +38,7 @@ Simple menus are used for mobile and tablet only. They use vertically-aligned ne
 
 ![Simple menu after selecting &quot;Hide&quot;](.gitbook/assets/simpleselected1.png)
 
-## Navigation Menus
-
-### Mega-menus
+## Mega-menus
 
 Mega-menus are used when your navigation points have subcategories. The navigation points are grouped together with like items, under a title header. All items should be visible at the same time. Mega-menus can have multiple columns. 
 
