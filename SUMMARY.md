@@ -29,7 +29,7 @@
 * [Nav: Back to top](nav-back-to-top.md)
 * [Pagination/Scrolling](pagination-scrolling.md)
 * [Menus](menus.md)
-* Nav: Tabs
+* [Nav: Tabs](nav-tabs.md)
 * [Drawers and Accordions](drawers-and-accordions.md)
 * [Search](search.md)
 * [Data: Overview](data-overview.md)
