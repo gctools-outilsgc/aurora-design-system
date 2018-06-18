@@ -24,17 +24,17 @@ Some systems may not be able to download or display the fonts in this design sys
 
 Titles appear only on the top of pages and indicate high-level navigation points.
 
-Titles are displayed using Rubik Light at 36 points  in the colour \#252525 on a light background or \#F8FBFD on a dark background.
+Titles are displayed using Rubik Light at 36 points  in the colour \#252525 on a light background or \#FFFFFF on a dark background.
 
 ## Headings \(H2-H6\)
 
-There are five different sub-headings. All sub-headings use the colours \#252525 on a light background or \#F8FBFD on a dark background.
+There are five different sub-headings. All sub-headings use the colours \#252525 on a light background or \#FFFFFF on a dark background.
 
 The headers use the following typographic styles:
 
 **Heading 2:** Rubik Regular at 28 points \(1.75 em\). 
 
-**Heading 3:** Rubik Medium at 24 points \(1.5 em\) with a tracking modifier of 10 points.
+**Heading 3:** Rubik Medium at 24 points \(1.5 em\) with a tracking modifier set to 10.
 
 **Heading 4:** Rubik Regular at 21 points \(1.3125 em\).
 
@@ -46,7 +46,7 @@ The headers use the following typographic styles:
 
 Paragraph text is used for most text content found on the application. Paragraph text is set to Nunito Sans Regular at 16 points \(1em\) with a leading of 24 points. Unless indicating a hyperlink or navigation point, paragraph text should not have added emphasis.
 
-Paragraph text uses the colours \#252525 on a light background or \#F8FBFD on a dark background.
+Paragraph text uses the colours \#252525 on a light background or \#FFFFFF on a dark background.
 
 _**\(more info about paragraph spacing\)**_
 
@@ -98,9 +98,9 @@ Typographic formatting such as italics or underlining should be used sparingly a
 
 ## Timestamps and Placeholder Text
 
-Timestamps and placeholder text use the same typographic styles. Both use Nunito Sans Regular at 12 points with a tracking modifier of 50 points and leading of 21 points. Timestamps and placeholder text use the colours \#5E515A on a light background or \#F8FBFD on a dark background.
+Timestamps and placeholder text use the same typographic styles. Both use Nunito Sans Regular at 14 points and leading of 21 points. Timestamps and placeholder text use the colours \#666666 on a light background or \#FFFFFF on a dark background.
 
 ## Button Text
 
-Button text is displayed as Nunito Sans Bold at 16 points, and uses the colours \#252525 on a light background or \#F8FBFD on a dark background. The colour of this text depends on the button chosen and must provide enough contrast with the colour of each type of button. For more about colour choice see our button section.
+Button text is displayed as Nunito Sans Bold at 16 points, and uses the colours \#252525 on a light background or \#FFFFFF on a dark background. The colour of this text depends on the button chosen and must provide enough contrast with the colour of each type of button. For more about colour choice see our button section.
 
