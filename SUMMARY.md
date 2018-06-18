@@ -41,4 +41,5 @@
 * [Data: Legends and Tooltips](data-legends-and-tooltips.md)
 * [Help Articles](help-articles.md)
 * [Tooltips](tooltips.md)
+* [Divider/Rule](divider-rule.md)
 
