@@ -66,7 +66,7 @@ The palette used in this system is titled **Thunder and Lightning** and uses the
 
 ### Text Colours
 
-![](.gitbook/assets/font-colours_1.png)
+ 
 
 #### Black Text
 
@@ -76,7 +76,7 @@ Please see [_Typography_](/typography.md) for more information about using text 
 
 _**\(include a do/don't image\)**_
 
-**Hex code**: \#212121
+**Hex code**: \#252525
 
 #### White Text
 
@@ -96,7 +96,7 @@ Please see [_Typography_](/typography.md) for more information about using text 
 
 _**\(include example\)**_
 
-**Hex code**: \#5E515A
+**Hex code**: \#666666
 
 ### Colour Themes
 
@@ -104,9 +104,9 @@ _**\(include example\)**_
 
 By default, most applications will follow the light theme. This theme includes various shades of white for different background/foreground levels.             ****
 
-Hex codes: \#E0E0E0, \#F5F5F5, \#FAFAFA, \#FFFFF                       ****
+Hex codes: \#CCCCCC, \#F5F5F5, \#FAFAFA, \#FFFFF                       ****
 
-![](.gitbook/assets/light-theme%20%281%29.png)
+ 
 
 #### Dark Theme
 
