@@ -68,9 +68,11 @@ The ideal length for body text is around 40-60 characters. If line length is too
 
 Pull Quotes are used to indicate key phrases from the content displayed on the page \(i.e. in articles or blogs\). Pull quotes are integrated into paragraphs.
 
-Pull quotes use a left-aligned line that is displayed in the application's secondary or accent colour. The text is displayed using Rubik Light Italic at 18 points, with a leading 22 points.
+Pull quotes are indented by 50px with a vertical line in the application's secondary colour. The line is 4px wide.  Padding between the line and the text is 8px.  The text is displayed using Nunito Sans Regular at 1.25 em,  with a line height of 200%.
 
-See [_Colour_](colour.md) for more information on choosing accessible colours for your pull quotes.
+**\(Add element here\)** 
+
+See [_Colour_](colour.md) for more information on choosing accessible colours for your pull quote lines.
 
 ## Lists
 
