@@ -24,7 +24,7 @@ Some systems may not be able to download or display the fonts in this design sys
 
 Titles appear only on the top of pages and indicate high-level navigation points.
 
-Titles are displayed using Rubik Light at 46 points \(2.875 em\) in the colour \#252525 on a light background or \#F8FBFD on a dark background.
+Titles are displayed using Rubik Light at 36 points  in the colour \#252525 on a light background or \#F8FBFD on a dark background.
 
 ## Headings \(H2-H6\)
 
@@ -32,9 +32,9 @@ There are five different sub-headings. All sub-headings use the colours \#252525
 
 The headers use the following typographic styles:
 
-**Heading 2:** Rubik Regular at 28 points \(1.75 em\) with a tracking modifier of 50 points.
+**Heading 2:** Rubik Regular at 28 points \(1.75 em\). 
 
-**Heading 3:** Rubik Medium at 24 points \(1.5 em\) with a tracking modifier of 50 points.
+**Heading 3:** Rubik Medium at 24 points \(1.5 em\) with a tracking modifier of 10 points.
 
 **Heading 4:** Rubik Regular at 21 points \(1.3125 em\).
 
