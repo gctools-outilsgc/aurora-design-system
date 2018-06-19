@@ -1,7 +1,3 @@
----
-description: Use tabs to quickly navigate between views of related content.
----
-
 # Nav: Tabs
 
 ## Usage
