@@ -80,19 +80,17 @@ Secondary buttons in this system are transparent with a stroke colour. Text chan
 
 Each of the states for secondary buttons are as follows:
 
-![](.gitbook/assets/button_secondary.png)
+![](.gitbook/assets/secondary-button.png)
 
-**Regular state:** transparent with a 1px stroke using the muted text colour \(\#666666\), the text is also written using the muted colour. Border radius of 4px and padding of 15px.
+**Regular state:** transparent with a 1px stroke using the  colour \#002D42, the text is written in the same colour. Border radius of 4px and padding of 15px.
 
-![](.gitbook/assets/button_secondary_hover.png)
+![](.gitbook/assets/secondary_hover.png)
 
-**Hover state:** transparent with a 1px stroke using black, the text is displayed in black. Border radius of 4px and padding of 15px.
+**Hover state:** rectangle coloured with \#002D42 at 80% opacity, the text is displayed in white. Border radius of 4px and padding of 15px.
 
-![](.gitbook/assets/button_secondary_focus.png)
+![](.gitbook/assets/secondary_focus.png)
 
-**Focus state:** transparent with a 3px stroke using black, the text is displayed in black. Border radius of 4px and padding of 15px.
-
-**Active state:** _**\(to complete\)**_
+**Focus state:** transparent with a 3px stroke using \#002D42, the text is displayed in \#002D42. Border radius of 4px and padding of 15px.
 
 ![](.gitbook/assets/button_secondary_disabled.png)
 
