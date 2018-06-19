@@ -66,7 +66,7 @@ Each of the states for primary buttons are as follows:
 
 ### Position
 
-Primary buttons should be located in the most prominent and convenient location possible.\_ \_These buttons should also be located in close proximity to the form or the elements that are affected by the action.
+Primary buttons should be located in the most prominent and convenient location possible.\_ \_These buttons should also be located in close proximity to the form or the elements that are affected by the action. Generally, in a set of two, primary buttons are placed on the left and the secondary button is placed on the right. 
 
 ## Secondary Buttons
 
