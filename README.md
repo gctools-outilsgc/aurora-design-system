@@ -97,15 +97,15 @@ Lorsque vous élaborez un nouveau produit, nous vous recommandons d’utiliser l
 
 ## Pourquoi avez-vous créé le système de conception #GCnumérique?
 
-*Permet d’assurer la cohérence entre les applications et les plates-formes, notamment en tenant compte de la reconstruction des OutilsGC et d’autres services de collaboration sur le numérique.
+* Permet d’assurer la cohérence entre les applications et les plates-formes, notamment en tenant compte de la reconstruction des OutilsGC et d’autres services de collaboration sur le numérique.
 
-*Crée des possibilités de partenariat avec les collectivités intéressées, tant à l’intérieur qu’à l’extérieur du gouvernement du Canada.
+* Crée des possibilités de partenariat avec les collectivités intéressées, tant à l’intérieur qu’à l’extérieur du gouvernement du Canada.
 
-*Permet de gagner du temps aux étapes du développement et de la conception, car les composantes sont réutilisables et organisées efficacement. Ces systèmes complètent le processus de développement agile en éliminant la nécessité de produire de multiples itérations de conception et d’interface utilisateur.
+* Permet de gagner du temps aux étapes du développement et de la conception, car les composantes sont réutilisables et organisées efficacement. Ces systèmes complètent le processus de développement agile en éliminant la nécessité de produire de multiples itérations de conception et d’interface utilisateur.
 
-*Les caractéristiques de la conception de nouvelles fonctionnalités sont définies dès le début, ce qui permet de consacrer plus de temps aux affaires et à la prise de décisions complexes. Par conséquent, les problèmes de conception répétitifs exigent moins d’attention pendant l’ensemble du processus de développement de nouveaux produits.
+* Les caractéristiques de la conception de nouvelles fonctionnalités sont définies dès le début, ce qui permet de consacrer plus de temps aux affaires et à la prise de décisions complexes. Par conséquent, les problèmes de conception répétitifs exigent moins d’attention pendant l’ensemble du processus de développement de nouveaux produits.
 
-*Permet de se tenir au courant des tendances externes dans le domaine de la conception et de la technologie, en particulier en fonction de l’évolution rapide de l’industrie.
+* Permet de se tenir au courant des tendances externes dans le domaine de la conception et de la technologie, en particulier en fonction de l’évolution rapide de l’industrie.
 
 # Comment contribuer
 Lorsque vous contribuez, veuillez également publier des commentaires et discuter des modifications que vous souhaitez apporter par l'entremise des enjeux (Issues).
