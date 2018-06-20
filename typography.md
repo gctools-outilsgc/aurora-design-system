@@ -1,5 +1,7 @@
 # Typography
 
+**Needs Images**
+
 ## Fonts
 
 The Digital Collaboration Division uses two font families for all digital products: Rubik and Nunito Sans. Both Rubik and Nunito Sans are open source fonts and can be downloaded from [Google Fonts](https://fonts.google.com/) for free.
@@ -25,6 +27,8 @@ Some systems may not be able to download or display the fonts in this design sys
 Titles appear only on the top of pages and indicate high-level navigation points.
 
 Titles are displayed using Rubik Light at 36 points  in the colour \#252525 on a light background or \#FFFFFF on a dark background.
+
+**\(Add example image\)**
 
 ## Headings \(H2-H6\)
 
@@ -64,13 +68,15 @@ The DCD design system is consistent with the following best practices for line-b
 
 The ideal length for body text is around 40-60 characters. If line length is too short or too long it has a negative impact on readability. Our design system follows these guidelines and aims for approximately 60 characters per line.
 
+**\(Add do/don't image\)**
+
 ## Pull Quotes
 
 Pull Quotes are used to indicate key phrases from the content displayed on the page \(i.e. in articles or blogs\). Pull quotes are integrated into paragraphs.
 
 Pull quotes are indented by 50px with a vertical line in the application's secondary colour. The line is 4px wide.  Padding between the line and the text is 8px.  The text is displayed using Nunito Sans Regular at 1.25 em,  with a line height of 200%.
 
-**\(Add element here\)** 
+**\(Add asset here\)** 
 
 See [_Colour_](colour.md) for more information on choosing accessible colours for your pull quote lines.
 
@@ -92,17 +98,25 @@ It is recommended that the link text be underlined and displayed in a secondary 
 
 Visited links should be indicated by a different colour. Typically, a best practice for visited links is to use a muted version of your hyperlink colour, a secondary colour, or the standard purple: \#551A8B.
 
+**\(Add example image\)** 
+
 ## Emphasis
 
 For accessibility purposes, colour cannot be the sole source of emphasis. Be sure to add emphasis to text by making the font bold and increasing the contrast.
 
 Typographic formatting such as italics or underlining should be used sparingly and only when they genuinely enhance communication with all readers.
 
+**\(Add do/don't image\)**
+
 ## Timestamps and Placeholder Text
 
 Timestamps and placeholder text use the same typographic styles. Both use Nunito Sans Regular at 14 points and leading of 21 points. Timestamps and placeholder text use the colours \#666666 on a light background or \#FFFFFF on a dark background.
 
+**\(Add example image\)**
+
 ## Button Text
 
 Button text is displayed as Nunito Sans Bold at 16 points, and uses the colours \#252525 on a light background or \#FFFFFF on a dark background. The colour of this text depends on the button chosen and must provide enough contrast with the colour of each type of button. For more about colour choice see our button section.
+
+**\(Add example image\)** 
 

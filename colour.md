@@ -66,7 +66,7 @@ The palette used in this system is titled **Thunder and Lightning** and uses the
 
 ### Text Colours
 
- 
+ **\(Add asset image\)**
 
 #### Black Text
 
@@ -94,8 +94,6 @@ Muted text is used for secondary text elements such as captions, placeholder tex
 
 Please see [_Typography_](/typography.md) for more information about using text colour.
 
-_**\(include example\)**_
-
 **Hex code**: \#666666
 
 ### Colour Themes
@@ -104,9 +102,9 @@ _**\(include example\)**_
 
 By default, most applications will follow the light theme. This theme includes various shades of white for different background/foreground levels.             ****
 
-Hex codes: \#CCCCCC, \#F5F5F5, \#FAFAFA, \#FFFFF                       ****
+Hex codes: \#CCCCCC, \#F5F5F5, \#FAFAFA, \#FFFFF       ****
 
- 
+**\(Add asset image\)**                
 
 #### Dark Theme
 

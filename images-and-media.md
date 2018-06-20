@@ -1,6 +1,6 @@
 # Images and Media
 
-[https://v4-alpha.getbootstrap.com/content/images/](https://v4-alpha.getbootstrap.com/content/images/)
+**Needs Images**
 
 ## Block Images
 
