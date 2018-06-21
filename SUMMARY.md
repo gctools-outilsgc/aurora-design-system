@@ -7,7 +7,7 @@
 * [Inclusive Design](inclusive-design.md)
 * [Typography](typography.md)
 * [Colour](colour.md)
-* [Buttons](buttons.md)
+* [Buttons](documentation/pages/buttons.md)
 * [Like Buttons](like-buttons.md)
 * [Links](links.md)
 * [Badges](badges.md)
