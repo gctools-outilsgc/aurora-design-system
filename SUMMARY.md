@@ -7,7 +7,7 @@
 * [Inclusive Design](inclusive-design.md)
 * [Typography](typography.md)
 * [Colour](colour.md)
-* [Buttons](buttons.md)
+* [Buttons](documentation/pages/buttons.md)
 * [Like Buttons](like-buttons.md)
 * [Links](links.md)
 * [Badges](badges.md)
@@ -41,4 +41,6 @@
 * [Data: Legends and Tooltips](data-legends-and-tooltips.md)
 * [Help Articles](help-articles.md)
 * [Tooltips](tooltips.md)
+* [Divider/Rule](divider-rule.md)
+* [Data: Stylized Numbers](data-stylized-numbers.md)
 
