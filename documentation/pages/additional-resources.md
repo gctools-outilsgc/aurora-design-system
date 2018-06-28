@@ -13,6 +13,12 @@
 * [Canada.ca Style Guide](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html)
 * [Design components for Canada.ca](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification/common-design-patterns.html)
 * [GC User Interface Kit ](https://github.com/cds-snc/gcui)\(developed by the Canadian Digital Service\)
+* [Open First Whitepaper](https://github.com/canada-ca/Open_First_Whitepaper)
+* [Canada Digital Playbook](https://github.com/canada-ca/digital-playbook-guide-numerique)
+
+### Other Governments
+
+* [U.S. Digital Service Playbook](https://github.com/usds/playbook)
 
 ### Further Education
 
