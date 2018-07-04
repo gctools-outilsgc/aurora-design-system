@@ -31,35 +31,37 @@ There are six templates that can be used for cards, choose the one that best fit
 
 #### Basic card template
 
-![](.gitbook/assets/cards.png)
+Image
 
 This template features all of the basic content elements. This template can be used for any card that does not require an action beyond clicking the card.
 
 #### Basic card template variation
 
-![](.gitbook/assets/import.png)
+Image
 
 Similar to the basic card template, this variation has the majority of the basic content elements, however there is a greater emphasis on text over image. This template can be used for any card that does not require an action beyond clicking the card in which the image is less important.
 
 #### Actionable card template
 
-![](.gitbook/assets/cards1.png)
+Image
 
 The actionable card template is for cards in which the user can take a primary or secondary action when interacting with the card.
 
 #### Image card template
 
-![](.gitbook/assets/cards2.png)
+Image
 
 The image card template has a lot of visual impact. It's best used when an image can convey almost all of the message of the card.
 
 #### Text card template
 
-![](.gitbook/assets/cards4.png)
+Image
 
 The text card template is content-dense. It's best used when a card needs to convey a lot of information, and doesn't have an image that can be easily associated with it.
 
 ### Sorting
 
 A user should be able to sort and filter cards based on the card's metadata. This could include parameters such as date, file size etc.
+
+An example of cards on a page?
 
