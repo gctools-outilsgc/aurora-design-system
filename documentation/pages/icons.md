@@ -1,6 +1,6 @@
 # Icons
 
-![](.gitbook/assets/font-awesome.PNG)
+*Image of icons from Font Awesome*
 
 Icons in this system use SVG icons from [Font Awesome](https://www.gitbook.com/book/gctools-outilsgc/-gcdigital-design-system/edit).
 
@@ -10,7 +10,6 @@ SVG icons are recommended over icon fonts for a variety of reasons:
 * SVGs are are resizable up and down without losing quality, extra sharp on retina displays, and have a small file size
 * Font failures are relatively common. Browser support for SVGs is higher than for icon fonts.
 * Various blocking systems or customized font settings often breaks icon fonts. These blockers will not affect SVG icons
-* Font icons have a single colour limitation. SVGs, on the other hand, can support multiple colours as well as gradients and other graphical features.
 
 Refer to [CCS Tricks' article](https://www.gitbook.com/book/gctools-outilsgc/-gcdigital-design-system/edit) to learn more about font icons versus SVG icons.
 
@@ -26,7 +25,7 @@ To reduce performance impacts of your application, it is recommended that your a
 
 For example, in this system we have chosen a total of  **\(x\)** icons, as seen below:
 
-![](.gitbook/assets/icons-01.png)
+*Image of icons used in our design system*
 
 ## Loading/Spinner
 
