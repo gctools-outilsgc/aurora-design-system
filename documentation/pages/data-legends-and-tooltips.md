@@ -1,6 +1,6 @@
 # Data: Legends and Tooltips
 
-In general, legends and tooltips should only be used as visualizations when absolutely necessary. If enough context can provided directly on the chart without obscuring data or adding a significant amount of visual clutter, a legend or tooltip is not needed.
+In general, legends and tooltips should only be used on data sets when absolutely necessary. If enough context can provided directly on the chart or graph without obscuring data or adding a significant amount of visual clutter, a legend or tooltip is not needed.
 
 Never use a legend if you only have one data category.
 
@@ -14,11 +14,11 @@ Do not rely only on colour, different shapes can be used for individual data poi
 
 #### Side Aligned Legend
 
-![](.gitbook/assets/asset-28-2x.png)
+*Side-aligned legend component*
 
 #### Bottom Aligned Legend
 
-![](.gitbook/assets/asset-1-2x%20%282%29.png)
+*Bottom-aligned legend component*
 
 
 
