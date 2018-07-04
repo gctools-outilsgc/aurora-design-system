@@ -1,6 +1,6 @@
-# Images and Media
+# Images, Avatars and Thumbnails
 
-**Needs Images**
+*Example image using blog post prototype*
 
 ## Block Images
 
@@ -24,21 +24,21 @@ When users upload their avatar, they are prompted to crop the image to fit into 
 
 Avatars are used in three sizes and styled as follows:
 
-![](.gitbook/assets/avatar_small.png)
+*Small avatar component*
 
-**Small:** Square image with corners rounded by **3px**. Sized at **26 x 26 pixels**.
+**Small:** Square image with corners rounded by **4px**. Sized at **26 x 26 pixels**.
 
 Used on small components where the user would need to be identified, such as tags or chat.
 
-![](.gitbook/assets/avatar_medium.png)
+*Medium avatar component*
 
-**Medium:** Square image with corners rounded by **3px**. Sized at **50 x 50 pixels**.
+**Medium:** Square image with corners rounded by **4px**. Sized at **50 x 50 pixels**.
 
 Used in combination with other components such as comments, chat, cards and anywhere else you would need to identify the user.
 
-![](.gitbook/assets/avatar_large.png)
+*Large avatar component*
 
-**Large**: Square image with corners rounded by **3px**. Sized at **115 x 115 pixel**s.
+**Large**: Square image with corners rounded by **4px**. Sized at **115 x 115 pixel**s.
 
 Used directly on the user's profile.
 
@@ -46,9 +46,9 @@ Used directly on the user's profile.
 
 Thumbnails are small versions of an image that are used as previews to content. They are often combined with other components such as cards, comments, image previews, etc.
 
-![](.gitbook/assets/thumbnail.png)
+*Thumbnail component* 
 
-Thumbnails are always square with corners rounded by **1px**. They have a black stroke width of **0.25p**x. They are sized at **115 x 115 pixels**. _**\(responsive sizing?\)**_
+Thumbnails are always square with a border radius **1px**. They have a black stroke width of **0.25p**x. They are sized at **115 x 115 pixels**. _**\(responsive sizing?\)**_
 
 Thumbnails do not crop the image but simply re-scale it. Thumbnails are typically left-aligned when combined with other components.
 
