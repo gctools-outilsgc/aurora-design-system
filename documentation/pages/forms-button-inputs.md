@@ -8,7 +8,7 @@ If there is an _Other_ option, this should include an open field for users to pr
 
 Labels for checkboxes are aligned to the right of the box.
 
-Checkboxes, like other buttons, have four different states:
+Checkboxes have four different states:
 
 *Regular checkbox component*
 
@@ -54,7 +54,7 @@ Labels for radio buttons are aligned to the right of the button.
 
 ## Switches
 
-Switches are used for dichotomous questions or options. They represent simple questions such as yes/no or on/off style options. Typically, the yes/on option is more colourful and prominent than the no/off option.
+Switches are used when only one of two options can be selected. They represent simple questions such as yes/no or on/off style options. Typically, the yes/on option is more colourful and prominent than the no/off option.
 
 Switches can be used in all kinds of forms, or other types of functions such as Settings, Profile Options etc.
 
