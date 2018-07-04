@@ -8,18 +8,25 @@ Themes enable consistent application styling through surface shades, shadow dept
 
 We have created other sample colour palettes that you may wish to use in your own system. Please see each swatch for corresponding text colour.
 
+#### Aurora Borealis
+
 ![](.gitbook/assets/colour_aurora-borealis.png)
 
 Hex codes \(left to right\): \#000A3D, \#467B8D, \#5DC1BE, \#55C0A3, \#ADE18D
+
+#### Blue Complimentary
 
 ![](.gitbook/assets/colour_blue-complimentary.png)
 
 Hex codes \(left to right\): \#0D467D, \#137991, \#6DD2DA, \#FF9F40, \#FEC04F
 
+#### Triad
+
 ![](.gitbook/assets/colour_triad.png)
 
 Hex codes \(left to right\): \#7E0C33, \#024571, \#5DC1BE, \#F6CF22, \#EDDB7C
 
+#### Green and Blue
 ![](.gitbook/assets/colour_green-and-blue.png)
 
 Hex codes \(left to right\): \#0278A4, \#4E474, \#83C3F2, \#C9DF61, \#C1D699
@@ -120,33 +127,6 @@ This design system uses the same alerts and messaging colours as described in th
 
 Please refer to the alerts section and the colour section for more information.
 
-#### Info Colours
-
-![](.gitbook/assets/info_colours%20%281%29.png)
-
-_**Info colours are used when providing additional information and notes to the user.**_ 
-
-**Info hex codes:**  
-
-•    \#245269
-
-•    \#269ABC
-
-•    \#D7FAFF
-
-#### Warning Colours
-
-![](.gitbook/assets/warning_colours.png)
-
-_**Warning colours are used for notices that require the user’s acknowledgement.**_
-
-**Warning hex codes:**  
-
-•    \#66512C
-
-•    \#FF9900
-
-•    \#F9F4D4
 
 #### Error Colours
 
@@ -162,6 +142,21 @@ _**Error colours are used to indicate system failures and malfunctions.**_
 
 •    \#F3E9E8
 
+
+#### Warning Colours
+
+![](.gitbook/assets/warning_colours.png)
+
+_**Warning colours are used for notices that require the user’s acknowledgement.**_
+
+**Warning hex codes:**  
+
+•    \#66512C
+
+•    \#FF9900
+
+•    \#F9F4D4
+
 #### Success Colours
 
 ![](.gitbook/assets/success_colours.png)
@@ -175,4 +170,19 @@ _**Success colours are used when confirming that the user’s input was successf
 •    \#278400
 
 •    \#D8EECA
+
+#### Info Colours
+
+![](.gitbook/assets/info_colours%20%281%29.png)
+
+_**Info colours are used when providing additional information and notes to the user.**_ 
+
+**Info hex codes:**  
+
+•    \#245269
+
+•    \#269ABC
+
+•    \#D7FAFF
+
 
