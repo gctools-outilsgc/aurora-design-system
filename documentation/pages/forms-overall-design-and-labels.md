@@ -24,7 +24,7 @@ If additional information is necessary beyond a label, this information should b
 
 ### Placement of Labels
 
-Labels should follow the vertical format of the form. Place labels above their respective field. Group a label with its field so that there is a clear distinction between fields. Do not use placeholder text for labels as this prevents the user from properly reviewing the form.
+Labels should follow the vertical format of the form. Place labels above their respective field. Group a label with its field so that there is a clear distinction between fields. Do not use placeholder text for labels as this prevents the user from properly reviewing the form. Labels have a bottom margin of 11px from the input field. 
 
 ### Text in Labels
 
