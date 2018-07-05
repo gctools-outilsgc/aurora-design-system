@@ -30,11 +30,9 @@ Select fields are styled as follows:
 
 Normal: Rectangle with a height of 42px and a border radius of 4px. Stroke width of 1px coloured #CCCCCC. The drop down control is right-aligned 27px from the edge of the input. The line on the edge is 1px coloured #CCCCCC and extends until 5px from the top and bottom of the input. 15 by 27 by 15 by 12. The chevron icon is aligned with the text and is 9px from the left edge, and 18px from the top and bottom. 
 
-Focus:
+Focus: Rectangle with a height of 42px and a border radius of 4px. Stroke width of 1px coloured #269ABC. The drop down control is right-aligned 27px from the edge of the input. The line on the edge is 1px coloured #CCCCCC and extends until 5px from the top and bottom of the input. 15 by 27 by 15 by 12. The chevron icon is aligned with the text and is 9px from the left edge, and 18px from the top and bottom. 
 
-Active:
 
-Active 
 
 
 
