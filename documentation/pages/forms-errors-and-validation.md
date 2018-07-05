@@ -26,7 +26,7 @@ Inline errors are styled as follows:
 
 *Inline error component*
 
-"x" icon to the left of the error text. The error is placed 11px below the input field. Text is shown using Nunito Sans Regular at 14px font in #925534. 
+"x" icon to the left of the error text. The error is placed 10px below the input field. Text is shown using Nunito Sans Regular at 14px font in #925534. 
 
 ## Validation
 
