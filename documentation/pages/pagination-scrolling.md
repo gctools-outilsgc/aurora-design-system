@@ -12,6 +12,16 @@ You should organize the page structure so that the most important information ap
 
 Pagination splits content into multiple discrete pages. It is best used when the user is trying to accomplish a goal, for instance trying to find a particular article from a list. Breaking the content list into multiple pages stops the user from feeling overwhelmed. A user can see the size of the data set, so they know how much more content there is to investigate. Pagination also allows the user to feel more in control of the content they are viewing as they can decide whether or not to click to the next page. Every click should lead the user closer to achieving their goal.
 
+Pagination is styled as follows: 
+
+Secondary button on the left with the copy "Prev." With numbers in the middle and another secondary button on the right with the copy "Next"
+
+The numbers are displayed with Nunito Sans Bold at 14px. Each number has padding of 10px. 
+
+The active page number is shown in a rectangle with a padding of 10px, with a border radius of 4px. The box is displayed using the same colour as primary buttons #002D42, and the number uses white text. 
+
+*Pagination component*
+
 ### Best Practices
 
 Through pagination, a user should be able understand the amount of content there is; you should include a link to the last page of the content in the pagination bar, unless the data set fluctuates in size. Also include a link to the first page on every page. 
@@ -20,5 +30,5 @@ Each page should contain the same amount of objects, you may want to include an 
 
 The user should be able to clearly tell which page they are currently on. Place this number in the middle of the pagination bar and give it the heaviest visual weight. The user should also be able to see what content page they have already viewed so they do not have to revisit content that they have already seen. You can show this by changing the colour, typically a secondary colour, of already visited pages versus pages the user has yet to visit. 
 
-![](.gitbook/assets/asset-3-2x.png)
+
 
