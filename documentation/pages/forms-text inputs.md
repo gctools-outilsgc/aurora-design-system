@@ -16,11 +16,11 @@ Text fields are styled as follows:
 
 *Normal text input component* 
 
-Normal: Rectangle with a height of 42px, and a border radius of 4px. Stroke width of 1px with the colour #CCCCCC. There is 11px of padding between the field and the label. The input field a padding of 15px by 12px. 
+Normal: Rectangle with a height of 42px, and a border radius of 4px. Stroke width of 1px with the colour #CCCCCC. There is 10px of padding between the field and the label. The input field a padding of 15px by 12px. 
 
 *Focus text input component* 
 
-Focus: Rectangle with a height of 42px, and a border radius of 4px. Stroke width of 1px #269ABC. There is 11px of padding between the field and the label. The input field a padding of 15px by 12px. 
+Focus: Rectangle with a height of 42px, and a border radius of 4px. Stroke width of 1px #269ABC. There is 10px of padding between the field and the label. The input field a padding of 15px by 12px. 
 
 ## Select Field
 
