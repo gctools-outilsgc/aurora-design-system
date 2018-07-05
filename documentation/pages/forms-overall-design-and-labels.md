@@ -24,7 +24,7 @@ If additional information is necessary beyond a label, this information should b
 
 ### Placement of Labels
 
-Labels should follow the vertical format of the form. Place labels above their respective field. Group a label with its field so that there is a clear distinction between fields. Do not use placeholder text for labels as this prevents the user from properly reviewing the form. Labels have a bottom margin of 11px from the input field. 
+Labels should follow the vertical format of the form. Place labels above their respective field. Group a label with its field so that there is a clear distinction between fields. Do not use placeholder text for labels as this prevents the user from properly reviewing the form. Labels have a bottom margin of 10px from the input field. 
 
 ### Text in Labels
 
@@ -34,13 +34,27 @@ How labels are written affects their legibility. Do not write labels in all caps
 
 Placeholder text is text that appears directly in the input field. This text is not meant to be used as a label, but can provide supplemental information or an example for the user.
 
-Placeholder text is meant to help the user more accurately complete the field rather than be the primary indicator of field content.
+Placeholder text is meant to help the user more accurately complete the field rather than be the primary indicator of field content. It may also be complementary to micro-copy, with placeholder text providing an example, and micro-copy providing additional information or context. 
 
 As soon as the user starts typing in the field, the placeholder text should disappear.
+
+Placeholder text is styled using Nunito Sans Regular at 14px, #666666
 
 _**\(Example image here\)**_
 
 For more information about placeholder text styles, refer to the [_Typography_](typography.md) section.
+
+## Micro-Copy
+
+Microcopy is text below and input field that provides additional information about that field. Microcopy is meant to be brief sentences that instruct the user how to complete the field.
+
+Micro-copy is styled as follows:
+
+10px below the input field. The text is displayed the same as placeholder text; Nunito Sans Regular at 14px, #666666
+
+If there is more than one line the text wraps and has a leading of 21pts. 
+
+*Input field with microcopy*
 
 ## Grouping / Field Sets
 
