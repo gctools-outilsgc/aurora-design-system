@@ -1,5 +1,7 @@
 # Progress Indicators
 
+**Design review currently in progress**
+
 ## Steps Indicator
 
 Progress indicators are key for visibility of system status. They visually represent a path to completion of a particular task or process. Step indicators help the user identify how much of the process the user has completed, and how much is still left.
@@ -18,13 +20,13 @@ The inner circle is white \(\#FFFFFF\) and **34px**. it is centred within the ou
 
 In between steps there is a centred line with a thickness of **3px**. This line should be the same colour as the outer circle. 
 
-![](.gitbook/assets/steps_empty.png)
+*Empty steps component*
 
 In progress, completed steps use a coloured circle and line. The outer circle is filled with the colour \(\#FEC04F\) or the secondary colour of your choice. The line is also filled with this colour. 
 
-![](.gitbook/assets/steps_active.png)
+*Active steps component*
 
-![](.gitbook/assets/steps_complete.png)
+*Completed steps component*
 
 ## Progress Bars
 
@@ -42,7 +44,7 @@ Progress bars are styled using a rectangle with **16px** height and variable wid
 
 Percentage can be either aligned to the right of the bar, or the percentage can be centred within the coloured portion of the bar. 
 
-![](.gitbook/assets/progress-bars.png)
+*Progress bars component* 
 
 ### Animation
 
