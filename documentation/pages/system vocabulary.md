@@ -1,6 +1,6 @@
 # System Vocabulary
 
-##Commonly Used Words
+## Commonly Used Words
 
 app tray
 profile
