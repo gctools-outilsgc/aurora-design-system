@@ -2,9 +2,13 @@
 
 ## Accessibility
 
+
+
 ## Artificial Intelligence
 
 ## Availability
+
+Availability means that a produuct or resource is open for other people to see and use. Often it refers to how easily a user can find the required information. 
 
 ## Beta
 
@@ -16,9 +20,6 @@ Beta is a testing phase of a new system or digital product. The beta is an early
 
 A minimum viable product is a digital product that has enough features to meet the needs of early adopters and key users, but does not include the full set of desired features. In agile development, a minimum viable product is launched so that iterations can be made based on user feedback. Typically, feature requirements for an MVP will be set out from the start of a project, and additional features will be determined after the MVP has been launched and adopted by users. With an MVP, feedback is key to guiding future development. 
 
-## Production Environment
-
-A production environment is 
 
 ## Prototype
 Prototypes can be low or high fidelity. Fidelity refers to how closely the prototype mimics the final product, with high fidelity often including development work. A prototype is a stylized and more complete version of a wireframe, that shows features and interfaces as they would appear to the user on-screen. Both low and high fidelity prototypes are used after wireframe testing, and are often used for usability or A/B testing. 
