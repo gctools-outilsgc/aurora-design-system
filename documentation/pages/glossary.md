@@ -6,6 +6,9 @@
 
 ## Artificial Intelligence
 
+## Architecture
+app,network, information, site, front-end, back-end
+
 ## Availability
 
 Availability means that a produuct or resource is open for other people to see and use. Often it refers to how easily a user can find the required information. 
@@ -28,7 +31,7 @@ Prototypes can be low or high fidelity. Fidelity refers to how closely the proto
 
 Usability is just one aspect of a user's overall experience with a product. Usability assesses how easy user interfaces are to use, which is usually determined by a usability test. Usability is defined by 5 components: learnability, efficience, memorability, errors, and satisfaction. Usability tests usually focus on specific tasks, and determine the efficiency and the ease of which users can complete them. 
 
-## User Interface Design
+## User Interface
 
 User interface design refers to the front-end of a system, or, the elements in which a user will interact with on the page. User interface design incorporates styled elements to create the aesthetic appearance of the website or application. Development for the user interface usually happens in conjunction with or after testing has been done on application prototypes, and is usually done using HTML and CSS. User interface design plays a role in the overall experience of the user. 
 
