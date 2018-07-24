@@ -2,9 +2,11 @@
 
 ## Accessibility
 
-
+Accessibility is the practice of designing products that are usable to all users, regardless of ability or context of use. Different than usability, accessibility focuses on technical and visual aspects of a design that directly relate to its functionality for users of different ability levels. While intended to aid users with specific disabilities, considering accessibility of digital products provides benefits to all users. 
 
 ## Artificial Intelligence
+
+Artificial intelligence is a branch of computer science that refers to the simulation of intelligent behaviour in computers. Artificial intelligence is meant to solve cognitive problems commonly associated with human intelligence such as learning, problem solving, and pattern recognition. Artificial intelligence can apply to any device that perceives its environment and takes actions that maximize its chance of successfully reaching defined goals. 
 
 ## Architecture
 app,network, information, site, front-end, back-end
@@ -18,6 +20,8 @@ Availability means that a produuct or resource is open for other people to see a
 Beta is a testing phase of a new system or digital product. The beta is an early version of a product that requires user testing and adjustments prior to a full launch. Beta versions of a digital product are typically made available to sample of the desired user base, before being opened to all users. 
 
 ## Machine Learning
+
+Machine learning is a specific application of artificial intelligence. Machine learning uses statistical techniques that give a computer or device the ability to learn without a certain set of data. Machine learning refers to the construction of algorithmns that can learn from and make predictions about a given set of data. 
 
 ## Minimum Viable Product (MVP)
 
