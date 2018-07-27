@@ -6,8 +6,6 @@ Tables should always include brief but informative titles.
 
 Tables can be used to display both quantitative and qualitative data. 
 
-*data table examples*
-
 ## Simple Table 
 
 Simple tables are the easiest way to display data and provide a clean look on your page. Simple tables are great for a small number of categories or values, but should include additional elements if increased readability or interactivity is required. 
@@ -38,7 +36,7 @@ Table Cell: Table cell information is displayed using regular text style (Nunito
 
 Every second row has a fill of #F2F5F6. 
 
-## Data Table
+## Interactive Data Table
 
 Data tables include interactive elements so that users can manipulate and filter data. Data tables use the simple table template, with added interactive elements. The most common interactions to include in a data table are sorting icons or a checkbox column. Only include a checkbox column if there are actions to perform on a specific row of data. 
 
@@ -46,8 +44,8 @@ If checkboxes are included in the table, active rows should be highlighted with 
 
 Some other examples of interactive elements to add to a data table are: pagination, filters, search bars, icon buttons, sorting icons, etc. 
 
-*Data table component*
+![Interactive data table 1](https://github.com/gctools-outilsgc/design-system/blob/master/documentation/examples/interactive%20table_1.png)
 
-*Example images of different data tables*
+![Interactive data table 2](https://github.com/gctools-outilsgc/design-system/blob/master/documentation/examples/interactive%20table_2.png)
 
-
+![Interactive data table 3](https://github.com/gctools-outilsgc/design-system/blob/master/documentation/examples/interactive%20table_3.png)
