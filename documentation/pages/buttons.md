@@ -24,6 +24,8 @@ Label text has high contrast with the button colour. See Colour for more informa
 
 ## Varying States
 
+![Image of different button states](https://github.com/gctools-outilsgc/design-system/blob/master/documentation/examples/button%20states.png)
+
 Buttons are not one-state objects. Most users will recognize a button because of its hover and active states. Varying states also provide feedback to the user at each stage of performing the action.
 
 Buttons should include normal, hover, focus, active and disabled states:
