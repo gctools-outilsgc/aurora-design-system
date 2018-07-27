@@ -1,6 +1,6 @@
 # Buttons
 
-**Image of all button varieties**
+![Image of all button varieties](https://github.com/gctools-outilsgc/design-system/blob/master/documentation/examples/buttons.png)
 
 ## Best Practices
 
