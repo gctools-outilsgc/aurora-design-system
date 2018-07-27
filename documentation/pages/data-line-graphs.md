@@ -2,11 +2,11 @@
 
 ## Timeline
 
+![Timeline Line Graph](https://github.com/gctools-outilsgc/design-system/blob/master/documentation/examples/line%20graph.png)
+
 Run charts are a type of line graph that are used to show changes in data over time. The time value should always be represented on the x-axis. Do not have more than three data sets shown the the graph, as your graph will become hard to read and process.
 
 A useful feature to add to your run chart is the ability for users to zoom in and out to particular points of time represented on your graph. 
-
-*Example of run chart*
 
 
 ### Multiple Variable Line Graph
@@ -15,7 +15,7 @@ When using multiple data series in a run chart, include a legend. See [Legends a
 
 For multiple variables, use a different colour for each line, and make sure there is enough contrast between them so they are easily distinguishable. 
 
-*Example of multi-variable line graph*
+![Multi_variable line graph](https://github.com/gctools-outilsgc/design-system/blob/master/documentation/examples/line%20graph_2.png)
 
 
 ## Area Graphs
@@ -24,7 +24,7 @@ Area graphs are line graphs that can be used to represent quantitative data. You
 
 Area graphs should be filled in with the same colour as the line, but at 15% opacity. 
 
-*Example of area graph* 
+![Area graph](https://github.com/gctools-outilsgc/design-system/blob/master/documentation/examples/area%20graph.png)
 
 
 
