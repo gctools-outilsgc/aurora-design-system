@@ -1,6 +1,6 @@
 # Data: Column and Bar Graphs
 
-*Example images of bar graphs*
+![Column Graph](https://github.com/gctools-outilsgc/design-system/blob/master/documentation/examples/column%20graph_complex.png)
 
 Bar graphs should be used to represent direct comparisons. Numerical values should always be shown beside visual elements.
 
@@ -12,20 +12,23 @@ Graph bars should never have a rounded top. A straight line precisely shows wher
 
 ## Column Graphs
 
+![Column Graph](https://github.com/gctools-outilsgc/design-system/blob/master/documentation/examples/column%20graph.png)
+
 Column graphs use vertical bars to represent data. 
 
 If you are using time as a variable in your visualization, always use a column graph. 
 
-*Example of column graph* 
 
 ## Bar Graphs
+
+![Bar Graph](https://github.com/gctools-outilsgc/design-system/blob/master/documentation/examples/bar%20graph.png)
 
 Bar graphs follow the same standards as column graphs, simply using horizontal instead of vertical bars. Bar graphs are only used to replace column graphs in a few cases:
 
 * If data labels are long and require more visual space
 * If you are showing more than 10 items. 
 
-*Example of bar graph*
+
 
 
 
