@@ -1,12 +1,16 @@
 # Typography
 
-**Needs Images**
-
 ## Fonts
 
 The Digital Collaboration Division uses two font families for all digital products: Rubik and Nunito Sans. Both Rubik and Nunito Sans are open source fonts and can be downloaded from [Google Fonts](https://fonts.google.com/) for free.
 
 [Rubik](https://fonts.google.com/specimen/Rubik) is used for titles and headings, while [Nunito Sans](https://fonts.google.com/specimen/Nunito+Sans) is used for sub-headings, buttons and paragraph text.
+
+**Rubik**
+![Rubik Font](https://github.com/gctools-outilsgc/design-system/blob/master/documentation/examples/Rubik_image.PNG)
+
+**Nunito Sans**
+![Nunito Sans Font](https://github.com/gctools-outilsgc/design-system/blob/master/documentation/examples/Nunito%20Sans_font.PNG)
 
 ### Font Choice
 
@@ -24,6 +28,8 @@ Some systems may not be able to download or display the fonts in this design sys
 
 ## Titles \(H1\)
 
+![Title](https://github.com/gctools-outilsgc/design-system/blob/master/documentation/examples/title.png)
+
 Titles appear only on the top of pages and indicate high-level navigation points.
 
 Titles are displayed using Rubik Light at 36 points  in the colour \#252525 on a light background or \#FFFFFF on a dark background.
@@ -31,6 +37,8 @@ Titles are displayed using Rubik Light at 36 points  in the colour \#252525 on a
 **\(Add example image\)**
 
 ## Headings \(H2-H6\)
+
+![Headings](https://github.com/gctools-outilsgc/design-system/blob/master/documentation/examples/headings.png)
 
 There are five different sub-headings. All sub-headings use the colours \#252525 on a light background or \#FFFFFF on a dark background.
 
@@ -52,7 +60,6 @@ Paragraph text is used for most text content found on the application. Paragraph
 
 Paragraph text uses the colours \#252525 on a light background or \#FFFFFF on a dark background.
 
-_**\(more info about paragraph spacing\)**_
 
 ### Line-Breaking
 
@@ -72,11 +79,12 @@ The ideal length for body text is around 40-60 characters. If line length is too
 
 ## Pull Quotes
 
+![Pull quotes ](https://github.com/gctools-outilsgc/design-system/blob/master/documentation/examples/pull%20quote.png)
+
 Pull Quotes are used to indicate key phrases from the content displayed on the page \(i.e. in articles or blogs\). Pull quotes are integrated into paragraphs.
 
 Pull quotes are indented by 50px with a vertical line in the application's secondary colour. The line is 4px wide.  Padding between the line and the text is 8px.  The text is displayed using Nunito Sans Regular at 1.25 em,  with a line height of 200%.
 
-**\(Add asset here\)** 
 
 See [_Colour_](colour.md) for more information on choosing accessible colours for your pull quote lines.
 
@@ -116,7 +124,9 @@ Timestamps and placeholder text use the same typographic styles. Both use Nunito
 
 ## Button Text
 
+![Button Text](https://github.com/gctools-outilsgc/design-system/blob/master/documentation/examples/button%20states.png)
+
 Button text is displayed as Nunito Sans Bold at 16 points, and uses the colours \#252525 on a light background or \#FFFFFF on a dark background. The colour of this text depends on the button chosen and must provide enough contrast with the colour of each type of button. For more about colour choice see our button section.
 
-**\(Add example image\)** 
+
 
