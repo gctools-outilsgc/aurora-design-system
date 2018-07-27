@@ -6,18 +6,18 @@ Accessibility is the practice of designing products that are usable to all users
 
 ## Artificial Intelligence
 
-Artificial intelligence is a branch of computer science that refers to the simulation of intelligent behaviour in computers. Artificial intelligence is meant to solve cognitive problems commonly associated with human intelligence such as learning, problem solving, and pattern recognition. Artificial intelligence can apply to any device that perceives its environment and takes actions that maximize its chance of successfully reaching defined goals. 
+Artificial intelligence is a branch of computer science that refers to the simulation of intelligent behaviour in computers. Artificial intelligence is meant to solve cognitive problems such as learning, problem solving, and pattern recognition. The term artificial intelligence can apply to any device that perceives its environment and takes actions that maximize its chance of successfully reaching defined goals.
 
 ## Architecture
 app,network, information, site, front-end, back-end
 
 ## Availability
 
-Availability means that a produuct or resource is open for other people to see and use. Often it refers to how easily a user can find the required information. 
+Availability means that a product or resource is open for everyone to observe and use. Often it refers to how easily a user can find the required information.
 
 ## Beta
 
-Beta is a testing phase of a new system or digital product. The beta is an early version of a product that requires user testing and adjustments prior to a full launch. Beta versions of a digital product are typically made available to sample of the desired user base, before being opened to all users. 
+Beta is a testing phase of a new system or digital product. The beta is an early version of a product that requires user testing, bug testing and adjustments prior to a full launch. Beta versions of a digital product are typically made available to sample of the desired user base, before being opened to all users.
 
 ## Machine Learning
 
@@ -29,11 +29,11 @@ A minimum viable product is a digital product that has enough features to meet t
 
 
 ## Prototype
-Prototypes can be low or high fidelity. Fidelity refers to how closely the prototype mimics the final product, with high fidelity often including development work. A prototype is a stylized and more complete version of a wireframe, that shows features and interfaces as they would appear to the user on-screen. Both low and high fidelity prototypes are used after wireframe testing, and are often used for usability or A/B testing. 
+A prototype is a stylized and more complete version of a wireframe that shows features and interfaces as they would appear to the user on-screen. Prototypes can be low or high fidelity. Fidelity refers to how closely the prototype mimics the final product, with high fidelity often including development work. Both low and high fidelity prototypes are used after wireframe testing, and are often used for usability or A/B testing.
 
 ## Usability
 
-Usability is just one aspect of a user's overall experience with a product. Usability assesses how easy user interfaces are to use, which is usually determined by a usability test. Usability is defined by 5 components: learnability, efficience, memorability, errors, and satisfaction. Usability tests usually focus on specific tasks, and determine the efficiency and the ease of which users can complete them. 
+Usability refers to how easy user interfaces are to use, which is usually determined by a usability test. Usability is defined by 5 components: learnability, efficiency, memorability, user errors, and satisfaction. Usability tests usually focus on specific tasks, and determine the efficiency and the ease of which users can complete them.
 
 ## User Interface
 
@@ -43,7 +43,7 @@ Mobile user interface focuses on the appearance and usability of mobile applicat
 
 ## User Experience
 
-User experience is a broader concept than user interface or usability. Although both of these are important aspects of an overall user experience, the term refers to a person's overall emotions and attitudes about using a product, system or service. User experience encompasses all aspects of a person's feelings about using a product, including their understanding of the product, the context in which they are using it, how well it meets their needs, and the enjoyment or frustration that comes from using the product. 
+User experience is the overall experience of using a product. It is a broader concept than user interface or usability. Although both of these are important aspects of user experience, the term refers to a person's overall emotions and attitudes about using a product, system or service. User experience encompasses all aspects of a person's feelings about using a product, including their understanding of the product, the context in which they are using it, how well it meets their needs, and the enjoyment or frustration that comes from using the product.
 
 ## Utility
 
@@ -51,4 +51,4 @@ Utility refers to whether or not a product provides the features needed by defin
 
 ## Wireframe
 
-Wireframes are basic black and white samples of a new feature or interface. Often using placeholder content, and simple boxes and outlines, wireframes are not fully representative of the final product. Wireframes can be designed digitally or on paper, and are meant to be used early in the user experience research and design process. 
+Wireframes are basic black-and-white samples of a new feature or interface. Often using placeholder content and simple boxes and outlines, wireframes are not fully representative of the final product. Wireframes can be designed digitally or on paper, and are meant to be used early in the user experience research and design process.
