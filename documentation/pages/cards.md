@@ -64,5 +64,6 @@ A second divider is placed 12px below the content. Actionable items (i.e. button
 
 Cards can technically include any number of component combinations. Using the base styles above, components such as placeholder text (metadate), avatrs, icon buttons, buttons can be added below the header, or within the actionable section below the main content. 
 
-*Examples of different kinds of cards*
-
+![Example of a complex card 1](https://github.com/gctools-outilsgc/design-system/blob/master/documentation/examples/card%20example_2.png)
+![Example of a complex card 2](https://github.com/gctools-outilsgc/design-system/blob/master/documentation/examples/card%20example_3.png)
+![Example of a complex card 3](https://github.com/gctools-outilsgc/design-system/blob/master/documentation/examples/card%20example_6.png)
