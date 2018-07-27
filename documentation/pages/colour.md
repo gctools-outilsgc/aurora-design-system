@@ -10,24 +10,19 @@ We have created other sample colour palettes that you may wish to use in your ow
 
 #### Aurora Borealis
 
-![](.gitbook/assets/colour_aurora-borealis.png)
 
 Hex codes \(left to right\): \#000A3D, \#467B8D, \#5DC1BE, \#55C0A3, \#ADE18D
 
 #### Blue Complimentary
 
-![](.gitbook/assets/colour_blue-complimentary.png)
 
 Hex codes \(left to right\): \#0D467D, \#137991, \#6DD2DA, \#FF9F40, \#FEC04F
 
 #### Triad
 
-![](.gitbook/assets/colour_triad.png)
-
 Hex codes \(left to right\): \#7E0C33, \#024571, \#5DC1BE, \#F6CF22, \#EDDB7C
 
 #### Green and Blue
-![](.gitbook/assets/colour_green-and-blue.png)
 
 Hex codes \(left to right\): \#0278A4, \#4E474, \#83C3F2, \#C9DF61, \#C1D699
 
@@ -39,7 +34,6 @@ For Government of Canada applications it is required that all colours meet the W
 
 Once chosen, you can apply your own colours simply by modifying the hex codes in your CSS for various elements.
 
-![](.gitbook/assets/colour_palettes.png)
 
 ### Colours Used in This System
 
@@ -59,21 +53,9 @@ The palette used in this system is titled **Thunder and Lightning** and uses the
 
 \#FEC04F \(with black text\)
 
-![\#002D42 with white text \(\#FFFFFF\)](.gitbook/assets/colour_navy.png)
-
-![\#4D5D6C with white text \(\#FFFFFF\)](.gitbook/assets/colour_blue.png)
-
-![\#96A8B2 with black text \(\#212121\)](.gitbook/assets/colour_slate-grey.png)
-
-
-
-![\#CECECE with black text \(\#212121\)](.gitbook/assets/colour_grey.png)
-
-![\#FEC04F with black text \(\#212121\)](.gitbook/assets/colour_yellow.png)
 
 ### Text Colours
 
- **\(Add asset image\)**
 
 #### Black Text
 
@@ -107,11 +89,10 @@ Please see [_Typography_](/typography.md) for more information about using text 
 
 #### Light Theme
 
-By default, most applications will follow the light theme. This theme includes various shades of white for different background/foreground levels.             ****
+By default, most applications will follow the light theme. This theme includes various shades of white for different background/foreground levels. For the majority of applications #FAFAFA is a good shade to use as a background colour, with white (#FFFFFF) as the container or card colour.         ****
 
 Hex codes: \#CCCCCC, \#F5F5F5, \#FAFAFA, \#FFFFF       ****
-
-**\(Add asset image\)**                
+              
 
 #### Dark Theme
 
@@ -119,7 +100,6 @@ Some applications may wish to also incorporate a dark theme. This theme includes
 
 Hex codes: \#000000, \#212121, \#303030, \#424242
 
-![](.gitbook/assets/dark-theme.png)
 
 ### System Alerts and Messaging
 
@@ -130,7 +110,6 @@ Please refer to the alerts section and the colour section for more information.
 
 #### Error Colours
 
-![](.gitbook/assets/error_colours%20%281%29.png)
 
 _**Error colours are used to indicate system failures and malfunctions.**_ 
 
@@ -145,8 +124,6 @@ _**Error colours are used to indicate system failures and malfunctions.**_
 
 #### Warning Colours
 
-![](.gitbook/assets/warning_colours.png)
-
 _**Warning colours are used for notices that require the user’s acknowledgement.**_
 
 **Warning hex codes:**  
@@ -159,8 +136,6 @@ _**Warning colours are used for notices that require the user’s acknowledgemen
 
 #### Success Colours
 
-![](.gitbook/assets/success_colours.png)
-
 _**Success colours are used when confirming that the user’s input was successful.**_ 
 
 **Success hex codes:**
@@ -172,8 +147,6 @@ _**Success colours are used when confirming that the user’s input was successf
 •    \#D8EECA
 
 #### Info Colours
-
-![](.gitbook/assets/info_colours%20%281%29.png)
 
 _**Info colours are used when providing additional information and notes to the user.**_ 
 

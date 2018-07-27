@@ -10,6 +10,7 @@ Trend lines aren't necessary, but may help to emphasize correlations in your dat
 
 To show clusters of data, use varying opacity levels on overlapping or near-overlapping data points to show layers, and make each point visually distinct. 
 
+*Example image of a scatterplot* 
 
 
 

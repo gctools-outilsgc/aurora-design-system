@@ -33,6 +33,8 @@ How labels are written affects their legibility. Do not write labels in all caps
 
 ## Placeholder Text
 
+*Placeholder text is used only to provide supplemental information or additional guidance on how to complete a text field. Placeholder text DOES NOT replace a label or microcopy. Placeholder text should only be used if an example of a text input improves the user experience, rather than as a replacement to other important information indicators. 
+
 Placeholder text is text that appears directly in the input field. This text is not meant to be used as a label, but can provide supplemental information or an example for the user.
 
 Placeholder text is meant to help the user more accurately complete the field rather than be the primary indicator of field content. It may also be complementary to micro-copy, with placeholder text providing an example, and micro-copy providing additional information or context. 
