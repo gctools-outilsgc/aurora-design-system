@@ -1,4 +1,4 @@
-Navigation : fil d’Ariane
+# Navigation : fil d’Ariane
 
 Le fil d’Ariane est un élément de navigation secondaire qui indique à l’utilisateur son emplacement sur un site Web ou une application. Il s’agit d’une représentation de la hiérarchie de l’information du site.
 
@@ -10,7 +10,7 @@ Le fil d’Ariane devrait être complémentaire à la navigation principale et n
 
 Le fil d’Ariane dans le système de conception est comme suit :
 
-Composante du fil d’Ariane
+*Composante du fil d’Ariane*
 
 Chaque couche du fil d’Ariane est stylisée à l’aide du texte de lien. Le dernier élément n’est jamais un lien puisqu’il s’agit de la page actuelle et qu’il n’est pas cliquable. Le dernier élément est stylisé à l’aide du texte normal.
 
