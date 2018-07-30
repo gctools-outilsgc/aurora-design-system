@@ -12,7 +12,7 @@ Inline images are aligned vertically with other elements on the page \(i.e. text
 
 ## Full Width Image
 
-Full-width images extend from one end of the content area to the other.
+Full-width images extend from one end of the content area to the other. Sometimes referred to as a hero image. 
 
 ## Avatars
 
