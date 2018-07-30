@@ -1,4 +1,4 @@
-# Nav: Breadcrumbs
+# Navigation: Breadcrumbs
 
 Breadcrumbs are a secondary navigation element that identify to a user their location on a website or application. Breadcrumbs are a visual representation of the site's hierarchy of information.
 
