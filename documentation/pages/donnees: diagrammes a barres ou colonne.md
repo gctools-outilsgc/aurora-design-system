@@ -21,7 +21,7 @@ Si vous utilisez le temps comme une variable dans votre visualisation, toujours 
 ##Graphiques à barres
 
 Les graphiques à barres suivent les mêmes normes que les graphiques à colonnes, ils utilisent simplement des barres horizontales plutôt que verticales. Les graphiques à barres sont seulement utilisés pour remplacer les graphiques à colonnes dans quelques cas :
-•	Si les étiquettes de données sont longues et nécessitent plus d’espace visuel
-•	Si vous illustrez plus de 10 points.
+*	Si les étiquettes de données sont longues et nécessitent plus d’espace visuel
+*	Si vous illustrez plus de 10 points.
 
 *Exemple d’un diagramme à barres*
