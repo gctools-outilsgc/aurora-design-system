@@ -26,13 +26,13 @@ Certains systèmes peuvent ne pas être en mesure de télécharger ou d’affich
 
 **Nunito Sans** fait partie des styles de caractères de la super famille de Google. Il a été créé par Vernon Adams et a été amélioré par Jacques Le Bailly pour inclure un ensemble complet de poids. Cette police est populaire partout dans le monde et est utilisée dans 50 000 sites Web.
 
-## Titres \(H1)\
+## Titres \(H1)
 
 Les titres apparaissent seulement dans le haut des pages et indiquent les points de navigation de haut niveau. 
 
 Les titres sont affichés à l’aide de « Rubik Light » à 36 points de couleur no 252525 sur un arrière-plan pâle ou no FFFFFF sur un arrière-plan foncé.
 
-### En-tête \(H2-H6)\
+### En-tête \(H2-H6)
 
 Il y a cinq différents sous-en-têtes. Tous les sous-titres sont de couleur no 252525 sur un arrière-plan pâle ou no FFFFFF sur un arrière-plan foncé.
 
