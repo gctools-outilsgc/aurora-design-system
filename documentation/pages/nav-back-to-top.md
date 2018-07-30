@@ -1,4 +1,4 @@
-# Nav: Back to top
+# Navigation: Back to top
 
 Back to top is a navigation button that allows users to quickly revert back to the top of a particular web page. This element is shown in the bottom right corner of the page or mobile screen. The element only appears when the user scrolls \_**\(distance\)** \_a certain amount down the web page.
 
