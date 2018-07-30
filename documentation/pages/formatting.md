@@ -2,9 +2,11 @@
 
 ## Capitalization
 
-All capitalization in the system uses sentence case. Titles, buttons, navigation etc. all use sentence case capitalization, which means only the first letter is capitalized, unless a proper noun is present. 
+All capitalization in the system uses sentence case. Titles, buttons, navigation etc. all use sentence case capitalization, which means only the first letter of the first word is capitalized. Always capitalize the first letter of proper nouns. Table headings and page titles should use headline style, which means the first letter of each word (with the exception of and, but, the) are capitalized. 
 
-## Acronyms and Abbreviations
+Acronyms and abbreviations should be avoided. Write out acronyms and abbreviations whenever pussible. Acronyms should only be used if  the acronym is more commonly understood than the full name (i.e. NATO)
+
+Acronyms and abbreviations should always be capitalized. Acronyms do not require a period after each letter. 
 
 ## Contractions
 
