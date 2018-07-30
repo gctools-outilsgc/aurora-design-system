@@ -17,14 +17,14 @@ Le champ de saisie est aligné à droite du bouton. Il s’agit d’un rectangle
 *Composante de téléversement de dossier de pointage*
 
 **État « pointage » :** Le bouton est de couleur no 002D42 à une opacité de 80 %, le texte est blanc et le rayon de bordure est de 4 px, et l’ombrage est de 15 px.
-Le champ de saisie est aligné à droite du bouton. Il s’agit d’un rectangle élevé de 42 px ayant un rayon de bordure de 4 px. La couleur de l’arrière-plan est le no FFFFFF, la couleur de bordure est le no CCCCCC. Le texte est aligné à gauche du champ de saisie et suit les normes sur le texte d’espace réservé. Le champ est un ombrage de 11 px.
+Le champ de saisie est aligné à droite du bouton. Il s’agit d’un rectangle élevé de 42 px ayant un rayon de bordure de 4 px. La couleur de l’arrière-plan est le no FFFFFF, la couleur de bordure est le no CCCCCC. Le texte est aligné à gauche du champ de saisie et suit les normes sur le [texte d’espace réservé.](typographie.md) Le champ est un ombrage de 11 px.
 
 *Composante de téléversement de fichiers de focus*
 
 **État « focus » :** Le bouton est de couleur no 002D42 à une opacité de 80 %, le texte est blanc et le rayon de bordure est de 4 px, et l’ombrage est de 15 px. Il comprend un trait droit de 3 px dans la couleur primaire.
-Le champ de saisie est aligné à droite du bouton. Il s’agit d’un rectangle élevé de 42 px ayant un rayon de bordure de 4 px. La couleur de l’arrière-plan est le no FFFFFF, la couleur de bordure est le no CCCCCC. Le texte est aligné à gauche du champ de saisie et suit les normes sur le texte d’espace réservé. Le champ a un ombrage de 11 px.
+Le champ de saisie est aligné à droite du bouton. Il s’agit d’un rectangle élevé de 42 px ayant un rayon de bordure de 4 px. La couleur de l’arrière-plan est le no FFFFFF, la couleur de bordure est le no CCCCCC. Le texte est aligné à gauche du champ de saisie et suit les normes sur le [texte d’espace réservé.](typographie.md) Le champ a un ombrage de 11 px.
 
 *Composante de téléversement de fichiers désactivés*
 
 **État « désactivé » :** Le bouton est de couleur no 002D42 à une opacité de 50 %, le texte est blanc et le rayon de bordure est de 4 px, et l’ombrage est de 15 px.
-Le champ de saisie est aligné à droite du bouton. Il s’agit d’un rectangle élevé de 42 px ayant un rayon de bordure de 4 px. La couleur de l’arrière-plan est le no FFFFFF, la couleur de bordure est le no CCCCCC. Le texte est aligné à gauche du champ de saisie et suit les normes sur le texte d’espace réservé. Le champ a un remplissage de 11 px.
+Le champ de saisie est aligné à droite du bouton. Il s’agit d’un rectangle élevé de 42 px ayant un rayon de bordure de 4 px. La couleur de l’arrière-plan est le no FFFFFF, la couleur de bordure est le no CCCCCC. Le texte est aligné à gauche du champ de saisie et suit les normes sur le [texte d’espace réservé.](typographie.md) Le champ a un remplissage de 11 px.
