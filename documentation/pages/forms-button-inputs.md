@@ -66,7 +66,7 @@ Switches have four different states:
 
 32px by 18px, border radius of 9px, slider background colour of \#E3E4E5, knob colour \#FFFFFF, border 1px with a colour of \#66666. The knob is on the left of the slider.
 
-* Switch - off hover/focus component*
+*Switch - off hover/focus component*
 
 **Off, Hover/Focus:**
 
