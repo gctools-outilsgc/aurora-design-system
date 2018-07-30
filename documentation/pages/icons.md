@@ -15,9 +15,7 @@ Refer to [CCS Tricks' article](https://www.gitbook.com/book/gctools-outilsgc/-gc
 
 Icons are used for certain buttons and are usually associated with some sort of action. They also add visual diversity to your page. When using icons, it is best to stick with well-known conventions, such as a garbage can to represent _Delete_, or a gear to represent _Settings_. 
 
-\(**add notes about accessibility\)**
 
-**\(provide example of how to code into your page\)**
 
 ## Choosing Your Icons
 
@@ -25,7 +23,6 @@ To reduce performance impacts of your application, it is recommended that your a
 
 For example, in this system we have chosen a total of  **\(x\)** icons, as seen below:
 
-*Image of icons used in our design system*
 
 ## Loading/Spinner
 
@@ -33,5 +30,5 @@ The loading icon is displayed using the [spinner icon](https://www.gitbook.com/b
 
 You can also use these same principles to animate any other icon you choose. 
 
-**\(maybe add other icons picked as standards?\)**
+
 
