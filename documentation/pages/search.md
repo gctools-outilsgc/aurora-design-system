@@ -10,15 +10,11 @@ There are two style options for search:
 
 **Option 1**
 
-![](.gitbook/assets/asset-19.png)
-
-Text field with a padding of **12px.** On the right of the field there is a search icon that serves as an action button. The icon is sized at **1.2 em** and coloured with **\(\#666666\)**
+Text field with a padding of 12px. On the right of the field there is a search icon that serves as an action button. The icon is sized at 1.2 em and coloured with \(\#666666\)
 
 **Option 2**
 
-![](.gitbook/assets/asset-20%20%281%29.png)
-
-The same as option 1 with a border radius of **17px**. 
+The same as option 1 with a border radius of 17px. 
 
 
 
