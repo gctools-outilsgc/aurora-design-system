@@ -16,5 +16,5 @@ Each layer of breadcrumbs is styled using link text. The last item is never a li
 
 In between each layer there is a chevron icon coloured \#A0A0A0
 
-Each layer has spacing of **12px** on either side of the chevron. 
+Each layer has spacing of 12px on either side of the chevron. 
 
