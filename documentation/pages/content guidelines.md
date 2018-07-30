@@ -2,17 +2,21 @@
 
 ## Reading Level and Plain Language
 
+Plain language is a style of writing designed to make text easy to read and understand.
+
 Plain language is achieved through several techniques:
 
-* **Write in short sentences** Aim for 15-20 words per sentence, but also ensure that sentence lengths vary to maintain flow. Sentences should incorporate only one main idea or point. 
+* **Write in short sentences** Sentences should incorporate only one main idea or point in order to be as clear as possible. Aim for no more than 20 words per sentence unless necessary.
 
-* **Use the active voice.** The active voice is closer to the way we talk, and is more dynamic and easy to read. Active voice typically follows the structure of - the subject (noun) does (verb) what/where (object). One good rule is to remember that things don't happen to people, people DO things. Using the active voice is also a great way to reduce your word count. 
+* **Use the active voice.** Active voice means that the subject does the action, rather than the subject being acted upon. The active voice is closer to the way we talk, and is more dynamic and easy to read. Active voice typically follows the structure of - the subject (noun) action (verb) what/where (object). Example: The dog (subject/noun) fetched (action/verb) the ball (object). One good rule is to remember that things don't happen to people, people DO things. 
 
-* **Avoid jargon that your reader won't understand.** This doesn't mean that you need to eliminate jargon entirely, but only use words that you know your reader will understand. Avoid buzzwords or words that only make sense to a very specific audience. 
+* **Use words approiprate for the situtaion and user.** Write clearly using the simplest words which say what you mean. Only use jargon if you know that your reader will understand. Avoid buzzwords or words that only make sense to a very specific audience. 
 
-* **Give short but clear directions.** These directions should be in the active voice, and as direct as possible. Refrain from being overly polite in instructions. Users need to know what to do, without ambiguity. Directions such as "Download the album", or "Read the job poster," are far easier to understand than. "You can download the album," or, "users are advised to read the job poster".
+* **Avoid nominalizations.** Nominalizations are abstract nouns formed from verbs. For example "discuss" (verb) vs. "discussion" (nominalization). Nominalizations make sentences passive, vague and harder to read. 
 
-* **Use headings and lists.** Headings and lists make the content easy to scane, and provide users clues as to where to find the information they are looking for. Typically users don't visit a page to read everything, they are looking for one specific piece of information. Make it easy for them to find. Headings and lists are also great to break down different ideas in a blog or article. 
+* **Give short but clear directions.** Directions should be in the active voice, and as clear and direct as possible. Do not be overly polite. Users need to know what to do without ambiguity. Directions such as "Download the album", or "Read the job poster," are far easier to understand than "You can download the album," or, "users are advised to read the job poster".
+
+* **Use headings and lists.** Headings and lists make the content easy to scan, and provide users clues as to where to find the information they are looking for. Typically users don't visit a page to read everything; they are looking for one specific piece of information. Make it easy for them to find the information they are looking for. Headings and lists are also great to break down different ideas in a blog or article. 
 
 * **Write informative hyperlinks.** Tell users where they are going to land when they click the link. Avoid using hyperlinks with text such as "Click here" or, "on this page". Be clear in what content the reader will see when they click a link. Good link examples include "my new blog about leadership", or "the ATIP policy document". 
 
