@@ -31,7 +31,9 @@ As the GCTools and other digital applications evolve, our design system will und
 
 *Example of a prototype built using our design system elements*
 
+
 ------------------------------------------------------------------------------------------------------
+
 
 # Starting From Scratch: Building the new GCTools Design System
 
