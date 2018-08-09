@@ -5,9 +5,17 @@
 
 **Avatar:** (n) A user’s profile picture.
 
+**Blog:** (n) A collection of content written and published by users that can appear either in a group, or on a user's profile.
+
+**Blog post:** (n) A single piece of content written and published by users to share an opinion or news.
+
 **Colleague:** (n) A functional relationship between to members of the site. Functions include updates about each other’s activity on their newsfeed and ability to contact each other through site messaging.
 
 **Community:** (n) A functional topic which collects a newsfeed of content based on predetermined tags.
+
+**Discussion:** (n) A collection of user written content within a group for the purpose of conversing about a topic.
+
+**Discussion Topic:** (n) A single piece of user written content that appears in a group, for other group members to comment on. 
 
 **Group:** (n) A user created page consisting of members and their content.
 
@@ -39,7 +47,11 @@
 
 2.  (n) Number of times content has been reposted.
 
+**Tag:** A label that is indexed that groups content.
+
 **Timestamp:** (n) A record of the time content was produced on or uploaded to the application.
+
+**Wiki:** (n) an application that allows users to collaboratively write and edit documentation.
 
 **the Wire:** (n) A mirco-blogging feature on the application.
 
