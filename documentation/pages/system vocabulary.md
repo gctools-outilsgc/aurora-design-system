@@ -68,7 +68,7 @@
 
 **Tag:** 
 
-1.  (n) A label that is indexed that groups content.
+1.  (n) A label that is indexed which groups content.
 
 2.  (v) To put a label on a peice of content.
 
