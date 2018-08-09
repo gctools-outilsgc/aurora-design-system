@@ -9,7 +9,7 @@
 
 **Blog post:** (n) A single piece of content written and published by users to share an opinion or news.
 
-**Colleague:** (n) A functional relationship between to members of the site. Functions include updates about each other’s activity on their newsfeed and ability to contact each other through site messaging.
+**Colleague:** (n) A functional relationship between two members of the site. Functions include updates about each other’s activity on their newsfeed and ability to contact each other through site messaging.
 
 **Community:** (n) A functional topic which collects a newsfeed of content based on predetermined tags.
 
