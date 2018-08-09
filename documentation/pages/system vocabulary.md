@@ -1,8 +1,48 @@
 # System Vocabulary
 
 ## Commonly Used Words
+**App tray:** (n) A drawer containing all of the suite applications found in the global navigation bar.
 
-app tray
+**Avatar:** (n) A user’s profile picture.
+
+**Colleague:** (n) A functional relationship between to members of the site. Functions include updates about each other’s activity on their newsfeed and ability to contact each other through site messaging.
+
+**Community:** (n) A functional topic which collects a newsfeed of content based on predetermined tags.
+
+**Group:** (n) A user created page consisting of members and their content.
+
+**Log-in:** (v) To enter a username and password in order to enter the personal version of an application.
+
+**Login:** 
+
+1.	(n) A user’s username and password.
+
+2.	(adj) Describing nouns related to the log-in process.
+
+**Member:** (n) A user who belongs to a group.
+
+**Mircoservice application:** (n) An application software that serves a single, specific function and exists within multifunctional applications.
+
+**Newest:** (adj) The most recent content produced on or uploaded to the application.
+
+**Newsfeed:** (n) A live list of activity related to the user’s colleagues and groups, ordered by newest content.
+
+**Notification:** (n) An alert to the user that an application event relevant to them has occurred.
+
+**Search:** (v) To use a search engine to find specific occurrences of text within an application.
+
+**Settings:** (n) A list of options to change a user’s application information and preferences.
+
+**Share:**
+
+1.  (v) To repost content in the same application, with a link to the original post.
+
+2.  (n) Number of times content has been reposted.
+
+**Timestamp:** (n) A record of the time content was produced on or uploaded to the application.
+
+**the Wire:** (n) A mirco-blogging feature on the application.
+
 profile
 micro-service
 application v. site
