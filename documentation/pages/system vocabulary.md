@@ -17,7 +17,13 @@
 
 **Discussion Topic:** (n) A single piece of user written content that appears in a group, for other group members to comment on. 
 
+**Download:** (v) A transmit a file to a personal computer from an application.
+
+**Export:** (v) To download a file in a different file type.
+
 **Group:** (n) A user created page consisting of members and their content.
+
+**Import:** (v) To upload a file in a different file type.
 
 **Log-in:** (v) To enter a username and password in order to enter the personal version of an application.
 
@@ -26,6 +32,8 @@
 1.	(n) A user’s username and password.
 
 2.	(adj) Describing nouns related to the log-in process.
+
+**Like:** 
 
 **Member:** (n) A user who belongs to a group.
 
@@ -47,9 +55,15 @@
 
 2.  (n) Number of times content has been reposted.
 
-**Tag:** A label that is indexed that groups content.
+**Tag:** 
+
+1.  (n) A label that is indexed that groups content.
+
+2.  (v) To put a label on a peice of content.
 
 **Timestamp:** (n) A record of the time content was produced on or uploaded to the application.
+
+**Upload:** To transmit a file from a personal computer to an application.
 
 **Wiki:** (n) an application that allows users to collaboratively write and edit documentation.
 
