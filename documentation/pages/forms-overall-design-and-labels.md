@@ -49,17 +49,20 @@ For more information about placeholder text styles, refer to the [_Typography_](
 
 ## Micro-Copy
 
-Microcopy is small amounts of text that provide guidance and feedback to users when interacting with form fields and other interactions on an application. Micro-copy can appear on any section of the application, but is most commonly used on forms. Microcopy is text below an input field that provides additional information about that field. 
+Microcopy is a small amount of text that provides guidance and feedback to users for interactions on an application, most commonly on forms. On forms the microcopy text appears below the input field to provide additional information about that field.
 
-Micro-copy helps to alleviate the concerns of users.  Good micro-copy is clear, concise and free of jargon. Micro-copy focuses on the context of the action or input. Often, micro-copy uses a lighter tone than other copy on the application. It is a great way to add humour and personality to a site. Micro-copy is short, provides an example, encourages an action, and speaks to the brand. 
 
-Examples of micro-copy include: "Search for groups about agile development", "Let the author know what you think! Leave a comment.", "Oops! There are no matches for your search. Try again." "Provide your email again so we can verify!" 
+Microcopy focuses on the context of the action or input, and should be clear, concise and free of jargon. Microcopy is short, provides an example, encourages an action, and speaks to the brand.
+
+
+Microcopy helps to alleviate the concerns of users. Often, microcopy uses a lighter tone than other copy on the application. It is a great way to add humour and personality to a site. 
+Examples of micro-copy include: "Search for groups about agile development", "Let the author know what you think! Leave a comment.", "Oops! There are no matches for your search. Try again." "Provide your email again so we can verify!"
+
 
 Micro-copy is styled as follows:
-
 10px below the input field. The text is displayed the same as placeholder text; Nunito Sans Regular at 14px, #666666
+If there is more than one line the text wraps and has a leading of 18pts.
 
-If there is more than one line the text wraps and has a leading of 18pts. 
 
 *Input field with microcopy*
 
