@@ -6,7 +6,7 @@
 
 Learn more about this project on our [GCDigital Design System](https://wiki.gccollab.ca/GCDigital_design_system) wiki page!
 
-Read about the goals of GCTools at [GCTools](https://www.canada.ca/en/treasury-board-secretariat/campaigns/gctools-hackathon/gctools.html)
+Read about the goals of GCTools at [GCTools](http://intranet.canada.ca/ict-oci/index-eng.asp)
 
 Kanban Planning \(requires login\): [Zube](https://zube.io/tbs-sct/design-system/w/main-workspace/kanban%20)
 
