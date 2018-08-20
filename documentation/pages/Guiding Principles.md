@@ -20,6 +20,6 @@ Covers a variety of needs and types of products. Aurora Design System follows ne
 
 Applicable to any technologic framework that a team decides to use for their project.
 
-Open and accessible 
+## Open and accessible 
 
 To anyone who wishes to use it. All of Aurora Design System’s code is open source, and all other guidelines and elements are free to copy.
