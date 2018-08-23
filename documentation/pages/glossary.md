@@ -8,9 +8,6 @@ Accessibility is the practice of designing products that are usable to all users
 
 Artificial intelligence is a branch of computer science that refers to the simulation of intelligent behaviour in computers. Artificial intelligence is meant to solve cognitive problems such as learning, problem solving, and pattern recognition. The term artificial intelligence can apply to any device that perceives its environment and takes actions that maximize its chance of successfully reaching defined goals.
 
-## Architecture
-app,network, information, site, front-end, back-end
-
 ## Availability
 
 Availability means that a product or resource is open for everyone to observe and use. Often it refers to how easily a user can find the required information.
