@@ -48,7 +48,7 @@ Thumbnails are small versions of an image that are used as previews to content. 
 
 *Thumbnail component* 
 
-Thumbnails are always square with a border radius **1px**. They have a black stroke width of **0.25p**x. They are sized at **115 x 115 pixels**. _**\(responsive sizing?\)**_
+Thumbnails are always square with a border radius **1px**. They have a black stroke width of **0.25p**x. They are sized at **115 x 115 pixels**.
 
 Thumbnails do not crop the image but simply re-scale it. Thumbnails are typically left-aligned when combined with other components.
 
