@@ -132,15 +132,4 @@ Primary actions are aligned to the left, while secondary actions are placed in t
 
 *Button groups component*
 
-## Icon Buttons
-
-_**\(Sierra to write\)**_
-
-i.e share button
-
-Icon buttons or buttons with a dedicated shortcut \(i.e. Ctrl + S for Save\) should include a tooltip in the hover state.
-
-8px
-
-## 1.15 em for icon size
 
