@@ -1,6 +1,7 @@
 # Menus
 
-Menus are used to display lists of choices the user can select. Menus can be used for lists of actions, as well as a form of navigation.
+
+Menus are used to display lists of choices the user can select. Menus can be used for lists of actions, as well as a form of navigation.
 
 ## Best Practices
 
@@ -10,7 +11,7 @@ Menus must contain at least two items, and each item should only be a single lin
 
 ### Best Practices
 
-Action menus are temporary lists of choices a user can make. They can consist of both ****primary actions and options which affect the page. Menu items can contain icons, and checkboxes. ****Menus should be internally scrollable. 
+Action menus are temporary lists of choices a user can make. They can consist of both primary actions and options which affect the page. Menu items can contain icons, and checkboxes. Menus should be internally scrollable. 
 
 Action menus can be static or contextual. Static menus have fixed options; contextual menus change their options based on what is available to select. Menu items can be ordered either statically \(always in the same order\) or dynamically \(changing based on previous user interaction\).
 
@@ -21,14 +22,17 @@ Action menus can be static or contextual. Static menus have fixed options; conte
 ![](.gitbook/assets/asset-1.png)
 
 
-
 #### Cascading Menu
 
 ![](.gitbook/assets/menu1.png)
 
+Used when there are suboptions within a menu.
+
 #### Check Option Menu
 
 ![](.gitbook/assets/menu3.png)
+
+Used to show when an option or state has been selected.
 
 ### Simple Menus
 
