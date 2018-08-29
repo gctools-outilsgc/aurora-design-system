@@ -29,7 +29,7 @@ Speak to users as if they are the main reader. Use pronouns such as "you" and yo
 
 ## Referring to product owners and the Government of Canada
 
-Generally you should refer to your department or business as “us” or “we” unless it is unclear who the subject is from context. Using first person pronouns makes your product seem more personable.
+Generally you should refer to your department or business as “us” or “we” unless it is unclear who the subject is from context, or if the documentation is official or for legal purposes. Using first person pronouns makes your product seem more personable.
 
 When referring to the Government of Canada and all departments within it, you typically should use the entire name of the department not the department’s acronym. Only use the acronym if the name appears previously in a single text and you have defined the acronym. 
 
