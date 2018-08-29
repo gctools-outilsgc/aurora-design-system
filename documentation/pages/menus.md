@@ -54,3 +54,5 @@ Mega-menus are used when your navigation points have subcategories. The navigati
 
 ![](.gitbook/assets/mega-menu.png)
 
+Used to include promoted or related content to the user.
+
