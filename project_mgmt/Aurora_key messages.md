@@ -1,6 +1,13 @@
 # Aurora Key Messages
-Aurora is a catalogue of everything that makes up our digital products, including UI elements, writing style, guiding principles, coding standards, visual design, etc. 
-Building a design system is a collaborative effort and requires expertise across all fields in web/application design. A design system takes into account all aspects of the product and encompasses all levels of the user and the creator’s experience. 
-Aurora was built primarily for the Digital Collaboration Division but is open to all teams, governments and companies that wish to build interactive and digital products. 
-Aurora was built in collaboration and in consultation with the Canadian Digital Service, Transport Canada, the Web Experience Toolkit, One GC team among others in the Government of Canada. 
-In building Aurora, we wanted to keep the spirit of government, while providing the quality seen in the private sector. Aurora was inspired by design systems such as Google's Material Design, Shopify's Polaris, the US design system, and Clarity design system. 
+- Aurora was built to standardize the visual language and user experience of our digital collaboration tools. The system encompasses visual elements, user interface components, data guidelines, branding and writing guidelines.
+- Aurora saves our designers and developers time when building products, is fun to use, and has given us a great opportunity to work with others
+- Aurora was built in the open and is available to anyone who wishes to use it.
+- Aurora will be used to guide the design of all future Digital Collaboration Division products and features. 
+- Aurora has gained interest from governments around the world and within Canada (e.g. British Columbia, New Zealand, UK) 
+- Aurora was built by a multidisciplinary team that works with an agile development process. 
+- Using Aurora is complementary to the Web Experience Toolkit (WET), Canada.ca Style Guide, the Federal Identity Policy (FiP) and WCAG 2.1. 
+- Aurora is subject to improvements and further iterations. 
+- Aurora is technology agnostic. 
+- Unlike other design systems or web standards currently available in the Government of Canada, Aurora provides guidelines for ethical data use, friendly web writing, and interactive design.  
+- Aurora was built in collaboration and consultation with the Canadian Digital Service, Transport Canada, the Web Experience Toolkit, One GC team among others in the Government of Canada. 
+- In building Aurora, we wanted to keep the spirit of government, while providing the quality and fun seen in the private sector. Aurora was inspired by design systems such as Google's Material Design, Shopify's Polaris, the US design system, and Clarity design system.
