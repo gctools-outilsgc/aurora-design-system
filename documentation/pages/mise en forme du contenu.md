@@ -22,6 +22,9 @@ Les nombres jusqu’à dix sont épelés, et tout autre nombre est inscrit au mo
 Les adresses doivent toujours commencer par le nom de l’immeuble, puis le nom de la rue, et le type de voie de circulation abrégé (p. ex., 440 av. Laurier Ouest). S’il faut indiquer un numéro d’appartement ou d’unité, il doit être inclus avant le numéro de l’immeuble et être séparé par un trait d’union (c’est-à-dire, 6-90 rue Elgin).
 
 Au besoin, la province ou le territoire doit être inclus au moyen de sa version abrégée (c’est-à-dire, Ont.) et les noms du pays doivent être écrits au long.
+
+## Heure
+En français, l’heure du système est formatée au moyen de l’horloge de 24 heures. Par exemple, pour les événements et d’autre contenu nécessitant l’heure, l’heure sera affichée comme (heure) h (minutes) (p. ex., 18 h ou 3 h 30). Pour les références temporelles que l’on retrouve dans les publications, l’heure peut être écrite (c’est-à-dire, il y a 4 minutes, il y a une semaine) jusqu’à (x) après que le contenu ait été affiché. 
  
 ## Unités de mesure
 Les unités de mesure dans le système utiliseront toujours le système métrique.
