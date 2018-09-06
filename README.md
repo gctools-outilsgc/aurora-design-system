@@ -1,6 +1,5 @@
 # Introduction
 
-## GCDigital Design System
 
 ### Key Links
 
@@ -10,103 +9,79 @@ Read about the goals of GCTools at [GCTools](http://intranet.canada.ca/ict-oci/i
 
 Kanban Planning \(requires login\): [Zube](https://zube.io/tbs-sct/design-system/w/main-workspace/kanban%20)
 
-### Preface
+### Introduction
 
-The Digital Collaboration Division \(GCTools\) is building a design system to standardize the visual language and user experience of our digital collaboration tools. The system will encompass visual elements, user interface components, branding and writing guidelines.
+We created Aurora design system to standardize the visual language and user experience of the Digital Collaboration Division’s (GCTools) online applications and tools. 
 
-This project is happening parallel to the rebuild of our digital products, including moving our suite of tools to a micro-service architecture. These projects will inform each other and work together to update the developmental framework, user interface and design of our tools.
+Aurora was built by a multi-disciplinary team of developers, designers, UX researchers, writers and data scientists. Combining the expertise of all of these roles allowed us to create a design system with a wide range of elements. 
 
-The design system project was started by the Digital Collaboration Division \(GCTools\) in collaboration with with multiple teams and departments:
+Work for Aurora was done entirely in the open. We wanted to keep the spirit of government, while providing the quality and fun seen in the private sector. 
 
-* Canadian Digital Service
-* Immigration, Refugees and Citizenship Canada, 
-* Treasury Board Secretariat: Web Experience Toolkit and Canada.ca
-* Talent Cloud, and
-* other partners across the Government of Canada and externally
+Using Aurora is complementary to the Web Experience Toolkit (WET), Canada.ca Style Guide, the Federal Identity Policy (FiP) and WCAG 2.1.
+
+Aurora is available for anyone who wants to use it!
 
 ### What is a design system?
 
-A design system is a catalogue of everything that makes up your digital product including user interface elements, writing style, guiding principles, coding standards, visual design, etc. The system provides information about your product or set of products, and reusable components for easy development.
-
-Building a design system is a collaborative effort, and requires expertise across all fields of web and application design. A design system takes into account all aspects of the product and encompasses all levels of the user’s and the creator’s experience.
+A design system is a catalogue of everything that makes up your digital product including user interface elements, writing style, guiding principles, coding standards, visual design, etc. using reusable components for easy development.
 
 ### How to use
 
-Our design system includes a resources section and user interface \(UI\) kit. Here you can download Photoshop, Illustrator and Adobe XD files. We will also have all of our code for each element available.
+Every element in Aurora design system has a design component, code and documentation. By downloading our UI kit (for Adobe Illustrator) you have access to all of the components sketches in addition to the code provided on the site. 
 
-Some files include specific assets or typefaces, others are full layouts, grids and prototypes.
+We recommend that while building a new product you begin by following the system as closely as possible, then you can adapt certain elements (i.e. colours, language style, icons) to suit your own product or brand.
 
 ### Who can use this design system?
 
-The \#GCDigital design system is open for anyone to use! It was originally created to help guide digital collaboration tools used within the Government of Canada, but the system can be adapted to create citizen-focused services or external digital products.
+Aurora design system is open for anyone to use! It was originally created to help guide digital collaboration tools used within the Government of Canada, but the system can be adapted to create citizen-focused services or external digital products.
 
-The design system is a guide. Our team follows it closely for our products but many elements can be adapted for your own brand or product - only use the parts that are useful to you!
+### How to Contribute
 
-We recommend that while building a new product you begin by following the system as closely as possible, then you can adapt certain elements \(i.e. colours, language style, icons\) to suit your own product or brand.
+You can help us with the ongoing development of Aurora design system by contributing to our GitHub repository!
 
-### Why did you create the \#GCDigital design system?
-
-* Consistency across applications and platforms, particularly taking into consideration the rebuild of the GCTools or other digital collaboration services. 
-* Partnership opportunities with interested communities, including the Canadian Digital Service, Talent Cloud, other teams in CIOB, and the design team at IRCC. 
-* Saves development and design time since components are reusable and effectively organized. Would complement the agile development process by removing the need for multiple design and UI iterations.  
-* Specifications for designing new features are determined right from the start, so more time can be spent on business and complex decisions. Less focus on repetitive design problems throughout the process of new development. 
-* Ability to stay current with external design and technology trends, especially with rapid change in the industry. 
-
-## How to Contribute
-
-When contributing, post comments and discuss changes you wish to make via Issues.
+You can post comments with design or content suggestions via GitHub Issues. 
 
 Feel free to propose changes by creating Pull Requests. If you don't have write access, editing a file will create a Fork of this project for you to save your proposed changes to. Submitting a change to a file will write it to a new Branch in your Fork, so you can send a Pull Request.
 
-If this is your first time contributing on GitHub, don't worry! Let us know if you have any questions.
+If this is your first time contributing on GitHub, don't worry! You can learn how to use GitHub with their [help documentation](https://help.github.com/). 
 
-## Systeme de conception de GC numerique
+
+## Système de conception Aurora
 
 ### Introduction
+Nous avons créé le système de conception Aurora afin de normaliser le langage visuel et l’expérience-utilisateur des applications et des outils (OutilsGC) créés par la Division de la collaboration numérique. 
 
-\(french text needed here\)
+Le système Aurora a été créé par une équipe multidisciplinaire composée de concepteurs, de chercheurs EU, de rédacteurs et de scientifiques des données. En combinant l’expertise de tous ces rôles, nous en sommes arrivés à un système de conception doté d’une vaste gamme d’éléments. 
 
-Le système de conception \#GCnumérique est le fruit d’un partenariat entre divers concepteurs, développeurs et rédacteurs du gouvernement du Canada:
+Le travail que nous avons effectué dans le cadre d’Aurora a été réalisé entièrement à partir d’un environnement ouvert. Nous tenions à respecter l’esprit du gouvernement, tout en y apportant la qualité et le plaisir que l’on retrouve dans le secteur privée. 
 
-* le Service numérique canadien 
-* Immigration, Réfugiés et Citoyenneté Canada 
-* le Nuage de talents, 
-* Le Conseil du Secretariat du Tresor: Canada.ca et OneGC
-* d’autres employés du gouvernement du Canada et externe.
+Le système Aurora est maintenant disponible pour quiconque souhaite l’utiliser! 
 
 ### Qu’est-ce qu’un système de conception?
 
-Un système de conception est un catalogue de tout ce qui constitue votre produit numérique, y compris les éléments de l’interface utilisateur, le style d’écriture, les principes directeurs, les normes de codage, le design visuel, etc. Le système fournit des renseignements sur votre produit ou ensemble de produits, ainsi que les composants réutilisables qui facilitent le développement.
+Un système de conception, c’est un catalogue de tout ce qui constitue votre produit numérique, y compris les éléments de l’interface-utilisateur, le style de rédaction, les principes directeurs, les normes de codage, la conception visuelle, etc., tout en se servant de composantes réutilisables qui viennent en faciliter l’élaboration. 
 
-La création d’un système de conception repose sur un effort de collaboration exigeant une expertise dans tous les domaines liés au Web et la conception d’applications. Un système de conception tient compte de tous les aspects d’un produit et englobe tous les niveaux d’expérience de l’utilisateur et du créateur
+### Comment s’en servir
 
-### Comment utiliser
+Chaque élément du système de conception Aurora est doté d’une composante de conception, d’un code, de même que d’une documentation connexe. En téléchargeant notre trousse UI (pour Adobe Illustrator), vous aurez accès à toutes les conceptions de composantes, de même qu’au code qui est fourni à partir du site Web. 
 
-Notre système de conception comprend une section de ressources et une trousse d’interface utilisateur \(IU\) et vous pouvez télécharger Photoshop, Illustrator et Adobe XD.
+Lorsque vous élaborez un nouveau produit, nous vous recommandons d’utiliser le système le plus fidèlement possible et d’adapter certains éléments de votre produit ou de votre marque par la suite (couleurs, style linguistique, icônes).
 
-Certains fichiers comprennent des ressources ou des polices de caractères particulières tandis que d’autres sont des mises en page complètes, des grilles et des prototypes.
 
-### Qui peut utiliser le système de conception \#GCnumérique?
+### Qui peut se servir de ce système de conception?
 
-Le système de conception \#GCnumérique est ouvert à tous! Conçu au départ pour aider à orienter les outils de collaboration sur le numérique utilisés au sein du gouvernement du Canada, il peut être adapté pour créer des services axés sur les citoyens ou des produits numériques externes.
+N’importe qui peut se servir du système de conception Aurora! Au départ, il a été conçu de façon à appuyer la conception d’outils de collaboration numériques au sein du gouvernement du Canada, mais ce système peut également être adapté de façon à créer des services axés sur les citoyens ou des produits numériques externes.
 
-Le système de conception est un guide. Notre équipe l’utilise pour effectuer un suivi serré de nos produits, mais de nombreux éléments peuvent être adaptés à votre propre marque ou produit — n’utilisez que les éléments qui vous sont utiles!
+### Comment y contribuer
 
-Lorsque vous élaborez un nouveau produit, nous vous recommandons d’utiliser le système le plus fidèlement possible et d’adapter ensuite certains éléments \(couleurs, style linguistique, icônes\) à votre propre produit ou marque.
+En contribuant au répertoire GitHub, vous nous aidez à assurer l’élaboration soutenue du système de conception Aurora!
 
-### Pourquoi avez-vous créé le système de conception \#GCnumérique?
+Vous pouvez également publier des commentaires sur la conception ou apporter des suggestions quant au contenu, par l’entremise de l’option des enjeux de GitHub (GitHub Issues).
 
-* Permet d’assurer la cohérence entre les applications et les plates-formes, notamment en tenant compte de la reconstruction des OutilsGC et d’autres services de collaboration sur le numérique.
-* Crée des possibilités de partenariat avec les collectivités intéressées, tant à l’intérieur qu’à l’extérieur du gouvernement du Canada.
-* Permet de gagner du temps aux étapes du développement et de la conception, car les composantes sont réutilisables et organisées efficacement. Ces systèmes complètent le processus de développement agile en éliminant la nécessité de produire de multiples itérations de conception et d’interface utilisateur.
-* Les caractéristiques de la conception de nouvelles fonctionnalités sont définies dès le début, ce qui permet de consacrer plus de temps aux affaires et à la prise de décisions complexes. Par conséquent, les problèmes de conception répétitifs exigent moins d’attention pendant l’ensemble du processus de développement de nouveaux produits.
-* Permet de se tenir au courant des tendances externes dans le domaine de la conception et de la technologie, en particulier en fonction de l’évolution rapide de l’industrie.
+N'hésitez pas à proposer des modifications en créant des demandes de tirage (Pull Requests). Si vous n'avez pas accès au mode de rédaction, la modification d'un fichier créera une copie (Fork) de ce projet, vous permettant ainsi d’enregistrer les modifications que vous proposez. Le fait de proposer une modification à un fichier viendra l’ajouter à un nouvel embranchement (Branch) de votre copie (Fork), vous permettant ainsi d’envoyer une demande de tirage (Pull Request).
 
-## Comment contribuer
+Si c'est la première fois que vous contribuez à Github, ne vous en faites pas! Vous pouvez en apprendre davantage grâce à la [documentation d’aide](https://help.github.com/) de Github! (En anglais seulement.)
 
-Lorsque vous contribuez, veuillez également publier des commentaires et discuter des modifications que vous souhaitez apporter par l'entremise des enjeux \(Issues\).
 
-N'hésitez pas à proposer des modifications en créant des demandes de tirage \(Pull Requests\). Si vous n'avez pas accès au mode de rédaction, la modification d'un fichier créera une copie \(Fork\) de ce projet afin que vous puissiez enregistrer les modifications que vous proposez. Le fait de proposer une modification à un fichier l'écrira dans une nouvelle branche dans votre copie \(Fork\), de sorte que vous puissiez envoyer une demande de tirage \(Pull Request\).
 
-Si c'est la première fois que vous contribuez à GitHub, ne vous en faites pas! Faites-nous part de vos questions.
 
