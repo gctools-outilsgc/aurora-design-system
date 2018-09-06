@@ -1,14 +1,5 @@
 # Aurora design system
 
-
-### Key Links
-
-Learn more about this project on our [GCDigital Design System](https://wiki.gccollab.ca/GCDigital_design_system) wiki page!
-
-Read about the goals of GCTools at [GCTools](http://intranet.canada.ca/ict-oci/index-eng.asp)
-
-Kanban Planning \(requires login\): [Zube](https://zube.io/tbs-sct/design-system/w/main-workspace/kanban%20)
-
 ## Introduction
 
 We created Aurora design system to standardize the visual language and user experience of the Digital Collaboration Division’s (GCTools) online applications and tools. 
