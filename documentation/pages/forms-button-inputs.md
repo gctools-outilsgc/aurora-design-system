@@ -84,6 +84,6 @@ Switches have four different states:
 
 ## Action Buttons
 
-Buttons in forms should clearly state the result of pressing the button. Especially in forms, the button should include some form of animation or validation to let the user know their action has been recieved \(i.e. a confirmation that the form has been submitted, saved, or cancelled\).
+Buttons in forms should clearly state the result of pressing the button. Especially in forms, the button should include some form of animation or validation to let the user know their action has been received \(i.e. a confirmation that the form has been submitted, saved, or cancelled\).
 
 For more information see the [Buttons](https://www.gitbook.com/book/gctools-outilsgc/-gcdigital-design-system/edit#/edit/master/buttons.md?_k=1dnju1) section
