@@ -33,7 +33,7 @@ How labels are written affects their legibility. Do not write labels in all caps
 
 ## Placeholder Text
 
-*Placeholder text is used only to provide supplemental information or additional guidance on how to complete a text field. Placeholder text DOES NOT replace a label or microcopy. Placeholder text should only be used if an example of a text input improves the user experience, rather than as a replacement to other important information indicators. 
+*Placeholder text is used only to provide supplemental information or additional guidance on how to complete a text field. Placeholder text DOES NOT replace a label or microcopy. Placeholder text should only be used if an example of a text input improves the user experience, rather than as a replacement for other important information indicators. 
 
 Placeholder text is text that appears directly in the input field. This text is not meant to be used as a label, but can provide supplemental information or an example for the user.
 
@@ -75,7 +75,7 @@ To help users better understand a form, it may be useful to group inputs into ca
 ## Step Indicators
 If possible, it is recommended to limit forms to one page. If a form has more than one page, use a step indicator. 
 
-If a form has more than one page, it is recommended to provide the user with a visual representation of progression so that they are aware of their level of completetion. Styling for step indicators is written in its own section of this documentation. 
+If a form has more than one page, it is recommended to provide the user with a visual representation of progression so that they are aware of their level of completion. Styling for step indicators is written in its own section of this documentation. 
 
 *step indicator component*
 
