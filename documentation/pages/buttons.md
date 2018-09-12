@@ -4,7 +4,7 @@
 
 ## Best Practices
 
-Buttons tend to have visual prominence on any given page or window. Primary buttons, buttons that indicate a call to action, are the most prominent. Secondary buttons, which indicate less commonly used actions, should be less prominent than primary buttons. Buttons always indicate an action and are not to be used for navigation. Buttons are placed where a user should expect them, i.e. in close proximity to the other elements that the action affects.
+Buttons tend to have visual prominence on any given page or window. Primary buttons, buttons that indicate a call to action, are the most prominent. Secondary buttons, which indicate less commonly used actions, should be less prominent than primary buttons. Buttons always indicate an action and are not to be used for navigation. Buttons are placed where a user should expect them, i.e. in close proximity to the other elements that the action effects.
 
 ## Size and Padding
 
@@ -42,7 +42,7 @@ Buttons should include normal, hover, focus, active and disabled states:
 
 ## Primary Buttons
 
-Primary buttons identify a call to action. Use these buttons for actions that a user is encouraged to take, such as: Add a blog post, Send message, or Login. Try to keep button labels limited to one or two words.
+Primary buttons identify a call to action. Use these buttons for actions that a user is encouraged to take, such as: Add a blog post, Send message, or Log in. Try to keep button labels limited to one or two words.
 
 Primary buttons are designed to have high contrast against the background and the heaviest visual weight. They typically use brighter colours than other elements on the form or layout, and are located in a visible and accessible area of the page. 
 
@@ -106,13 +106,13 @@ Secondary buttons are usually in close proximity to the primary button, but not 
 
 ## Drop-Down Buttons
 
-Drop down buttons display a list of items when clicked. They are used for two-step processes that may require more specific options for a singular action.
+Drop-down buttons display a list of items when clicked. They are used for two-step processes that may require more specific options for a singular action.
 
-*Regular drop down button component*
+*Regular drop-down button component*
 
 **Regular State:** Similar to the primary button, drop-down buttons use the primary colour at 100% opacity, white text, with a border radius of 4px and padding of 15px. The drop-down arrow represents a space of 30px by 40px, which is separated from the primary button using a white line. The arrow uses a space of 15px width and 8px in height.
 
-*Hover drop down button components*
+*Hover drop-down button components*
 
 **Hover States:** Similar to the primary button, drop-down buttons use the primary colour at 100% opacity, white text, with a border radius of 4px and padding of 15px. The drop-down arrow represents a space of 30px by 40px, which is separated from the primary button using a white line. The arrow uses a space of 15px width and 8px in height. Whichever piece of the button \(primary or drop-down section\) is being hovered over is shown at 80% opacity.
 
@@ -120,7 +120,7 @@ Drop down buttons display a list of items when clicked. They are used for two-st
 
 **Focus State:** Similar to the primary button, drop-down buttons use the primary colour at 100% opacity, white text, with a border radius of 4px and padding of 15px. The drop-down arrow represents a space of 30px by 40px, which is separated from the primary button using a white line. The arrow uses a space of 15px width and 8px in height. Whichever piece of the button \(primary or drop-down section\) is being focused on is shown at 80% opacity and includes a stroke of 3px in the primary colour.
 
-*Pressed drop down button component*
+*Pressed drop-down button component*
 
 **Pressed State:** When the drop-down arrow is pressed, this arrow section of the button is displayed at 80% opacity and a drop-down menu is displayed below. The action box uses a 1px border using \#CECECE. The box has a border radius of 4px. The width of the box is 166px, and the height depends on the number of actions, using 40px per action. On hover, the 40px around the action is displayed using \#CECECE
 
