@@ -8,7 +8,7 @@ description: >-
 
 **Accordions** are vertically stacked menus, with content nested in headers. Clicking a header either shows or hides content. Using accordions reduces scrolling, and makes the task of reading a page less daunting for the user as they can more easily locate the content they want to find.
 
-**Drawers** are menus that slide in and out from the side of the screen and show the site’s main navigation menu. The main purpose of drawers are navigation. Using drawers helps users complete tasks faster by organizing top-level tasks into hierarchical lists and grouping related items together. Placing navigation options within drawers allows users to focus on the main content of the page without being distracted or overwhelmed by too many options.
+**Drawers** are menus that slide in and out from the side of the screen and show the site’s main navigation menu. The main purpose of drawers is navigation. Using drawers helps users complete tasks faster by organizing top-level tasks into hierarchical lists and grouping related items together. Placing navigation options within drawers allows users to focus on the main content of the page without being distracted or overwhelmed by too many options.
 
 ## Best Practices
 
