@@ -8,7 +8,7 @@ Buttons tend to have visual prominence on any given page or window. Primary butt
 
 ## Size and Padding
 
-Buttons used in this design system have a minimum size of 30px by 30px. This is the typical size of a user's finger pad when using the application on mobile. For web this minimum size is also consistent.
+Buttons used in this design system have a minimum size of 30px by 30px. This is the typical size of a user's finger pad when using the application on mobile. For web, this minimum size is also consistent.
 
 The more white-space, padding, around a button, the more prominent the button appears on the page. Most buttons in this system use 15px of padding, unless are otherwise indicated.
 
@@ -44,11 +44,11 @@ Buttons should include normal, hover, focus, active and disabled states:
 
 Primary buttons identify a call to action. Use these buttons for actions that a user is encouraged to take, such as: Add a blog post, Send message, or Log in. Try to keep button labels limited to one or two words.
 
-Primary buttons are designed to have high contrast against the background and the heaviest visual weight. They typically use brighter colours than other elements on the form or layout, and are located in a visible and accessible area of the page. 
+Primary buttons are designed to have high contrast against the background and the heaviest visual weight. They typically use brighter colours than other elements on the form or layout and are located in a visible and accessible area of the page. 
 
 Primary buttons use the primary colour, with white text. Sizing of the button depends on the length of the _**action words**_.
 
-Each of the states for primary buttons are as follows:
+Each of the states for primary buttons is as follows:
 
 *Regular button component here*
 
@@ -82,7 +82,7 @@ For permanent destructive secondary actions, such as Delete, clicking the button
 
 Secondary buttons in this system are transparent with a stroke colour. Text changes colour depending on the button state. Sizing of the button depends on the length of the _**action words**_.
 
-Each of the states for secondary buttons are as follows:
+Each of the states for secondary buttons is as follows:
 
 *Regular secondary button component*
 
@@ -126,7 +126,7 @@ Drop-down buttons display a list of items when clicked. They are used for two-st
 
 ## Button Groups
 
-Button groups, are a stylized way of putting multiple buttons together.
+Button groups are a stylized way of putting multiple buttons together.
 
 Primary actions are aligned to the left, while secondary actions are placed in the middle, and warning or destructive actions are aligned to the right.
 
