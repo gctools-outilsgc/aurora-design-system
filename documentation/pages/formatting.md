@@ -4,7 +4,7 @@
 
 All capitalization in the system uses sentence case. Titles, buttons, navigation etc. all use sentence case capitalization, which means only the first letter of the first word is capitalized. Always capitalize the first letter of proper nouns. Table headings and page titles should use headline style, which means the first letter of each word (with the exception of and, but, the) are capitalized. 
 
-Acronyms and abbreviations should be avoided. Write out acronyms and abbreviations whenever pussible. Acronyms should only be used if  the acronym is more commonly understood than the full name (i.e. NATO)
+Acronyms and abbreviations should be avoided. Write out acronyms and abbreviations whenever possible. Acronyms should only be used if  the acronym is more commonly understood than the full name (i.e. NATO)
 
 Acronyms and abbreviations should always be capitalized. Acronyms do not require a period after each letter. 
 
@@ -24,7 +24,7 @@ If required, province, territories should be included using their shortened form
 
 ## Time
 
-Time in this system is formatted using the 12-hour clock. For events and other content requiring time time will be displayed as hour:minutes (e.g. 6:00 p.m. or 3:00 a.m.) For timestamps on posts, time can be spelled out  (i.e. 4 minutes ago, one week ago) until (x) after the content has been posted.  
+Time in this system is formatted using the 12-hour clock. For events and other content requiring time will be displayed as hour:minutes (e.g. 6:00 p.m. or 3:00 a.m.) For timestamps on posts, time can be spelled out  (i.e. 4 minutes ago, one week ago) until (x) after the content has been posted.  
 
 ## Units of Measurement
 
