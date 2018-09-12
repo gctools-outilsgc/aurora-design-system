@@ -1,6 +1,6 @@
 # Data: Tables
 
-Data tables are used to show a large amount of discreet data with multiple categories. Data can be filtered and ordered using a data table. For any data visualization, the table with raw data should accompany it. Tables are the simplest and most accessible way to display data, and provide specific information about each data set. Tables allow the user to reference individual values, while visualizations are better able to represent trends derived from these values. 
+Data tables are used to show a large amount of discrete data with multiple categories. Data can be filtered and ordered using a data table. For any data visualization, the table with raw data should accompany it. Tables are the simplest and most accessible way to display data, and provide specific information about each data set. Tables allow the user to reference individual values, while visualizations are better able to represent trends derived from these values. 
 
 Tables should always include brief but informative titles. 
 
@@ -16,9 +16,9 @@ Simple tables are styled as follows:
 
 Title: Each table has a title that uses heading 3 (Rubik Medium at 24px with a 10pt tracking modifier). The table is placed 13px below the title. The table is the width of its container and the height depends on the data and how pagination is handled on the table. 
 
-Header Row: Table headers are displayed in heading 6 (Nunito Sans Bold at 16px) and are left aligned. The header has a padding of 21px (top and bottom) and 27px (left). The heading row has a bottom border of 2px using the colour (#96a8b2) 
+Header Row: Table headers are displayed in heading 6 (Nunito Sans Bold at 16px) and is left aligned. The header has a padding of 21px (top and bottom) and 27px (left). The heading row has a bottom border of 2px using the colour (#96a8b2) 
 
-Table Cell: Table cell information is displayed using regular text style (Nunito Sans Regular at 16px) and are left aligned. The text has a padding of 21px by 27px. The heading row has a bottom border of 2px using the colour (#96a8b2). Each row has a bottom border of 1px using the colour (#96a8b2) 
+Table Cell: Table cell information is displayed using regular text style (Nunito Sans Regular at 16px) and is left aligned. The text has a padding of 21px by 27px. The heading row has a bottom border of 2px using the colour (#96a8b2). Each row has a bottom border of 1px using the colour (#96a8b2) 
 
 ## Striped Table
 
