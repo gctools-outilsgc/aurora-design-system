@@ -2,7 +2,7 @@
 
 ## Accessibility
 
-Accessibility is the practice of designing products that are usable to all users, regardless of ability or context of use. Different than usability, accessibility focuses on technical and visual aspects of a design that directly relate to its functionality for users of different ability levels. While intended to aid users with specific disabilities, considering accessibility of digital products provides benefits to all users. 
+Accessibility is the practice of designing products that are usable to all users, regardless of ability or context of use. Different than usability, accessibility focuses on technical and visual aspects of a design that directly relate to its functionality for users of different ability levels. While intended to aid users with specific disabilities, considering the accessibility of digital products provides benefits to all users. 
 
 ## Artificial Intelligence
 
@@ -18,7 +18,7 @@ Beta is a testing phase of a new system or digital product. The beta is an early
 
 ## Machine Learning
 
-Machine learning is a specific application of artificial intelligence. Machine learning uses statistical techniques that give a computer or device the ability to learn without a certain set of data. Machine learning refers to the construction of algorithmns that can learn from and make predictions about a given set of data. 
+Machine learning is a specific application of artificial intelligence. Machine learning uses statistical techniques that give a computer or device the ability to learn without a certain set of data. Machine learning refers to the construction of algorithms that can learn from and make predictions about a given set of data. 
 
 ## Minimum Viable Product (MVP)
 
@@ -44,7 +44,7 @@ User experience is the overall experience of using a product. It is a broader co
 
 ## Utility
 
-Utility refers to whether or not a product provides the features needed by definied users. If the product or system provides all the features required for users to meet their goals, it has a high level of utility. 
+Utility refers to whether or not a product provides the features needed by defined users. If the product or system provides all the features required for users to meet their goals, it has a high level of utility. 
 
 ## Wireframe
 
