@@ -2,7 +2,7 @@
 
 ## Input Errors
 
-Input errors should be displayed in such a way that it is clear to the user that they have made an error, and what and where that error is. To display errors in a form submission, use both error boxes and inline errors. For each error, copy used for both the error box and the inline error should be indentical. 
+Input errors should be displayed in such a way that it is clear to the user that they have made an error, and what and where that error is. To display errors in a form submission, use both error boxes and inline errors. For each error, copy used for both the error box and the inline error should be identical. 
 
 ## Error Boxes 
 
@@ -20,7 +20,7 @@ The box heading uses Heading 2 style, and the text uses the paragraph style. Err
 
 The input field border will be shown using the colour #923534. If there is an error on a button input, the label is displayed using this same colour. 
 
-Inline errors are displayed underneath the input field, and tell the user how to fix the error. Inline errors should be as succint as possible and are limited to one line that fits under the input field. 
+Inline errors are displayed underneath the input field, and tell the user how to fix the error. Inline errors should be as succinct as possible and are limited to one line that fits under the input field. 
 
 Inline errors are styled as follows:
 
