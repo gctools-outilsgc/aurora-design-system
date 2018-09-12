@@ -1,8 +1,8 @@
 # Data: Overview
 
-Data visualizations come in many forms, and are a visual means to represent a data set. The type of data visualization chosen should always be appropriate for the type of data used.
+Data visualizations come in many forms and are a visual means to represent a data set. The type of data visualization chosen should always be appropriate for the type of data used.
 
-Data visualizations should aim to represent and answer one question. The goal is to provide a brief overview of the data, and tell a visual story that makes sense to the user. Graphs should be used to visually represent datasets in ways that tables cannot. If the data is easy to understand without a visualization, usually the simplest option \(a table\) is best.
+Data visualizations should aim to represent and answer one question. The goal is to provide a brief overview of the data and tell a visual story that makes sense to the user. Graphs should be used to visually represent datasets in ways that tables cannot. If the data is easy to understand without a visualization, usually the simplest option \(a table\) is best.
 
 *webpage image
 
@@ -28,17 +28,17 @@ Graph and table titles in this design system use the typography style for [headi
 
 ### Axis Labelling
 
-Both the x and y-axes should always be labeled. Labels should be placed outside of the data area. Labels should use simple and clear language, and accurately represent the data being shown. Axis labels use the typographic style for[ heading 4](typography.md).
+Both the x and y-axes should always be labelled. Labels should be placed outside of the data area. Labels should use simple and clear language, and accurately represent the data being shown. Axis labels use the typographic style for[ heading 4](typography.md).
 
 For quantitative labels, the unit of measurement should be included in the label.
 
 ### Data Increments
 
-Qualitative data values should be labelled in a logical way, such as consecutive months. For quantitative values, they should be labelled using round numbers or decimals that fit the data range. Always include an additional increment greater than the datset. For quantitative values, axes should always start at 0.When using decimals, round to a maximum of two decimal points whenever possible.
+Qualitative data values should be labelled in a logical way, such as consecutive months. For quantitative values, they should be labelled using round numbers or decimals that fit the data range. Always include an additional increment greater than the dataset. For quantitative values, axes should always start at 0.When using decimals, round to a maximum of two decimal points whenever possible.
 
 In some visualizations with many axis points, skipping labels is an effective way to reduce visual clutter. Axis ticks should be separated with sufficient space to clearly read each label. Intervals between labels should always be consistent.
 
-On the x-axis, value labels should be centered to their corresponding tick mark. For y-axis labels, they should be left-aligned and kept above the y-axis lines. Long text labels should be rotated 45 degrees around an origin directly below their corresponding axis tick.
+On the x-axis, value labels should be centred on their corresponding tick mark. For y-axis labels, they should be left-aligned and kept above the y-axis lines. Long text labels should be rotated 45 degrees around an origin directly below their corresponding axis tick.
 
 ### Data Formats and Abbreviations
 
@@ -54,7 +54,7 @@ Some data formats should always use abbreviations:
 
 ## Colours and Textures
 
-Graphs and visualizations should always aim to use as little colour as possible. If multiple colours are required, they should be a complimentary palette that are both distinguishable when placed in close proximity. Colour choice should avoid bias \(i.e. red or green\) unless specifically related to the data \(i.e. a decrease or increase\). Any colour is acceptable for a visualization so long as it meets contrast requirements. 
+Graphs and visualizations should always aim to use as little colour as possible. If multiple colours are required, they should be a complimentary palette that is both distinguishable when placed in close proximity. Colour choice should avoid bias \(i.e. red or green\) unless specifically related to the data \(i.e. a decrease or increase\). Any colour is acceptable for a visualization so long as it meets contrast requirements. 
 
 For increased accessibility, it is also recommended to use textures in addition to colour differences, so that variables are easier to distinguish. 
 
