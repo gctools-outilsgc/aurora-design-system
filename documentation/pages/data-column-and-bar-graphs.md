@@ -6,7 +6,7 @@ Bar graphs should be used to represent direct comparisons. Numerical values shou
 
 Bars should be twice as wide as the space between them.
 
-In bar graphs each variable should consistently be represented using one colour. Negative bars should use the same colour but at 60% opacity. Multiple colours can be used if there is more than one variable, but each variable has its own col
+In bar graphs, each variable should consistently be represented using one colour. Negative bars should use the same colour but at 60% opacity. Multiple colours can be used if there is more than one variable, but each variable has its own col
 
 Graph bars should never have a rounded top. A straight line precisely shows where the bar ends. 
 
