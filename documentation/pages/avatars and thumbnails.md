@@ -8,15 +8,15 @@ Block images are separated from other elements on the page \(i.e. text\) and are
 
 ## Inline Image
 
-Inline images are aligned vertically with other elements on the page \(i.e. text\), and may be left or right aligned. Inline images only have specified padding for left and right borders. They flow along with text content, and the text will be wrapped around the remaining space around the image.
+Inline images are aligned vertically with other elements on the page \(i.e. text\) and may be left or right aligned. Inline images only have specified padding for left and right borders. They flow along with text content, and the text will be wrapped around the remaining space around the image.
 
-## Full Width Image
+## Full-Width Image
 
-Full-width images extend from one end of the content area to the other. Sometimes referred to as a hero image. 
+Full-width images extend from one end of the content area to the other. They are sometimes referred to as a hero image. 
 
 ## Avatars
 
-Avatars are square, small images used to identify users on the site or application. Avatars are often combined with the user's profile and other components such as cards, comments, and buttons.
+Avatars are square, small images used to identify users on the site or application. Avatars are often combined with the user's profile and other components such as cards, comments and buttons.
 
 As a default avatars use the [user SVG icon](https://fontawesome.com/icons/user?style=solid) from Font Awesome.
 
