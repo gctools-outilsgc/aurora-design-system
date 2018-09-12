@@ -4,7 +4,7 @@
 
 ## Best Practices
 
-Buttons tend to have visual prominence on any given page or window. Primary buttons, buttons that indicate a call to action, are the most prominent. Secondary buttons, which indicate less commonly used actions, should be less prominent than primary buttons. Buttons always indicate an action and are not to be used for navigation. Buttons are placed where a user should expect them, i.e. in close proximity to the other elements that the action effects.
+Buttons should have visual prominence on any given page or window. Primary buttons, buttons that indicate a call to action, are the most prominent. Secondary buttons, which indicate less commonly used actions, should be less prominent than primary buttons. Buttons always indicate an action and are not to be used for navigation. Buttons are placed where a user should expect them, i.e. in close proximity to the other elements that the action effects.
 
 ## Size and Padding
 
@@ -78,7 +78,7 @@ Secondary buttons are used for actions that are necessary to provide, but that u
 
 Secondary buttons, particularly ones used for destructive actions, should be designed in a way that deters users from clicking on it. This helps minimize mistakes.
 
-For permanent destructive secondary actions, such as Delete, clicking the button will prompt a dialog to confirm the action. Always give the user to confirm actions that cannot be reverted. 
+For permanent destructive secondary actions, such as Delete, clicking the button will prompt a dialogue to confirm the action. Always give the user to confirm actions that cannot be reverted. 
 
 Secondary buttons in this system are transparent with a stroke colour. Text changes colour depending on the button state. Sizing of the button depends on the length of the _**action words**_.
 
@@ -86,7 +86,7 @@ Each of the states for secondary buttons is as follows:
 
 *Regular secondary button component*
 
-**Regular state:** transparent with a 1px stroke using the  colour \#002D42, the text is written in the same colour. Border radius of 4px and padding of 15px.
+**Regular state:** transparent with a 1px stroke using the colour \#002D42, the text is written in the same colour. Border radius of 4px and padding of 15px.
 
 *Hover secondary button component*
 
