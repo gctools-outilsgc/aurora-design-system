@@ -20,7 +20,7 @@ We recommend that while building a new product you begin by following the system
 
 ## Are there other design systems that exist in the public sector?
 
-Although design systems are relatively new in the public sector, some government organisations have already been working on their own design systems.. For example, the Government of the United States of America released their Web Design Standards, Italy's Design Agency released Designers Italia and the Government of the United Kingdom is currently building their own web standards.
+Although design systems are relatively new in the public sector, some government organizations have already been working on their own design systems. For example, the Government of the United States of America released their Web Design Standards, Italy's Design Agency released Designers Italia and the Government of the United Kingdom is currently building their own web standards.
 
 In Canada all official websites use the Web Experience Toolkit which is a more rigid style guide than this system. The Canadian Digital Service is currently working on a Government of Canada UI kit.
 
