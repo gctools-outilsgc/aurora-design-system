@@ -10,7 +10,7 @@ Plain language is achieved through several techniques:
 
 * **Use the active voice.** Active voice means that the subject does the action, rather than the subject being acted upon. The active voice is closer to the way we talk, and is more dynamic and easy to read. Active voice typically follows the structure of - the subject (noun) action (verb) what/where (object). Example: The dog (subject/noun) fetched (action/verb) the ball (object). One good rule is to remember that things don't happen to people, people DO things. 
 
-* **Use words approiprate for the situtaion and user.** Write clearly using the simplest words which say what you mean. Only use jargon if you know that your reader will understand. Avoid buzzwords or words that only make sense to a very specific audience. 
+* **Use words appropriate for the situation and user.** Write clearly using the simplest words which say what you mean. Only use jargon if you know that your reader will understand. Avoid buzzwords or words that only make sense to a very specific audience. 
 
 * **Avoid nominalizations.** Nominalizations are abstract nouns formed from verbs. For example "discuss" (verb) vs. "discussion" (nominalization). Nominalizations make sentences passive, vague and harder to read. 
 
@@ -21,7 +21,7 @@ Plain language is achieved through several techniques:
 * **Write informative hyperlinks.** Tell users where they are going to land when they click the link. Avoid using hyperlinks with text such as "Click here" or, "on this page". Be clear in what content the reader will see when they click a link. Good link examples include "my new blog about leadership", or "the ATIP policy document". 
 
 ## Spelling
-All language and content in the system uses **Canadian** spelling. The [Canadian Press Stylebook](http://www.thecanadianpress.com/writing-guide/stylebook/) or [Canadian Press Caps and Spelling](http://www.thecanadianpress.com/writing-guide/caps-spelling/) is a good resource for spelling, grammar and writing style in the Canadian context. 
+All language and content in the system use **Canadian** spelling. The [Canadian Press Stylebook](http://www.thecanadianpress.com/writing-guide/stylebook/) or [Canadian Press Caps and Spelling](http://www.thecanadianpress.com/writing-guide/caps-spelling/) is a good resource for spelling, grammar and writing style in the Canadian context. 
 
 ## Addressing Users
 
@@ -29,7 +29,7 @@ Speak to users as if they are the main reader. Use pronouns such as "you" and yo
 
 ## Referring to product owners and the Government of Canada
 
-Generally you should refer to your department or business as “us” or “we” unless it is unclear who the subject is from context, or if the documentation is official or for legal purposes. Using first person pronouns makes your product seem more personable.
+Generally, you should refer to your department or business as “us” or “we” unless it is unclear who the subject is from context, or if the documentation is official or for legal purposes. Using first-person pronouns makes your product seem more personable.
 
 When referring to the Government of Canada and all departments within it, you typically should use the entire name of the department not the department’s acronym. Only use the acronym if the name appears previously in a single text and you have defined the acronym. 
 
