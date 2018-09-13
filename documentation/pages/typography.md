@@ -14,7 +14,7 @@ The Digital Collaboration Division uses two font families for all digital produc
 
 ### Font Choice
 
-Both fonts chosen for this design system enhance accessibility and readability. Sans-serif fonts have a simpler structure than serif and script fonts, so users with reading disabilities or visual impairments are able to more easily decipher characters.
+Both fonts are chosen for this design system to enhance accessibility and readability. Sans-serif fonts have a simpler structure than serif and script fonts, so users with reading disabilities or visual impairments are able to more easily decipher characters.
 
 If you choose to use fonts other than the ones listed here, it is recommended that your digital product use sans-serif rather than serif or script fonts.
 
@@ -32,7 +32,7 @@ Some systems may not be able to download or display the fonts in this design sys
 
 Titles appear only on the top of pages and indicate high-level navigation points.
 
-Titles are displayed using Rubik Light at 36 points  in the colour \#252525 on a light background or \#FFFFFF on a dark background.
+Titles are displayed using Rubik Light at 36 points in the colour \#252525 on a light background or \#FFFFFF on a dark background.
 
 **\(Add example image\)**
 
@@ -83,7 +83,7 @@ The ideal length for body text is around 40-60 characters. If line length is too
 
 Pull Quotes are used to indicate key phrases from the content displayed on the page \(i.e. in articles or blogs\). Pull quotes are integrated into paragraphs.
 
-Pull quotes are indented by 50px with a vertical line in the application's secondary colour. The line is 4px wide.  Padding between the line and the text is 8px.  The text is displayed using Nunito Sans Regular at 1.25 em,  with a line height of 200%.
+Pull quotes are indented by 50px with a vertical line in the application's secondary colour. The line is 4px wide. Padding between the line and the text is 8px. The text is displayed using Nunito Sans Regular at 1.25 em, with a line height of 200%.
 
 
 See [_Colour_](colour.md) for more information on choosing accessible colours for your pull quote lines.
