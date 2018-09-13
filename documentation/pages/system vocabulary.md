@@ -22,7 +22,7 @@
 **Download:** 
 
 1.  (v) A transmit a file to a personal computer from an application.
-2.  (n) A file that has been transitted to a personal computer.
+2.  (n) A file that has been transmitted to a personal computer.
 
 **Export:** (v) To download a file in a different file type.
 
@@ -34,7 +34,7 @@
 
 1.  (v) To show approval of another user's content by clicking the like button.
 
-2.  (n) The number of times users have clicked the like button on a peice of content.
+2.  (n) The number of times users have clicked the like button on a piece of content.
 
 **Log-in:** (v) To enter a username and password in order to enter the personal version of an application.
 
@@ -46,7 +46,7 @@
 
 **Member:** (n) A user who belongs to a group.
 
-**Mircoservice application:** (n) An application software that serves a single, specific function and exists within multifunctional applications.
+**Microservice application:** (n) An application software that serves a single, specific function and exists within multifunctional applications.
 
 **Newest:** (adj) The most recent content produced on or uploaded to the application.
 
@@ -70,7 +70,7 @@
 
 1.  (n) A label that is indexed which groups content.
 
-2.  (v) To put a label on a peice of content.
+2.  (v) To put a label on a piece of content.
 
 **Timestamp:** (n) A record of the time content was produced on or uploaded to the application.
 
@@ -84,7 +84,7 @@
 
 **Wiki:** (n) an application that allows users to collaboratively write and edit documentation.
 
-**the Wire:** (n) A mirco-blogging feature on the application.
+**the Wire:** (n) A micro-blogging feature on the application.
 
 ## Call-to-Actions
 
