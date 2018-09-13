@@ -6,7 +6,7 @@ Breadcrumbs allow users to quickly navigate among sections and categories within
 
 The breadcrumbs in this design system are location-based, which is a representation of the site's original architecture. Location-based breadcrumbs are less confusing and more usable than path-based breadcrumbs which would represent the user's history navigating a web page.
 
-Breadcrumbs should be complimentary to primary navigation and should never be used to replace overall navigation elements. Breadcrumbs are subtle and should not take visual prominence over the page. All items in the breadcrumb list should be links except for the last item.
+Breadcrumbs should be complementary to primary navigation and should never be used to replace overall navigation elements. Breadcrumbs are subtle and should not take visual prominence over the page. All items in the breadcrumb list should be links except for the last item.
 
 Breadcrumbs in this design system are as follows:
 
