@@ -12,9 +12,9 @@ If a link is bringing the user to an external web page, this should be indicated
 
 ## Link Styling
 
-Links should not exceed one line in length, and be applied to 2-4 key words rather than a full sentence or line.
+Links should not exceed one line in length and be applied to 2-4 keywords rather than a full sentence or line.
 
-Links should always include a hover state and a visited state, and should look different from the rest of the text. In this system, links are displayed as follows:
+Links should always include a hover state and a visited state and should look different from the rest of the text. In this system, links are displayed as follows:
 
 **Regular:** Nunitio Sans Regular at 16 points
 
@@ -23,6 +23,3 @@ Links should always include a hover state and a visited state, and should look d
 **Visited:** Nunitio Sans Regular at 16 points
 
 There are other colour options for visited links. Best practice for visited links is to use a muted version of your hyperlink colour, a secondary colour or the standard purple: \#551A8B.
-
-**\(Add example image\)**
-
