@@ -1,0 +1,24 @@
+{
+  "name": "design-system",
+  "version": "0.0.1",
+  "description": "A central design system for all Digital Collaboration Division products.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "markdownlint -i node_modules \"**/*.md\"",
+    "test": "npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gctools-outilsgc/design-system.git"
+  },
+  "author": "The Treasury Board of Canada",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/gctools-outilsgc/design-system/issues"
+  },
+  "homepage": "https://github.com/gctools-outilsgc/design-system#readme",
+  "devDependencies": {
+    "markdownlint-cli": "^0.13.0"
+  },
+  "dependencies": {}
+}
