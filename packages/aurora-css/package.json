@@ -1,7 +1,7 @@
 {
   "name": "@gctools-components/aurora-css",
   "version": "0.3.3",
-  "description": "[Aurora Design System](https://design.gccollab.ca/) CSS files only",
+  "description": "Aurora Design System CSS files only",
   "main": "css/aurora.min.css",
   "repository": {
     "type": "git",
