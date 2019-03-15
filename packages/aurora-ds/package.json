@@ -1,0 +1,27 @@
+{
+  "name": "@gctools-components/aurora-ds",
+  "version": "0.3.3",
+  "description": "Aurora Design System CSS/JS files",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gctools-outilsgc/aurora-design-system.git"
+  },
+  "files": [
+    "css",
+    "js"
+  ],
+  "keywords": [
+    "front-end",
+    "css",
+    "js",
+    "canada",
+    "gc",
+    "gctools"
+  ],
+  "author": "GCTools - Treasury Board of Canada Secretariat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gctools-outilsgc/aurora-design-system/issues"
+  },
+  "homepage": "https://design.gccollab.ca/"
+}

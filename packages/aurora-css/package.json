@@ -1,0 +1,26 @@
+{
+  "name": "@gctools-components/aurora-css",
+  "version": "0.3.3",
+  "description": "Aurora Design System CSS files only",
+  "main": "css/aurora.min.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gctools-outilsgc/aurora-design-system.git"
+  },
+  "files": [
+    "css"
+  ],
+  "keywords": [
+    "front-end",
+    "css",
+    "canada",
+    "gc",
+    "gctools"
+  ],
+  "author": "GCTools - Treasury Board of Canada Secretariat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gctools-outilsgc/aurora-design-system/issues"
+  },
+  "homepage": "https://design.gccollab.ca/"
+}
