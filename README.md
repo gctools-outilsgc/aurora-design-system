@@ -1,78 +1,93 @@
 # Aurora design system
-
 ## Introduction
+We created Aurora design system to standardize the visual language and user experience of the Digital Enablement’s (GCTools) online applications and tools.
 
-We created Aurora design system to standardize the visual language and user experience of the Digital Collaboration Division’s (GCTools) online applications and tools. 
+Aurora was built by a multi-disciplinary team of developers, designers, UX researchers, writers and data scientists. Combining the expertise of all of these roles allowed us to create a design system with a wide range of elements.
 
-Aurora was built by a multi-disciplinary team of developers, designers, UX researchers, writers and data scientists. Combining the expertise of all of these roles allowed us to create a design system with a wide range of elements. 
-
-Work for Aurora was done entirely in the open. We wanted to keep the spirit of government, while providing the quality and fun seen in the private sector. 
+Work for Aurora was done entirely in the open. We wanted to keep the spirit of government, while providing the quality and fun seen in the private sector.
 
 Using Aurora is complementary to the Web Experience Toolkit (WET), Canada.ca Style Guide, the Federal Identity Policy (FiP) and WCAG 2.1.
 
 Aurora is available for anyone who wants to use it!
 
-## What is a design system?
-
-A design system is a catalogue of everything that makes up your digital product including user interface elements, writing style, guiding principles, coding standards, visual design, etc. using reusable components for easy development.
-
 ## How to use
-
-Every element in Aurora design system has a design component, code and documentation. By downloading our UI kit (for Adobe Illustrator) you have access to all of the components sketches in addition to the code provided on the site. 
+Every element in Aurora design system has a design component, code and documentation. By downloading our UI kit (for Adobe Illustrator) you have access to all of the components sketches in addition to the code provided on the site.
 
 We recommend that while building a new product you begin by following the system as closely as possible, then you can adapt certain elements (i.e. colours, language style, icons) to suit your own product or brand.
 
-## Who can use this design system?
+## Packages 
+Aurora-css
+A NPM component for Aurora Design System CSS.
+Installation:
 
-Aurora design system is open for anyone to use! It was originally created to help guide digital collaboration tools used within the Government of Canada, but the system can be adapted to create citizen-focused services or external digital products.
+```$ npm install @gctools-components/aurora-css```
 
-## How to Contribute
+To use in your project enter the following.
 
-You can help us with the ongoing development of Aurora design system by contributing to our GitHub repository!
+```import '@gctools-components/aurora-css/css/aurora.min.css';```
 
-You can post comments with design or content suggestions via GitHub Issues. 
+aurora-ds
+A NPM component for Aurora Design System CSS and JS files.
+Installation: 
 
-Feel free to propose changes by creating Pull Requests. If you don't have write access, editing a file will create a Fork of this project for you to save your proposed changes to. Submitting a change to a file will write it to a new Branch in your Fork, so you can send a Pull Request.
+```$ npm install @gctools-components/aurora-ds```
 
-If this is your first time contributing on GitHub, don't worry! You can learn how to use GitHub with their [help documentation](https://help.github.com/). 
+To use in your project enter the following.
 
+```import '@gctools-components/aurora-ds/css/aurora.min.css';```
 
+## Design
+The design files folder includes Adobe Illustrator .ai files for the UI kit, the Aurora logo and the Aurora banner. 
+
+## Contributing
+This repository is for all Issues and comments related to the Aurora development packages, individual components and design files.  You can submit contributions related to Aurora components via Issues or Pull Requests in this repository. If you wish to contribute new components or designs, please contact [sierra.duffey@tbs-sct.gc.ca](mailto:sierra.duffey@tbs-sct.gc.ca)
+
+For Issues or feedback related to the Aurora documentation website, please refer to the [Aurora-website repository.](https://github.com/gctools-outilsgc/aurora-website) 
+
+----------------------------------------------------------------------------------------------------------------------------------------
 # Système de conception Aurora
-
 ## Introduction
-Nous avons créé le système de conception Aurora afin de normaliser le langage visuel et l’expérience-utilisateur des applications et des outils (OutilsGC) créés par la Division de la collaboration numérique. 
+Nous avons créé le système de conception Aurora pour normaliser le langage visuel et l’expérience utilisateur des applications et des outils en ligne de l’habilitation numérique (OutilsGC).
 
-Le système Aurora a été créé par une équipe multidisciplinaire composée de concepteurs, de chercheurs EU, de rédacteurs et de scientifiques des données. En combinant l’expertise de tous ces rôles, nous en sommes arrivés à un système de conception doté d’une vaste gamme d’éléments. 
+Aurora a été conçu par une équipe multidisciplinaire de développeurs, de concepteurs, de chercheurs sur l’expérience utilisateur, de rédacteurs et de scientifiques des données. La combinaison de l’expertise de toutes ces personnes nous a permis de créer un système de conception avec un vaste éventail d’éléments.
 
-Le travail que nous avons effectué dans le cadre d’Aurora a été réalisé entièrement à partir d’un environnement ouvert. Nous tenions à respecter l’esprit du gouvernement, tout en y apportant la qualité et le plaisir que l’on retrouve dans le secteur privée. 
+Le travail pour Aurora s’est fait entièrement dans l’environnement ouvert. Nous voulions garder l’esprit du gouvernement, tout en offrant la qualité et la convivialité caractéristiques du secteur privé.
 
-Le système Aurora est maintenant disponible pour quiconque souhaite l’utiliser! 
+L’utilisation d’Aurora est complémentaire à la Boîte à outils de l’expérience Web (BOEW), au Guide de rédaction canada.ca, à la Politique sur l’image de marque et aux WCAG 2.1.
 
-## Qu’est-ce qu’un système de conception?
+Aurora est disponible pour tous ceux qui veulent l’utiliser!
 
-Un système de conception, c’est un catalogue de tout ce qui constitue votre produit numérique, y compris les éléments de l’interface-utilisateur, le style de rédaction, les principes directeurs, les normes de codage, la conception visuelle, etc., tout en se servant de composantes réutilisables qui viennent en faciliter l’élaboration. 
+## Comment l’utiliser
+Chaque élément du système de conception Aurora a une composante de conception, un code et de la documentation. En téléchargeant notre trousse de l’IU (pour Adobe Illustrator), vous avez accès à toutes les esquisses des composants en plus du code fourni sur le site.
 
-## Comment s’en servir
+Lors de l’élaboration d’un nouveau produit, nous vous conseillons de commencer par suivre le système à la lettre, dans la mesure du possible, puis d’adapter certains éléments (p. ex., couleurs, niveau de langue, icônes) à votre produit ou à votre marque.
 
-Chaque élément du système de conception Aurora est doté d’une composante de conception, d’un code, de même que d’une documentation connexe. En téléchargeant notre trousse UI (pour Adobe Illustrator), vous aurez accès à toutes les conceptions de composantes, de même qu’au code qui est fourni à partir du site Web. 
+## Progiciels
+Aurora-css
+Une composante NPM pour le système de conception Aurora CSS.
+Installation :
 
-Lorsque vous élaborez un nouveau produit, nous vous recommandons d’utiliser le système le plus fidèlement possible et d’adapter certains éléments de votre produit ou de votre marque par la suite (couleurs, style linguistique, icônes).
+```$ npm install @gctools-components/aurora-css```
 
+Pour l’utiliser dans le cadre de votre projet, saisissez ce qui suit.
 
-## Qui peut se servir de ce système de conception?
+```import '@gctools-components/aurora-css/css/aurora.min.css';```
 
-N’importe qui peut se servir du système de conception Aurora! Au départ, il a été conçu de façon à appuyer la conception d’outils de collaboration numériques au sein du gouvernement du Canada, mais ce système peut également être adapté de façon à créer des services axés sur les citoyens ou des produits numériques externes.
+aurora-ds
+Une composante NPM pour les fichiers CSS et JS du  système de conception Aurora.
+Installation : 
 
-## Comment y contribuer
+```$ npm install @gctools-components/aurora-ds```
 
-En contribuant au répertoire GitHub, vous nous aidez à assurer l’élaboration soutenue du système de conception Aurora!
+Pour l’utiliser dans le cadre de votre projet, saisissez ce qui suit.
 
-Vous pouvez également publier des commentaires sur la conception ou apporter des suggestions quant au contenu, par l’entremise de l’option des enjeux de GitHub (GitHub Issues).
+```import '@gctools-components/aurora-ds/css/aurora.min.css';```
 
-N'hésitez pas à proposer des modifications en créant des demandes de tirage (Pull Requests). Si vous n'avez pas accès au mode de rédaction, la modification d'un fichier créera une copie (Fork) de ce projet, vous permettant ainsi d’enregistrer les modifications que vous proposez. Le fait de proposer une modification à un fichier viendra l’ajouter à un nouvel embranchement (Branch) de votre copie (Fork), vous permettant ainsi d’envoyer une demande de tirage (Pull Request).
+## Conception
+Le dossier des fichiers de conception comprend les fichiers Adobe Illustrator .ai pour la trousse d’IU, le logo Aurora et la bannière Aurora. 
 
-Si c'est la première fois que vous contribuez à Github, ne vous en faites pas! Vous pouvez en apprendre davantage grâce à la [documentation d’aide](https://help.github.com/) de Github! (En anglais seulement.)
+## Contribution
+Ce référentiel est destiné à toutes les questions et tous les commentaires liés aux progiciels de développement Aurora, aux éléments individuels et aux fichiers de conception.  Vous pouvez présenter des contributions liées aux composantes d’Aurora au moyen de Problèmes ou Demande de fusion de branches dans ce répertoire. Si vous souhaitez ajouter de nouvelles composantes ou de nouvelles conceptions, veuillez communiquer avec [sierra.duffey@tbs-sct.gc.ca](mailto:sierra.duffey@tbs-sct.gc.ca).
 
-
-
+Pour des questions ou des commentaires concernant le site Web de documentation Aurora, veuillez consulter le [référentiel du site Web Aurora.](https://github.com/gctools-outilsgc/aurora-website) 
 
