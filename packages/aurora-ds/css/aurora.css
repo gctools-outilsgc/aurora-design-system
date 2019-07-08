@@ -7233,7 +7233,6 @@ a.badge-dark.badge-tag:hover::after {
   border-top: none; }
 
 body {
-  padding-top: 100px;
   font-family: 'Nunito Sans', sans-serif; }
 
 .LanguageSwitcher__button--selected {
